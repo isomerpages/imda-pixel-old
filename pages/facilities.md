@@ -1,0 +1,4 @@
+---
+title: Facilities
+permalink: /facilities/
+---
