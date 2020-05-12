@@ -1,5 +1,5 @@
 ---
-title: UI/UX
+title: UI-UX
 permalink: /about/uiux/
 ---
 **Looking to transform the User Interface/User Experience (UI/UX) of your products and services?**
