@@ -26,7 +26,7 @@ sections:
         title: About PIXEL
         subtitle:
         description: <p style="line-height:1;">PIXEL is a 25,000 sqf innovation space at One North that provides the Infocomm and Media (ICM) industry with facilities, expertise and programmes to ideate, experiment and build customer-centric digital experiences for the future.</p>
-        button: <h3>Learn more</h3>
+        button: <h4>Learn more</h4>
         url: /faq/
     - resources:
         title: Join our Events
