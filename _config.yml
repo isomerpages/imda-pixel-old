@@ -1,6 +1,6 @@
 title: PIXEL
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/imda-logo.png
+favicon: /images/imda-logo.ico
 
 # Site colors
 colors:
