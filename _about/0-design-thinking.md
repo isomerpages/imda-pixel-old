@@ -14,7 +14,7 @@ To find out more, download the brochure [here](/files/PIXEL Brochure_Design Thin
 
 ---
 
-![2](https://github.com/isomerpages/imda-pixel/blob/staging/images/design-thinking/DT_Img2_770-x-430.png)
+![2](/images/design-thinking/DT_Img2_770-x-430.png)
 
 #### Digital Transformation Through Design Thinking
 
