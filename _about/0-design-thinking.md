@@ -2,6 +2,8 @@
 title: Design Thinking
 permalink: /about/design-thinking/
 ---
+![1](/images/design-thinking/DT_Img1_630-x-355.png)
+
 **Interested to learn what design thinking is about and how it can help you accelerate digital innovation and transformation?**
 
 <p align="justify">Design thinking is a human-centred and iterative approach to problem solving, and is increasingly used by leading organisations to make their digital transformation more customer-centric. PIXEL embraces the philosophy of empathy – starting with the customer and working backwards - in the development of great digital products, solutions and experiences.<br><br>
@@ -9,6 +11,8 @@ We offer interactive and hands-on workshops to help your company learn and apply
 Our support includes: (1) Workshops to help your company learn and apply design thinking in digital transformation and innovation projects, (2) Project-based coaching with an expert to have a practical and experiential understanding of Design Thinking principles and to help you to develop customer-centric digital products and services.</p>
        
 To find out more, download the brochure [here](/files/PIXEL Brochure_Design Thinking_Reading.pdf)
+
+![2](https://github.com/isomerpages/imda-pixel/blob/staging/images/design-thinking/DT_Img2_770-x-430.png)
 
 #### Digital Transformation Through Design Thinking
 
