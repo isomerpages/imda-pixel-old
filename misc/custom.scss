@@ -337,12 +337,12 @@ $desktop: 960px + (2 * $gap) !default;
 }
 p {
 	font-size: 1.6vw;
-		line-height: 0.5
+		line-height: -0.5
 	  }
 	  h1 {
 		  font-size: 4vw;
 			  line-height: 1.1;
-		  letter-spacing: 0.6px
+		  letter-spacing: 0.3px
 	  }
 	  h2 {
 		   font-size: 3.5vw;
