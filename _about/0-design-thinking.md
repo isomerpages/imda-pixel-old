@@ -12,6 +12,8 @@ Our support includes: (1) Workshops to help your company learn and apply design 
        
 To find out more, download the brochure [here](/files/PIXEL Brochure_Design Thinking_Reading.pdf)
 
+---
+
 ![2](https://github.com/isomerpages/imda-pixel/blob/staging/images/design-thinking/DT_Img2_770-x-430.png)
 
 #### Digital Transformation Through Design Thinking
