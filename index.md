@@ -1,15 +1,15 @@
 ---
 layout: homepage
-title: Isomer Site
+title: PIXEL
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
+        title: Customer-Centric Digital Experiences
+        subtitle: Tech X Media X Design
+        background: /images/homepage/Pixel banner.jpg
         button: Contact Us
         url: /contact-us/
         key_highlights:
@@ -23,10 +23,10 @@ sections:
               description: Page A is important too
               url: /privacy/
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
+        title: About PIXEL
+        subtitle:
+        description: PIXEL is a 25,000 sqf innovation space at One North that provides the Infocomm and Media (ICM) industry with facilities, expertise and programmes to ideate, experiment and build customer-centric digital experiences for the future.
+        button: Learn more
         url: /faq/
     - resources:
         title: Media
