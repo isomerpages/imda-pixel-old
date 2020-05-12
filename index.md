@@ -32,4 +32,7 @@ sections:
         title: Media
         subtitle: Learn more
         button: View More
+        
+careers-subtitle: 
+careers-description: 
 ---
