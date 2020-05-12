@@ -1,0 +1,17 @@
+- title: 
+  name: 
+  position:
+  # dept: 
+  story: Design Thinking
+  img: /images/homepage/DT_HomeBanner_312x-210.png
+  button-text: Learn more
+  button-url: /about/design-thinking/
+
+- title: 
+  name: 
+  position: 
+  # dept: 
+  story: User Interface/ User Experiences
+  img: /images/homepage/UI-UX_Banner_312-x-210.png
+  button-text: Learn more
+  button-url: https://imda-pixel-staging.netlify.app/about/uiux/
