@@ -2,31 +2,20 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: PIXEL
 locations:
   - title: Main Office
     address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+        - 10 Central Exchange Green
+        - Singapore 138649
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
+        time: 9.00am - 6.00pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    maps_link: https://goo.gl/maps/uYcJFhovrB2DSW8m8
 contacts:
   - title: General Enquiries & Feedback
     content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+    - email: enquiry@impixel.sg
+    - other: Fill up our contact form <i><a href="https://forms.cwp.gov.sg/venuerequest/FormNFJO7">here</a></i>
 ---
