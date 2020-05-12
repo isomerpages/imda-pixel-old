@@ -336,9 +336,11 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 p {
-	font-size: 1.4vw
+	font-size: 1.4vw;
+		line-height: 1.1
 	  }
 	  h1 {
 		  font-size: 3vw;
-			  line-height: 1.1
+			  line-height: 1.1;
+		  letter-spacing: 1px
 	  }
