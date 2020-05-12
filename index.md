@@ -29,9 +29,9 @@ sections:
         button: Learn more
         url: /faq/
     - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+        title: Join our Events
+        subtitle: Register now for our upcoming events
+        button: View all events
         
 careers-subtitle: 
 careers-description: 
