@@ -117,6 +117,9 @@ $desktop: 960px + (2 * $gap) !default;
 .has-text-primary {
 	color: $primary !important;
 }
+	  {
+		  font-size: 1.2vw
+	  }
 .has-text-secondary {
 	color: $secondary !important;
 }
@@ -260,6 +263,9 @@ $desktop: 960px + (2 * $gap) !default;
 		strong {
 			color: $secondary;
 		}
+	}
+	{
+		font-size: 1.2vw
 	}
 	blockquote {
 		border-left-color: $secondary;
