@@ -2,6 +2,9 @@
 title: Partners
 permalink: /community/partners/
 ---
+<style>
+.mySlides {display:none;}
+</style>
 <h2 class="w3-center">Manual Slideshow</h2>
 
 <div class="w3-content w3-display-container">
