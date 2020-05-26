@@ -26,5 +26,7 @@ A brief synopsis of what you intend to produce
 <ul>
   <li>Where you intend to shoot (e.g. production studios, functional kitchen, etc.)</li>
   <li>When you intend to shoot and the duration</li>
-  <li>On which platform will the content be published</li></ul>
-For those need advice on content creation projects, you can check out our list of mentors <a href="/community/mentorship-programme/">here</a>. </p>
+  <li>On which platform will the content be published</li>
+</ul>
+
+For those need advice on content creation projects, you can check out our list of mentors <a href="/community/mentorship-programme/">here</a>.</p>
