@@ -23,6 +23,8 @@ If you want to be mentored by games experts and get advice on how to develop a g
 
 If you are looking for a conducive environment to develop and showcase your games. PIXEL is the space for you. Just fill up the form <a href="https://forms.cwp.gov.sg/venuerequest/FormNFJO7" target="_blank">here</a> and we will get back to you soon!</p>
 
+<h3>FACILITIES AND EQUIPMENT</h3>
+
 <table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
        <tr width="600">
               <td width="200"><b>Incubation Suite</b></td>
