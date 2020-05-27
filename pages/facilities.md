@@ -44,3 +44,27 @@ Click [here](https://forms.cwp.gov.sg/venuerequest/FormNFJO7){:target="_blank"} 
               <td width="200"><img src="/images/facilities/facilities-and-equipment/User-Testing-Lab_630x355.png" width="200"></td>
        </tr>
        </table>
+       
+<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
+       <tr width="600">
+              <td width="200"><b>Ideation Room</b></td>
+              <td width="200"><b>Production Studios with Green Screen</b></td>
+              <td width="200"><b>Production Rooms (Video and Sound)</b></td>
+       </tr>
+       </table>
+       
+ <table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
+       <tr width="600">
+              <td width="200">Brainstorm for ideas in this conducive environment during your Design Thinking sessions.</td>
+              <td width="200">Get creative in the professional video production studio with facilities such as green screens, virtual video system, professional cameras and camera crane system.</td>
+              <td width="200">Record and edit your creative pieces at our video and sound production facilities filled with all the tools and software required for your project.</td>
+       </tr>
+       </table>
+       
+ <table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
+       <tr width="600">
+              <td width="200"><img src="/images/facilities/facilities-and-equipment/ideation2.jpg" width="200"></td>
+              <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8110-green-screen-2.jpg" width="200"></td>
+              <td width="200"><img src="/images/facilities/facilities-and-equipment/Production-Room_630-x-355.png" width="200"></td>
+       </tr>
+       </table>
