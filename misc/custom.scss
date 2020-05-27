@@ -365,6 +365,7 @@ p {
 			  line-height: 1.1;
 		  letter-spacing: 0.3px  
 	  }
-	 tr {
-		 border: 0px;
+	 table, tr {
+		 border-top: 0px;
+		 border-bottom: 0px;
 	  }
