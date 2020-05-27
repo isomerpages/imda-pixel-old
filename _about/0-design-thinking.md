@@ -29,17 +29,17 @@ Tap on PIXEL’s mentors who can coach and facilitate your innovation projects u
 <h1 style="font-color:black;">FACILITIES AND EQUIPMENT</h1>
 
 <table width="600" cellpadding="15px" cellspacing="0" align="center">
-       <tr width="600">
+       <tr width="600" border="0">
               <td width="200">Ideation Room</td>
               <td width="200">Usability Testing Lab</td>
               <td width="200">Fabrication Lab</td>
        </tr>
-       <tr width="600">
+       <tr width="600" border="0">
               <td width="200">Brainstorm for ideas in this conducive environment during your Design Thinking sessions</td>
               <td width="200">Test out your digital prototypes here to gather feedback from your users</td>
               <td width="200">Use the equipment such as 3D printers or laster available in the labs for rapid prototyping</td>
        </tr>
-       <tr width="600">
+       <tr width="600" border="0">
               <td width="200"><img src="/images/facilities/facilities-and-equipment/ideation2.jpg" width="200"></td>
               <td width="200"><img src="/images/facilities/facilities-and-equipment/User-Testing-Lab_630x355.png" width="200"></td>
               <td width="200"><img src="/images/facilities/facilities-and-equipment/Fabrication-Area_630-x-355.png" width="200"></td>
