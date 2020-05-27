@@ -114,8 +114,7 @@ Click [here](https://forms.cwp.gov.sg/venuerequest/FormNFJO7){:target="_blank"} 
   </table>
   <table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
        <tr width="600">
-              <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8129-discussion-hotdesk (1).jpg
-" width="200"></td>
+              <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8129-discussion-hotdesk (1).jpg" width="200"></td>
               <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8133-theme-mtg-room-2.jpg" width="200"></td>
               <td width="200"><img src="/images/facilities/facilities-and-equipment/lv1-kitchen.jpg" width="200"></td>
        </tr>
