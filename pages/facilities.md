@@ -119,3 +119,27 @@ Click [here](https://forms.cwp.gov.sg/venuerequest/FormNFJO7){:target="_blank"} 
               <td width="200"><img src="/images/facilities/facilities-and-equipment/lv1-kitchen.jpg" width="200"></td>
        </tr>
   </table>
+
+---
+
+<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
+   <tr width="600">
+              <td width="200"><b>Changing and Makeup Room</b></td>
+              <td width="200"><b>Seminar Room</b></td>
+              <td width="200"><b> </b></td>
+       </tr>
+  </table>
+  <table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
+       <tr width="600">
+              <td width="200">Come here for a change of attire, style your hair and refresh your makeup for your next video shoot.</td>
+              <td width="200">Attend mixer workshops, masterclasses or meetup sessions here in our seminar room.</td>
+              <td width="200"> </td>
+       </tr>
+  </table>
+  <table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
+       <tr width="600">
+              <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8084-makeup.jpg" width="200"></td>
+              <td width="200"><img src="/images/facilities/facilities-and-equipment/lv2-seminar-room-1.jpg" width="200"></td>
+              <td width="200"></td>
+       </tr>
+       </table>
