@@ -49,4 +49,19 @@ For those need advice on content creation projects, you can check out our list o
               <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8133-theme-mtg-room-2.jpg" width="200"></td>
               <td width="200"><img src="/images/facilities/facilities-and-equipment/Production-Room_630-x-355.png" width="200"></td>
        </tr>
+   <tr width="600">
+              <td width="200"><b>Functional Kitchen</b></td>
+              <td width="200"><b>Changing and Makeup Room</b></td>
+              <td width="200"><b> </b></td>
+       </tr>
+       <tr width="600">
+              <td width="200">Shoot cooking videos in our functional kitchen dressed up in three interchangeable themes - modern, country and Peranakan.</td>
+              <td width="200">Come here for a change of attire, style your hair and refresh your makeup for your next video shoot.</td>
+              <td width="200"> </td>
+       </tr>
+       <tr width="600">
+              <td width="200"><img src="/images/facilities/facilities-and-equipment/lv1-kitchen.jpg" width="200"></td>
+              <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8084-makeup.jpg" width="200"></td>
+              <td width="200"></td>
+       </tr>
        </table>
