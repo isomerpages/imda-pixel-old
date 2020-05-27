@@ -26,7 +26,7 @@ Keen on transforming the UI/UX of your digital products? Through PIXEL’s Proje
 
 Thinking of conducting usability testing on your prototype, website or mobile app? Usability testing involves observing real users as they attempt to complete given tasks. PIXEL’s Usability Testing Lab allows companies to organise usability testing interviews to gather quantitative and qualitative feedback on effectiveness, efficiency, and user satisfaction. Our facility is equipped with hardware such as cameras, screen-based and wearable eye-tracking equipment, galvanic skin response sensors, as well as software to collect and analyse data from the interviews. Enquire about or book the facilities/equipment via this <a href="https://forms.cwp.gov.sg/venuerequest/utl" target="_blank">link</a>
 
-<h3 style="color:black;">FACILITIES AND EQUIPMENT</h3>
+<h3>FACILITIES AND EQUIPMENT</h3>
 
 <table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
        <tr width="600">
