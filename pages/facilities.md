@@ -85,8 +85,7 @@ Click [here](https://forms.cwp.gov.sg/venuerequest/FormNFJO7){:target="_blank"} 
        <tr width="600">
               <td width="200">Get access to incubation space to develop innovative digital products and solutions at the nexus of tech and media or content.</td>
               <td width="200">Chill out with some of the latest console games or test your prototypes at this zone.</td>
-       </tr>
-       <td width="200">Connect with the community at our mixer workshops and meetups held at PIXEL</td>
+              <td width="200">Connect with the community at our mixer workshops and meetups held at PIXEL</td></tr>
   </table>
   
 <table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
@@ -96,3 +95,7 @@ Click [here](https://forms.cwp.gov.sg/venuerequest/FormNFJO7){:target="_blank"} 
               <td width="200"><img src="/images/facilities/facilities-and-equipment/lv1-stage.jpg" width="200"></td>
        </tr>
        </table>
+       
+---
+
+
