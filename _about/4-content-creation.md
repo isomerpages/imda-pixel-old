@@ -49,6 +49,7 @@ For those need advice on content creation projects, you can check out our list o
               <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8133-theme-mtg-room-2.jpg" width="200"></td>
               <td width="200"><img src="/images/facilities/facilities-and-equipment/Production-Room_630-x-355.png" width="200"></td>
        </tr>
+  <tr width="600" height="30"></tr>
    <tr width="600">
               <td width="200"><b>Functional Kitchen</b></td>
               <td width="200"><b>Changing and Makeup Room</b></td>
