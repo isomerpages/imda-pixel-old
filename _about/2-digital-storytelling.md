@@ -36,11 +36,15 @@ Looking to tell stories using immersive technology? Request to book our Immersiv
               <td width="200"><b>Production Studios with Green Screen</b></td>
               <td width="200"><b>Production Rooms (Video and Sound)</b></td>
        </tr>
+       </table>
+       <table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
        <tr width="600">
               <td width="200">Visit our Immersive Experience Lab to try out the different equipment available and explore how you may use these to develop a powerful immersive experience</td>
               <td width="200">Get creative in the professional video production studio with facilities such as green screens, virtual video system, professional cameras and camera crane system.</td>
               <td width="200">Record and edit your creative pieces at our video and sound production facilities filled with all the tools and software required for your project.</td>
        </tr>
+       </table>
+       <table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
        <tr width="600">
               <td width="200"><img src="/images/facilities/facilities-and-equipment/Immersive-Experiences-Lab_630-x-355.png" width="200"></td>
               <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8110-green-screen-2.jpg" width="200"></td>
