@@ -44,7 +44,9 @@ Click [here](https://forms.cwp.gov.sg/venuerequest/FormNFJO7){:target="_blank"} 
               <td width="200"><img src="/images/facilities/facilities-and-equipment/User-Testing-Lab_630x355.png" width="200"></td>
        </tr>
        </table>
-       
+
+---
+
 <table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
        <tr width="600">
               <td width="200"><b>Ideation Room</b></td>
@@ -66,5 +68,31 @@ Click [here](https://forms.cwp.gov.sg/venuerequest/FormNFJO7){:target="_blank"} 
               <td width="200"><img src="/images/facilities/facilities-and-equipment/ideation2.jpg" width="200"></td>
               <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8110-green-screen-2.jpg" width="200"></td>
               <td width="200"><img src="/images/facilities/facilities-and-equipment/Production-Room_630-x-355.png" width="200"></td>
+       </tr>
+       </table>
+       
+---
+
+<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
+       <tr width="600">
+              <td width="200"><b>Incubation Suite</b></td>
+              <td width="200"><b>Game Testing and Play Area</b></td>
+              <td width="200"><b>Common Area for Events</b></td>
+       </tr>
+  </table>
+
+<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center"> 
+       <tr width="600">
+              <td width="200">Get access to incubation space to develop innovative digital products and solutions at the nexus of tech and media or content.</td>
+              <td width="200">Chill out with some of the latest console games or test your prototypes at this zone.</td>
+       </tr>
+       <td width="200">Connect with the community at our mixer workshops and meetups held at PIXEL</td>
+  </table>
+  
+<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
+       <tr width="600">
+              <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8040-suite.jpg" width="200"></td>
+              <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8057-Playtest-area.jpg" width="200"></td>
+              <td width="200"><img src="/images/facilities/facilities-and-equipment/lv1-stage.jpg" width="200"></td>
        </tr>
        </table>
