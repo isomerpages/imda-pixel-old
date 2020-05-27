@@ -25,3 +25,6 @@ Keen on developing more customer-centric digital products and services through D
 Stand to benefit from this through a simple 3 step application process: 
        <br><br><b>(i)</b> Share an Executive Summary of the project with us via this <a href="https://forms.cwp.gov.sg/venuerequest/Form0R6RA" target="_blank">link</a>. <br><br><b>(ii)</b> Meet with us/the consultant to scope deliverables & duration (iii) Submit an Application Form and commence project when approved. All projects will be evaluated based on its innovation, scalability, the commitment to project (team, funding, relevance to core business), and capability building it brings to the organisation.<br><br>
 Tap on PIXEL’s mentors who can coach and facilitate your innovation projects using a design thinking approach. Check out the list of experts and apply to be mentored <a href="/community/mentorship-programme/">here</a>.</p>
+
+<h1 style="font-color:black;">FACILITIES AND EQUIPMENT</h1>
+
