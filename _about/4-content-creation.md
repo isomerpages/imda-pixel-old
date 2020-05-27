@@ -30,3 +30,23 @@ A brief synopsis of what you intend to produce
 </ul>
 
 For those need advice on content creation projects, you can check out our list of mentors <a href="/community/mentorship-programme/">here</a>.</p>
+
+<h3>FACILITIES AND EQUIPMENT</h3>
+
+<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
+       <tr width="600">
+              <td width="200"><b>Production Studios with Green Screen</b></td>
+              <td width="200"><b>Thematic Sets</b></td>
+              <td width="200"><b>Production Rooms (Video and Sound)</b></td>
+       </tr>
+       <tr width="600">
+              <td width="200">Get creative in the professional video production studio with facilities such as green screens, virtual video system, professional cameras and camera crane system.</td>
+              <td width="200">Shoot your videos in a "Kopitiam", a "train carriage", a "1950s diner" or stage a talk show with three large projection screens as backdrop.</td>
+              <td width="200">Record and edit your creative pieces at our video and sound production facilities filled with all the tools and software required for your project.</td>
+       </tr>
+       <tr width="600">
+              <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8110-green-screen-2.jpg" width="200"></td>
+              <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8133-theme-mtg-room-2.jpg" width="200"></td>
+              <td width="200"><img src="/images/facilities/facilities-and-equipment/Production-Room_630-x-355.png" width="200"></td>
+       </tr>
+       </table>
