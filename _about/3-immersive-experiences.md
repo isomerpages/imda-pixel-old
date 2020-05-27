@@ -35,11 +35,17 @@ If you are looking for a space to showcase your company’s immersive experience
               <td width="200"><b>Incubation Suite</b></td>
               <td width="200"><b>Game Testing and Play Area</b></td>
        </tr>
+  </table>
+
+<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center"> 
        <tr width="600">
               <td width="200">Visit our Immersive Experience Lab to try out the different equipment available and explore how you may use these to develop a powerful immersive experience.</td>
               <td width="200">Get access to incubation space to develop innovative digital products and solutions at the nexus of tech and media or content.</td>
               <td width="200">Chill out with some of the latest console games or test your prototypes at this zone.</td>
        </tr>
+  </table>
+  
+<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
        <tr width="600">
               <td width="200"><img src="/images/facilities/facilities-and-equipment/Immersive-Experiences-Lab_630-x-355.png" width="200"></td>
               <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8040-suite.jpg" width="200"></td>
