@@ -98,4 +98,25 @@ Click [here](https://forms.cwp.gov.sg/venuerequest/FormNFJO7){:target="_blank"} 
        
 ---
 
-
+<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
+       <tr width="600">
+              <td width="200"><b>Co-Working and Discussion Space</b></td>
+              <td width="200"><b>Thematic Sets</b></td>
+              <td width="200"><b>Functional Kitchen</b></td>
+       </tr>
+  </table>
+  <table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
+       <tr width="600">
+              <td width="200">Meet up with our mentors at the discussion areas and meeting rooms to get some advice from them on your projects</td>
+              <td width="200">Shoot your videos in a "Kopitiam", a "train carriage", a "1950s diner" or stage a talk show with three large projection screens as backdrop.</td>
+              <td width="200">Shoot cooking videos in our functional kitchen dressed up in three interchangeable themes - modern, country and Peranakan.</td>
+       </tr>
+  </table>
+  <table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
+       <tr width="600">
+              <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8129-discussion-hotdesk (1).jpg
+" width="200"></td>
+              <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8133-theme-mtg-room-2.jpg" width="200"></td>
+              <td width="200"><img src="/images/facilities/facilities-and-equipment/lv1-kitchen.jpg" width="200"></td>
+       </tr>
+  </table>
