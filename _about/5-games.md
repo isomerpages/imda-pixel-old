@@ -61,30 +61,6 @@ If you are looking for a conducive environment to develop and showcase your game
 
 <h3>FACILITIES AND EQUIPMENT</h3>
 
-<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
-       <tr width="600">
-              <td width="200"><b>Incubation Suite</b></td>
-              <td width="200"><b>Game Testing and Play Area</b></td>
-         <td width="200"><b>Co-Working and Discussion Space</b></td>
-       </tr>
-  </table>
-
-<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center"> 
-       <tr width="600">
-              <td width="200">Get access to incubation space to develop innovative digital products and solutions at the nexus of tech and media or content.</td>
-              <td width="200">Chill out with some of the latest console games or test your prototypes at this zone.</td>
-         <td width="200">Meet up with our mentors at the discussion areas and meeting rooms to get some advice from them on your projects.</td>
-       </tr>
-  </table>
-  
-<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
-       <tr width="600">
-              <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8040-suite.jpg" width="200"></td>
-              <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8057-Playtest-area.jpg" width="200"></td>
-         <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8129-discussion-hotdesk (1).jpg" width="200"></td>
-       </tr>
-       </table>
-       
 <div class="row">
   <div class="column">
     <div class="header"><b>Incubation Suite</b></div><br>
