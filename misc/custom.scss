@@ -345,6 +345,16 @@ $desktop: 960px + (2 * $gap) !default;
   float: left;
   width: 33.33%;
   padding: 10px;
+  height: 400px;
+	
+  /* Should be removed. Only for demonstration */
+}
+.column2 {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 400px;
+	
   /* Should be removed. Only for demonstration */
 }
 .header {
