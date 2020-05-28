@@ -159,7 +159,8 @@ Click [here](https://forms.cwp.gov.sg/venuerequest/FormNFJO7){:target="_blank"} 
     <div class="para">Test out your digital prototypes here to gather feedback from your users</div><br><img src="/images/facilities/facilities-and-equipment/User-Testing-Lab_630x355.png" width="200">
     </div>
        </div>
----       
+---
+
 <br>
 <table height="50px">
        <tr height="50px">
