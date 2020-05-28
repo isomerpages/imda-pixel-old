@@ -2,41 +2,6 @@
 title: Games
 permalink: /about/games/
 ---
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-
-/* Create three equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 10px;
-  /* Should be removed. Only for demonstration */
-}
-.header {
-height: 35px;
-padding-top: 5px;
-}
-.para {
-height: 100px;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
-}
-</style>
 
 ![1](/images/games/Games_WebBanner_1440x432.jpg)
 
