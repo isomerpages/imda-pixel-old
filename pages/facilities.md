@@ -216,6 +216,7 @@ Click [here](https://forms.cwp.gov.sg/venuerequest/FormNFJO7){:target="_blank"} 
     <div class="para">Attend mixer workshops, masterclasses or meetup sessions here in our seminar room.</div><br><img src="/images/facilities/facilities-and-equipment/lv2-seminar-room-1.jpg" width="200">
   </div>
   <div class="column">
-    <div class="header"><b> </b></div><br>
-    <div class="para"> </div> 
+    <div class="header"> </div><br>
+    <div class="para"> 
+    </div>
        </div>
