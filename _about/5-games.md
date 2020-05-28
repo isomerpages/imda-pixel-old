@@ -15,6 +15,9 @@ permalink: /about/games/
   padding: 10px;
   /* Should be removed. Only for demonstration */
 }
+.para {
+height: 100px;
+}
 
 /* Clear floats after the columns */
 .row:after {
@@ -81,15 +84,15 @@ If you are looking for a conducive environment to develop and showcase your game
 <div class="row">
   <div class="column">
     <b>Incubation Suite</b><br>
-    Get access to incubation space to develop innovative digital products and solutions at the nexus of tech and media or content.<br>
+    <div class="para">Get access to incubation space to develop innovative digital products and solutions at the nexus of tech and media or content.</div><br>
          <img src="/images/facilities/facilities-and-equipment/IMG_8040-suite.jpg" width="200">
   </div>
   <div class="column">
     <b>Game Testing and Play Area</b><br>
-    Chill out with some of the latest console games or test your prototypes at this zone.<br><img src="/images/facilities/facilities-and-equipment/IMG_8057-Playtest-area.jpg" width="200">
+    <div class="para">Chill out with some of the latest console games or test your prototypes at this zone.</div><br><img src="/images/facilities/facilities-and-equipment/IMG_8057-Playtest-area.jpg" width="200">
   </div>
   <div class="column">
     <b>Co-Working and Discussion Space</b><br>
-    Meet up with our mentors at the discussion areas and meeting rooms to get some advice from them on your projects.<br><img src="/images/facilities/facilities-and-equipment/IMG_8129-discussion-hotdesk (1).jpg" width="200">
+    <div class="para">Meet up with our mentors at the discussion areas and meeting rooms to get some advice from them on your projects.</div><br><img src="/images/facilities/facilities-and-equipment/IMG_8129-discussion-hotdesk (1).jpg" width="200">
     </div>
        </div>
