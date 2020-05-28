@@ -2,25 +2,13 @@
 title: Mentors
 permalink: /community/mentorship-programme/mentor-list
 ---
-  <table>
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
-  </tr>
-</table>
+<h1 style="text-align:centre;">Mentors</h1>
+
+<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
+       <tr width="600">
+         <td width="150"><img src="/images/mentor-list/alan-hellawell_300x230px.jpg" width="150"></td>
+              <td width="150"><img src="/images/mentor-list/AndyTan_300X230px.jpg" width="150"></td>
+              <td width="150"><img src="/images/mentor-list/Gustavo-Fuchs_300x230px.jpg" width="150"></td>
+         <td width="150"><img src="/images/mentor-list/Tan-Toi-Ngee_300x230px.jpg" width="150"></td>
+       </tr>
+       </table>
