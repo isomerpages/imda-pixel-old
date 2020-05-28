@@ -2,6 +2,35 @@
 title: Games
 permalink: /about/games/
 ---
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+
 ![1](/images/games/Games_WebBanner_1440x432.jpg)
 
 **Are you a game developer looking for resources to help turn ideas into prototypes, or build a game for commercialisation?**
@@ -48,3 +77,19 @@ If you are looking for a conducive environment to develop and showcase your game
          <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8129-discussion-hotdesk (1).jpg" width="200"></td>
        </tr>
        </table>
+       
+<div class="row">
+  <div class="column">
+    <h2>Incubation Suite</h2>
+    <p>Get access to incubation space to develop innovative digital products and solutions at the nexus of tech and media or content.</p><br>
+         <img src="/images/facilities/facilities-and-equipment/IMG_8040-suite.jpg" width="200">
+  </div>
+  <div class="column">
+    <h2>Game Testing and Play Area</h2>
+    <p>Chill out with some of the latest console games or test your prototypes at this zone.<br><img src="/images/facilities/facilities-and-equipment/IMG_8057-Playtest-area.jpg" width="200"></p>
+  </div>
+  <div class="column">
+    <h2>Co-Working and Discussion Space</h2>
+    <p>Meet up with our mentors at the discussion areas and meeting rooms to get some advice from them on your projects.</p><br><img src="/images/facilities/facilities-and-equipment/IMG_8129-discussion-hotdesk (1).jpg" width="200">
+    </div>
+       </div>
