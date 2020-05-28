@@ -2,12 +2,6 @@
 title: Mentors
 permalink: /community/mentorship-programme/mentor-list
 ---
-<head>
-<style>
-  table,td {border: 5px solid #fff;
-border-collapse: collapse;}
-  </style>
-  </head>
   <table>
   <tr>
     <th>Firstname</th>
