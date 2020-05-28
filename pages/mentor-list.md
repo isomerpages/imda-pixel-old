@@ -16,7 +16,7 @@ permalink: /community/mentorship-programme/mentor-list
        </table>
 <table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
        <tr width="600">
-              <td width="150"><b>Alan Hellawell</b> <a href="https://www.linkedin.com/in/alan-hellawell-96a3263/" target="_blank">LinkedIn Profile</a></td>
+              <td width="150"><b>Alan Hellawell</b> <small><a href="https://www.linkedin.com/in/alan-hellawell-96a3263/" target="_blank">LinkedIn Profile</a></small></td>
               <td width="150"><b>Alan Hellawell</b></td>
               <td width="150"><b>Alan Hellawell</b></td>
          <td width="150"><b>Alan Hellawell</b></td>
