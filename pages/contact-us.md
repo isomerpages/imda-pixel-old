@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: PIXEL<br><br><div class="row2"><div class="column2"><img src="/images/contact-us/pixel-building-photo.jpg"></div></div>
+agency_name: PIXEL
 locations:
   - title: Main Office
     address:
