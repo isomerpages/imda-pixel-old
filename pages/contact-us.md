@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: PIXEL<br><div class="row2"><div class="column2"><img src="/images/contact-us/pixel-building-photo.jpg"></div></div>
+agency_name: PIXEL<br><br><div class="row2"><div class="column2"><img src="/images/contact-us/pixel-building-photo.jpg"></div></div>
 locations:
   - title: Main Office
     address:
@@ -17,6 +17,6 @@ contacts:
   - title: General Enquiries & Feedback
     content:
     - email: enquiry@impixel.sg
-    - other: Fill up our contact form <i><a href="https://forms.cwp.gov.sg/venuerequest/FormNFJO7">here</a></i><br><br><div class="row2"><div class="column2"><img src="/images/contact-us/pixel-building-photo.jpg" width="100%"></div></div>
+    - other: Fill up our contact form <i><a href="https://forms.cwp.gov.sg/venuerequest/FormNFJO7">here</a></i>
 ---
 
