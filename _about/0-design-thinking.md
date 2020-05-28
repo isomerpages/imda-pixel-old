@@ -52,4 +52,18 @@ Tap on PIXEL’s mentors who can coach and facilitate your innovation projects u
        </tr>
        </table>
                      
-
+<div class="row">
+  <div class="column">
+    <div class="header"><b>Ideation Room</b></div><br>
+    <div class="para">Brainstorm for ideas in this conducive environment during your Design Thinking sessions</div><br>
+         <img src="/images/facilities/facilities-and-equipment/ideation2.jpg" width="200">
+  </div>
+  <div class="column">
+    <div class="header"><b>Usability Testing Lab</b></div><br>
+    <div class="para">Test out your digital prototypes here to gather feedback from your users.</div><br><img src="/images/facilities/facilities-and-equipment/User-Testing-Lab_630x355.png" width="200">
+  </div>
+  <div class="column">
+    <div class="header"><b>Fabrication Lab</b></div><br>
+    <div class="para">Chill out with some of the latest console games or test your prototypes at this zone.</div><br><img src="/images/facilities/facilities-and-equipment/Fabrication-Area_630-x-355.png" width="200">
+    </div>
+       </div>
