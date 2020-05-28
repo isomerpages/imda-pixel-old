@@ -78,16 +78,31 @@ For those need advice on content creation projects, you can check out our list o
        
 <div class="row">
   <div class="column">
-    <div class="header"><b>Incubation Suite</b></div><br>
-    <div class="para">Get access to incubation space to develop innovative digital products and solutions at the nexus of tech and media or content.</div><br>
-         <img src="/images/facilities/facilities-and-equipment/IMG_8040-suite.jpg" width="200">
+    <div class="header"><b>Production Studios with Green Screen</b></div><br>
+    <div class="para">Get creative in the professional video production studio with facilities such as green screens, virtual video system, professional cameras and camera crane system.</div><br>
+         <img src="/images/facilities/facilities-and-equipment/IMG_8110-green-screen-2.jpg" width="200">
   </div>
   <div class="column">
-    <div class="header"><b>Game Testing and Play Area</b></div><br>
-    <div class="para">Chill out with some of the latest console games or test your prototypes at this zone.</div><br><img src="/images/facilities/facilities-and-equipment/IMG_8057-Playtest-area.jpg" width="200">
+    <div class="header"><b>Thematic Sets</b></div><br>
+    <div class="para">Shoot your videos in a "Kopitiam", a "train carriage", a "1950s diner" or stage a talk show with three large projection screens as backdrop.</div><br><img src="/images/facilities/facilities-and-equipment/IMG_8133-theme-mtg-room-2.jpg" width="200">
   </div>
   <div class="column">
-    <div class="header"><b>Co-Working and Discussion Space</b></div><br>
-    <div class="para">Meet up with our mentors at the discussion areas and meeting rooms to get some advice from them on your projects.</div><br><img src="/images/facilities/facilities-and-equipment/IMG_8129-discussion-hotdesk (1).jpg" width="200">
+    <div class="header"><b>Production Rooms (Video and Sound)</b></div><br>
+    <div class="para">Record and edit your creative pieces at our video and sound production facilities filled with all the tools and software required for your project.</div><br><img src="/images/facilities/facilities-and-equipment/Production-Room_630-x-355.png" width="200">
+    </div>
+       </div>
+<div class="row">
+  <div class="column">
+    <div class="header"><b>Functional Kitchen</b></div><br>
+    <div class="para">Shoot cooking videos in our functional kitchen dressed up in three interchangeable themes - modern, country and Peranakan.</div><br>
+         <img src="/images/facilities/facilities-and-equipment/lv1-kitchen.jpg" width="200">
+  </div>
+  <div class="column">
+    <div class="header"><b>Changing and Makeup Room</b></div><br>
+    <div class="para">Come here for a change of attire, style your hair and refresh your makeup for your next video shoot.</div><br><img src="/images/facilities/facilities-and-equipment/IMG_8084-makeup.jpg" width="200">
+  </div>
+  <div class="column">
+    <div class="header"> </div><br>
+    <div class="para"> 
     </div>
        </div>
