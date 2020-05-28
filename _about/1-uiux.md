@@ -27,30 +27,6 @@ Keen on transforming the UI/UX of your digital products? Through PIXEL’s Proje
 Thinking of conducting usability testing on your prototype, website or mobile app? Usability testing involves observing real users as they attempt to complete given tasks. PIXEL’s Usability Testing Lab allows companies to organise usability testing interviews to gather quantitative and qualitative feedback on effectiveness, efficiency, and user satisfaction. Our facility is equipped with hardware such as cameras, screen-based and wearable eye-tracking equipment, galvanic skin response sensors, as well as software to collect and analyse data from the interviews. Enquire about or book the facilities/equipment via this <a href="https://forms.cwp.gov.sg/venuerequest/utl" target="_blank">link</a>
 
 <h3>FACILITIES AND EQUIPMENT</h3>
-
-<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
-       <tr width="600">
-              <td width="200"><b>Usability Testing Lab</b></td>
-              <td width="200"><b>Immersive Experiences Lab</b></td>
-              <td width="200"><b>Game Testing and Play Area</b></td>
-       </tr>
-       </table>
- 
-<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
-       <tr width="600">
-              <td width="200">Test out your digital prototypes here to gather feedback from your users</td>
-              <td width="200">Visit our Immersive Experience Lab to try out the different equipment available and explore how you may use these to develop a powerful immersive experience</td>
-              <td width="200">Chill out with some of the latest console games or test your prototypes at this zone</td>
-       </tr>
-       </table>
-       
-<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
-       <tr width="600">
-              <td width="200"><img src="/images/facilities/facilities-and-equipment/User-Testing-Lab_630x355.png" width="200"></td>
-              <td width="200"><img src="/images/facilities/facilities-and-equipment/Immersive-Experiences-Lab_630-x-355.png" width="200"></td>
-              <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8057-Playtest-area.jpg" width="200"></td>
-       </tr>
-       </table>
        
 <div class="row">
   <div class="column">
