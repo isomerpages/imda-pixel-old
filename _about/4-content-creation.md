@@ -75,3 +75,19 @@ For those need advice on content creation projects, you can check out our list o
               <td width="200"></td>
        </tr>
        </table>
+       
+<div class="row">
+  <div class="column">
+    <div class="header"><b>Incubation Suite</b></div><br>
+    <div class="para">Get access to incubation space to develop innovative digital products and solutions at the nexus of tech and media or content.</div><br>
+         <img src="/images/facilities/facilities-and-equipment/IMG_8040-suite.jpg" width="200">
+  </div>
+  <div class="column">
+    <div class="header"><b>Game Testing and Play Area</b></div><br>
+    <div class="para">Chill out with some of the latest console games or test your prototypes at this zone.</div><br><img src="/images/facilities/facilities-and-equipment/IMG_8057-Playtest-area.jpg" width="200">
+  </div>
+  <div class="column">
+    <div class="header"><b>Co-Working and Discussion Space</b></div><br>
+    <div class="para">Meet up with our mentors at the discussion areas and meeting rooms to get some advice from them on your projects.</div><br><img src="/images/facilities/facilities-and-equipment/IMG_8129-discussion-hotdesk (1).jpg" width="200">
+    </div>
+       </div>
