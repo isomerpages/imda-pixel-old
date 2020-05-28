@@ -19,3 +19,4 @@ contacts:
     - email: enquiry@impixel.sg
     - other: Fill up our contact form <i><a href="https://forms.cwp.gov.sg/venuerequest/FormNFJO7">here</a></i><br><br><img src="/images/contact-us/pixel-building-photo.jpg" alt="1" class="centre">
 ---
+<img src="/images/contact-us/pixel-building-photo.jpg" alt="1" class="centre">
