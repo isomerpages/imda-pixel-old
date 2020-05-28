@@ -178,16 +178,16 @@ Click [here](https://forms.cwp.gov.sg/venuerequest/FormNFJO7){:target="_blank"} 
 ---
        
 <div class="row2">
-  <div class="column">
+  <div class="column2">
     <div class="header"><b>Incubation Suite</b></div><br>
     <div class="para">Get access to incubation space to develop innovative digital products and solutions at the nexus of tech and media or content.</div><br>
          <img src="/images/facilities/facilities-and-equipment/IMG_8040-suite.jpg" width="200">
   </div>
-  <div class="column">
+  <div class="column2">
     <div class="header"><b>Game Testing and Play Area</b></div><br>
     <div class="para">Chill out with some of the latest console games or test your prototypes at this zone.</div><br><img src="/images/facilities/facilities-and-equipment/IMG_8057-Playtest-area.jpg" width="200">
   </div>
-  <div class="column">
+  <div class="column2">
     <div class="header"><b>Common Area for Events</b></div><br>
     <div class="para">Connect with the community at our mixer workshops and meetups held at PIXEL</div><br><img src="/images/facilities/facilities-and-equipment/lv1-stage.jpg" width="200">
        </div>
