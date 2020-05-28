@@ -81,15 +81,15 @@ If you are looking for a conducive environment to develop and showcase your game
 <div class="row">
   <div class="column">
     <b>Incubation Suite</b>
-    <p>Get access to incubation space to develop innovative digital products and solutions at the nexus of tech and media or content.</p><br>
+    Get access to incubation space to develop innovative digital products and solutions at the nexus of tech and media or content.<br>
          <img src="/images/facilities/facilities-and-equipment/IMG_8040-suite.jpg" width="200">
   </div>
   <div class="column">
     <b>Game Testing and Play Area</b>
-    <p>Chill out with some of the latest console games or test your prototypes at this zone.<br><img src="/images/facilities/facilities-and-equipment/IMG_8057-Playtest-area.jpg" width="200"></p>
+    Chill out with some of the latest console games or test your prototypes at this zone.<br><img src="/images/facilities/facilities-and-equipment/IMG_8057-Playtest-area.jpg" width="200">
   </div>
   <div class="column">
     <b>Co-Working and Discussion Space</b>
-    <p>Meet up with our mentors at the discussion areas and meeting rooms to get some advice from them on your projects.</p><br><img src="/images/facilities/facilities-and-equipment/IMG_8129-discussion-hotdesk (1).jpg" width="200">
+    Meet up with our mentors at the discussion areas and meeting rooms to get some advice from them on your projects.<br><img src="/images/facilities/facilities-and-equipment/IMG_8129-discussion-hotdesk (1).jpg" width="200">
     </div>
        </div>
