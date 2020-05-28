@@ -51,3 +51,19 @@ Thinking of conducting usability testing on your prototype, website or mobile ap
               <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8057-Playtest-area.jpg" width="200"></td>
        </tr>
        </table>
+       
+<div class="row">
+  <div class="column">
+    <div class="header"><b>Usability Testing Lab</b></div><br>
+    <div class="para">Test out your digital prototypes here to gather feedback from your users</div><br>
+         <img src="/images/facilities/facilities-and-equipment/User-Testing-Lab_630x355.png" width="200">
+  </div>
+  <div class="column">
+    <div class="header"><b>Immersive Experiences Lab</b></div><br>
+    <div class="para">Visit our Immersive Experience Lab to try out the different equipment available and explore how you may use these to develop a powerful immersive experience</div><br><img src="/images/facilities/facilities-and-equipment/Immersive-Experiences-Lab_630-x-355.png" width="200">
+  </div>
+  <div class="column">
+    <div class="header"><b>Game Testing and Play Area</b></div><br>
+    <div class="para">Chill out with some of the latest console games or test your prototypes at this zone.</div><br><img src="/images/facilities/facilities-and-equipment/IMG_8057-Playtest-area.jpg" width="200">
+    </div>
+       </div>
