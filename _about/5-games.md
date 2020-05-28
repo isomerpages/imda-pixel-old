@@ -16,7 +16,7 @@ permalink: /about/games/
   /* Should be removed. Only for demonstration */
 }
 .header {
-height: 70px;
+height: 40px;
 }
 .para {
 height: 100px;
