@@ -364,10 +364,18 @@ height: 100px;
   display: table;
   clear: both;
 }
+.row2:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .column {
     width: 100%;
   }
+.column2 {
+    width: 100%;
+  }	
 }
