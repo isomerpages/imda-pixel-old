@@ -160,7 +160,7 @@ Click [here](https://forms.cwp.gov.sg/venuerequest/FormNFJO7){:target="_blank"} 
     </div>
        </div>
        
----
+
 
 <div class="row">
   <div class="column">
@@ -177,7 +177,7 @@ Click [here](https://forms.cwp.gov.sg/venuerequest/FormNFJO7){:target="_blank"} 
     <div class="para">Record and edit your creative pieces at our video and sound production facilities filled with all the tools and software required for your project.</div><br><img src="/images/facilities/facilities-and-equipment/Production-Room_630-x-355.png" width="200">
        </div>
        
----
+
 
 <div class="row">
   <div class="column">
@@ -194,7 +194,7 @@ Click [here](https://forms.cwp.gov.sg/venuerequest/FormNFJO7){:target="_blank"} 
     <div class="para">Connect with the community at our mixer workshops and meetups held at PIXEL</div><br><img src="/images/facilities/facilities-and-equipment/lv1-stage.jpg" width="200">
        </div>
        
----
+
 
 <div class="row">
   <div class="column">
@@ -211,7 +211,7 @@ Click [here](https://forms.cwp.gov.sg/venuerequest/FormNFJO7){:target="_blank"} 
     <div class="para">Shoot cooking videos in our functional kitchen dressed up in three interchangeable themes - modern, country and Peranakan.</div><br><img src="/images/facilities/facilities-and-equipment/lv1-kitchen.jpg" width="200">
        </div>
        
----
+
 
 <div class="row">
   <div class="column">
