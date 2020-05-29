@@ -105,3 +105,27 @@ permalink: /community/mentorship-programme/mentor-list
     <div class="para"> </div>         
   </div>
        </div>
+---
+<br>
+
+<b>Immersive Experiences</b>
+<div class="row">
+  <div class="column3">
+        <img src="/images/mentor-list/Khoo-Eng-Tat_300x230px.jpg" width="150"><br>
+         <div class="header"><b>Dr Khoo Eng Tat</b></div><br>
+    <div class="para"><small><a href="https://www.linkedin.com/in/eng-tat-khoo-6061311a/" target="_blank">LinkedIn Profile</a></small><br>Senior Lecturer, NUS Engineering Design and Innovation Centre</div>         
+  </div>
+ <div class="column3">
+        <img src="/images/mentor-list/Leong-Yong-Shin_300x230px.jpg" width="150"><br>
+         <div class="header"><b>Leong yong Shin</b></div><br>
+    <div class="para"><small><a href="https://www.linkedin.com/in/yong-shin-leong-0a439a9b/" target="_blank">LinkedIn Profile</a></small><br>Technical Lead, Agency for Science, Technology and Research (A*STAR)</div>         
+  </div>
+       <div class="column3">
+                 <div class="header"></div><br>
+    <div class="para"></div>         
+  </div>
+       <div class="column3">
+                 <div class="header"> </div><br>
+    <div class="para"> </div>         
+  </div>
+       </div>
