@@ -353,7 +353,7 @@ $desktop: 960px + (2 * $gap) !default;
   float: center;
   width: 80%;
   padding: 10px;
-  height: 200px;
+  height: 300px;
 	
   /* Should be removed. Only for demonstration */
 }
@@ -386,6 +386,10 @@ height: 100px;
     width: 100%;
   }
 .column2 {
-    width: 100%;
+    width: 100%; 
   }	
 }
+@media screen and (min-width: 600px) {
+  .column2 {
+    height: 150px;
+  }
