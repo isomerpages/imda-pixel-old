@@ -2,7 +2,7 @@
 title: Companies
 permalink: /community/companies/
 ---
-<h1>Companies</h1><br><br>
+<h1>Companies</h1><br>
      
 <div class="row">
   <div class="column3">
