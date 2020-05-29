@@ -21,129 +21,6 @@ Click [here](https://forms.cwp.gov.sg/venuerequest/FormNFJO7){:target="_blank"} 
 
 <h3>FACILITIES AND EQUIPMENT</h3>
 
-<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
-       <tr width="600">
-              <td width="200"><b>Fabrication Lab</b></td>
-              <td width="200"><b>Immersive Experiences Lab</b></td>
-              <td width="200"><b>Usability Testing Lab</b></td>
-       </tr>
-       </table>
-       
-<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
-       <tr width="600">
-              <td width="200">Use the equipment such as 3D printers or laster available in the labs for rapid prototyping</td>
-              <td width="200">Visit our Immersive Experience Lab to try out the different equipment available and explore how you may use these to develop a powerful immersive experience</td>
-              <td width="200">Test out your digital prototypes here to gather feedback from your users</td>
-       </tr>
-       </table>
-       
- <table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
-       <tr width="600">
-              <td width="200"><img src="/images/facilities/facilities-and-equipment/Fabrication-Area_630-x-355.png" width="200"></td>
-              <td width="200"><img src="/images/facilities/facilities-and-equipment/Immersive-Experiences-Lab_630-x-355.png" width="200"></td>
-              <td width="200"><img src="/images/facilities/facilities-and-equipment/User-Testing-Lab_630x355.png" width="200"></td>
-       </tr>
-       </table>
-
----
-
-<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
-       <tr width="600">
-              <td width="200"><b>Ideation Room</b></td>
-              <td width="200"><b>Production Studios with Green Screen</b></td>
-              <td width="200"><b>Production Rooms (Video and Sound)</b></td>
-       </tr>
-       </table>
-       
- <table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
-       <tr width="600">
-              <td width="200">Brainstorm for ideas in this conducive environment during your Design Thinking sessions.</td>
-              <td width="200">Get creative in the professional video production studio with facilities such as green screens, virtual video system, professional cameras and camera crane system.</td>
-              <td width="200">Record and edit your creative pieces at our video and sound production facilities filled with all the tools and software required for your project.</td>
-       </tr>
-       </table>
-       
- <table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
-       <tr width="600">
-              <td width="200"><img src="/images/facilities/facilities-and-equipment/ideation2.jpg" width="200"></td>
-              <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8110-green-screen-2.jpg" width="200"></td>
-              <td width="200"><img src="/images/facilities/facilities-and-equipment/Production-Room_630-x-355.png" width="200"></td>
-       </tr>
-       </table>
-       
----
-
-<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
-       <tr width="600">
-              <td width="200"><b>Incubation Suite</b></td>
-              <td width="200"><b>Game Testing and Play Area</b></td>
-              <td width="200"><b>Common Area for Events</b></td>
-       </tr>
-  </table>
-
-<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center"> 
-       <tr width="600">
-              <td width="200">Get access to incubation space to develop innovative digital products and solutions at the nexus of tech and media or content.</td>
-              <td width="200">Chill out with some of the latest console games or test your prototypes at this zone.</td>
-              <td width="200">Connect with the community at our mixer workshops and meetups held at PIXEL</td></tr>
-  </table>
-  
-<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
-       <tr width="600">
-              <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8040-suite.jpg" width="200"></td>
-              <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8057-Playtest-area.jpg" width="200"></td>
-              <td width="200"><img src="/images/facilities/facilities-and-equipment/lv1-stage.jpg" width="200"></td>
-       </tr>
-       </table>
-       
----
-
-<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
-       <tr width="600">
-              <td width="200"><b>Co-Working and Discussion Space</b></td>
-              <td width="200"><b>Thematic Sets</b></td>
-              <td width="200"><b>Functional Kitchen</b></td>
-       </tr>
-  </table>
-  <table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
-       <tr width="600">
-              <td width="200">Meet up with our mentors at the discussion areas and meeting rooms to get some advice from them on your projects</td>
-              <td width="200">Shoot your videos in a "Kopitiam", a "train carriage", a "1950s diner" or stage a talk show with three large projection screens as backdrop.</td>
-              <td width="200">Shoot cooking videos in our functional kitchen dressed up in three interchangeable themes - modern, country and Peranakan.</td>
-       </tr>
-  </table>
-  <table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
-       <tr width="600">
-              <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8129-discussion-hotdesk (1).jpg" width="200"></td>
-              <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8133-theme-mtg-room-2.jpg" width="200"></td>
-              <td width="200"><img src="/images/facilities/facilities-and-equipment/lv1-kitchen.jpg" width="200"></td>
-       </tr>
-  </table>
-
----
-
-<table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
-   <tr width="600">
-              <td width="200"><b>Changing and Makeup Room</b></td>
-              <td width="200"><b>Seminar Room</b></td>
-              <td width="200"><b> </b></td>
-       </tr>
-  </table>
-  <table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
-       <tr width="600">
-              <td width="200">Come here for a change of attire, style your hair and refresh your makeup for your next video shoot.</td>
-              <td width="200">Attend mixer workshops, masterclasses or meetup sessions here in our seminar room.</td>
-              <td width="200"> </td>
-       </tr>
-  </table>
-  <table width="600" cellpadding="15px" border="0px" cellspacing="0" align="center">
-       <tr width="600">
-              <td width="200"><img src="/images/facilities/facilities-and-equipment/IMG_8084-makeup.jpg" width="200"></td>
-              <td width="200"><img src="/images/facilities/facilities-and-equipment/lv2-seminar-room-1.jpg" width="200"></td>
-              <td width="200"></td>
-       </tr>
-       </table>
-
 <div class="row">
   <div class="column">
     <div class="header"><b>Fabrication Lab</b></div><br>
@@ -176,7 +53,9 @@ Click [here](https://forms.cwp.gov.sg/venuerequest/FormNFJO7){:target="_blank"} 
     <div class="para2">Record and edit your creative pieces at our video and sound production facilities filled with all the tools and software required for your project.</div><br><img src="/images/facilities/facilities-and-equipment/Production-Room_630-x-355.png" width="200">
        </div>
        </div>
-     
+
+---    
+
 <div class="row">
   <div class="column">
     <div class="header"><b>Incubation Suite</b></div><br>
@@ -190,6 +69,7 @@ Click [here](https://forms.cwp.gov.sg/venuerequest/FormNFJO7){:target="_blank"} 
   <div class="column">
     <div class="header"><b>Common Area for Events</b></div><br>
     <div class="para">Connect with the community at our mixer workshops and meetups held at PIXEL</div><br><img src="/images/facilities/facilities-and-equipment/lv1-stage.jpg" width="200">
+       </div>
        </div>
        
        
