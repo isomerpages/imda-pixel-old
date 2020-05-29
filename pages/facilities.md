@@ -38,6 +38,7 @@ Click [here](https://forms.cwp.gov.sg/venuerequest/FormNFJO7){:target="_blank"} 
        </div>
 ---
 
+
 <div class="row">
   <div class="column">
     <div class="header"><b>Ideation Room</b></div><br>
@@ -55,6 +56,7 @@ Click [here](https://forms.cwp.gov.sg/venuerequest/FormNFJO7){:target="_blank"} 
        </div>
 
 ---    
+
 
 <div class="row">
   <div class="column">
