@@ -132,8 +132,7 @@ permalink: /community/alumni/
               <div class="para"><a href="https://www.vuulr.com/" target="_blank">Website</a></div>
   </div>
        <div class="column3">
-        <img src="/images/alumni/umitronweblogo.png" width="150"><br>
-         <div class="header"><b>Umitron</b></div><br>
-    <div class="para"><a href="https://umitron.com/en/mission.html" target="_blank">Website</a></div>         
+                 <div class="header"><b> </b></div><br>
+    <div class="para"> </div>         
   </div>
        </div>
