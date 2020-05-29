@@ -345,7 +345,7 @@ $desktop: 960px + (2 * $gap) !default;
   float: left;
   width: 33.33%;
   padding: 10px;
-  height: 350px;
+  height: 400px;
 	
   /* Should be removed. Only for demonstration */
 }
@@ -353,16 +353,10 @@ $desktop: 960px + (2 * $gap) !default;
   float: center;
   width: 80%;
   padding: 10px;
-  height: 24rem;
-	 	
+  height: 20rem;
+	
   /* Should be removed. Only for demonstration */
 }
-.column3 {
-  float: center;
-  width: 25%;
-  padding: 10px;
-  height: 350px;
-	  }
 .header {
 height: 35px;
 padding-top: 5px;
