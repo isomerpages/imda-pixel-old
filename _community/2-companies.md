@@ -26,7 +26,6 @@ permalink: /community/companies/
     <div class="para"><a href="https://www.gluu.life/" target="_blank">Website</a></div>         
   </div>
        </div>     
-
 <div class="row">
   <div class="column3">
         <img src="/images/companies/mantaweblogo.png" width="150"><br>
@@ -47,5 +46,47 @@ permalink: /community/companies/
         <img src="/images/companies/avidologoweb.png" width="150"><br>
          <div class="header"><b>Avido Robotics</b></div><br>
     <div class="para"><a href="https://www.linkedin.com/in/wee-boon-siong-0006b7157/?originalSubdomain=sg" target="_blank">LinkedIn Profile</a></div>         
+  </div>
+       </div>
+<div class="row">
+  <div class="column3">
+        <img src="/images/companies/BAttleBre_web.png" width="150"><br>
+         <div class="header"><b>BattleBrew Productions</b></div><br>
+    <div class="para"><a href="https://battleskybrigade.com/" target="_blank">Website</a></div>         
+  </div>
+ <div class="column3">
+        <img src="/images/companies/creativesAtWork_logoweb.png" width="150"><br>
+         <div class="header"><b>Creatives At Work</b></div><br>
+    <div class="para"><a href="https://creativesatwork.asia/" target="_blank">Website</a></div>         
+  </div>
+       <div class="column3">
+        <img src="/images/companies/embodied-sensingweblogo.png" width="150"><br>
+         <div class="header"><b>Embodied Sensing</b></div><br>
+              <div class="para"><a href="http://www.embodiedsensing.com/" target="_blank">Website</a></div>         
+  </div>
+       <div class="column3">
+        <img src="/images/companies/IgniteVR_logoweb.png" width="150"><br>
+         <div class="header"><b>Ignite VR</b></div><br>
+    <div class="para"><a href="http://ignite-vr.com/" target="_blank">Website</a></div>         
+  </div>
+       </div>
+ <div class="row">
+  <div class="column3">
+        <img src="/images/companies/Immersively_logoweb.png" width="150"><br>
+         <div class="header"><b>iMMERSiVELY</b></div><br>
+    <div class="para"><a href="https://www.immersively.co/" target="_blank">Website</a></div>         
+  </div>
+ <div class="column3">
+        <img src="/images/companies/Meshminds-logoweb.png" width="150"><br>
+         <div class="header"><b>MeshMinds</b></div><br>
+    <div class="para"><a href="https://www.meshminds.com/" target="_blank">Website</a></div>         
+  </div>
+       <div class="column3">
+                 <div class="header"><b> </b></div><br>
+              <div class="para"> </div>         
+  </div>
+       <div class="column3">
+                 <div class="header"><b> </b></div><br>
+    <div class="para"> </div>         
   </div>
        </div>
