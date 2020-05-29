@@ -37,22 +37,22 @@ permalink: /community/mentorship-programme/mentor-list
   <div class="column3">
         <img src="/images/mentor-list/alan-hellawell_300x230px.jpg" width="150"><br>
          <div class="header"><b>Alan Hellawell</b></div><br>
-    <div class="para">Venture Partner, Alpha JWC<br><small><a href="https://www.linkedin.com/in/alan-hellawell-96a3263/" target="_blank">LinkedIn Profile</a></small></div>         
+    <div class="para"><small><a href="https://www.linkedin.com/in/alan-hellawell-96a3263/" target="_blank">LinkedIn Profile</a></small><br>Venture Partner, Alpha JWC</div>         
   </div>
  <div class="column3">
-        <img src="/images/mentor-list/alan-hellawell_300x230px.jpg" width="150"><br>
-         <div class="header"><b>Alan Hellawell</b></div><br>
-    <div class="para">Venture Partner, Alpha JWC<br><small><a href="https://www.linkedin.com/in/alan-hellawell-96a3263/" target="_blank">LinkedIn Profile</a></small></div>         
+        <img src="/images/mentor-list/AndyTan_300X230px.jpg" width="150"><br>
+         <div class="header"><b>Andy Tan</b></div><br>
+    <div class="para"><small><a href="https://www.linkedin.com/in/andytanyy/" target="_blank">LinkedIn Profile</a></small><br>Director and Head of APAC Financing Group Loan Syndicate - South East Asia, Credit Suisse</div>         
   </div>
        <div class="column3">
-        <img src="/images/mentor-list/alan-hellawell_300x230px.jpg" width="150"><br>
-         <div class="header"><b>Alan Hellawell</b></div><br>
-    <div class="para">Venture Partner, Alpha JWC<br><small><a href="https://www.linkedin.com/in/alan-hellawell-96a3263/" target="_blank">LinkedIn Profile</a></small></div>         
+        <img src="/images/mentor-list/Gustavo-Fuchs_300x230px.jpg" width="150"><br>
+         <div class="header"><b>Gustavo Fuchs</b></div><br>
+    <div class="para"><small><a href="https://www.linkedin.com/in/gustavofuchs/" target="_blank">LinkedIn Profile</a></small><br>General Manager - Cloud & Solutions - Asia, Microsoft</div>         
   </div>
        <div class="column3">
-        <img src="/images/mentor-list/alan-hellawell_300x230px.jpg" width="150"><br>
-         <div class="header"><b>Alan Hellawell</b></div><br>
-    <div class="para">Venture Partner, Alpha JWC<br><small><a href="https://www.linkedin.com/in/alan-hellawell-96a3263/" target="_blank">LinkedIn Profile</a></small></div>         
+        <img src="/images/mentor-list/Tan-Toi-Ngee_300x230px.jpg" width="150"><br>
+         <div class="header"><b>Tan Toi Ngee</b></div><br>
+    <div class="para"><small><a href="https://www.linkedin.com/in/toi-ngee-tan-06604b16/?originalSubdomain=sg%C2%A0%C2%A0" target="_blank">LinkedIn Profile</a></small><br>Chief Innovation Officer, Sinar Mas Mining</div>         
   </div>
        </div>
 ---
