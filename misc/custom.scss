@@ -354,9 +354,15 @@ $desktop: 960px + (2 * $gap) !default;
   width: 80%;
   padding: 10px;
   height: 350px;
-	
+	 	
   /* Should be removed. Only for demonstration */
 }
+.column3 {
+  float: center;
+  width: 25%;
+  padding: 10px;
+  height: 350px;
+	  }
 .header {
 height: 35px;
 padding-top: 5px;
