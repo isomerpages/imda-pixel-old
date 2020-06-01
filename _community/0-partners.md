@@ -2,7 +2,7 @@
 title: Partners
 permalink: /community/partners/
 ---
-<h1><b>Mentorship Programme</b></h1>
+<h1><b>Partners</b></h1>
 ---
 
 **We will host a range of innovation and acceleration programmes of Partners in PIXEL. These initiatives provide our companies and creators more opportunities to access their ecosystems, resources and technical expertise.**
