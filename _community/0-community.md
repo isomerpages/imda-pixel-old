@@ -27,7 +27,6 @@ If you are interested to be part of our community, access our facilities and kee
 We host a range of innovation and acceleration programmes of Partners in PIXEL. These initiatives provide our companies and creators more opportunities to access their ecosystems, resources and technical expertise. Check out our Partners <a href="/community/partners/">here</a>.
   </div>
        </div>
-
 <h3><b>Fun at PIXEL!</b></h3>
                      
 <div class="row">
