@@ -348,9 +348,7 @@ $desktop: 960px + (2 * $gap) !default;
 	padding-bottom: 10px;
 	padding-left: 15px;
 	padding-right: 15px;
-border: 1px solid;
-	border-color: #C0C0C0;
-  height: 15rem;
+  height: 400px;
 	
   /* Should be removed. Only for demonstration */
 }
@@ -379,16 +377,6 @@ border: 1px solid;
 		padding: 10px;
 			margin-left: 5px;
 	  }
-.column6 {	
-	float: left;
-	width: 32%;
-		padding-top: 10px;
-	padding-bottom: 10px;
-	padding-left: 15px;
-	padding-right: 15px;
-border: 1px solid;
-	border-color: #C0C0C0;
-  height: 300px;
 .header {
 text-align: center;
 	height: 28px;
