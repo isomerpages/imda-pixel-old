@@ -368,7 +368,7 @@ $desktop: 960px + (2 * $gap) !default;
 .column4 {
 	float: center;
 	width: 60%;
-		padding-top: 10px;
+		padding-top: 20px;
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-bottom: 10px;
@@ -378,10 +378,10 @@ $desktop: 960px + (2 * $gap) !default;
 .column5 {
 	float: center;
 	width: 40%;
-		padding-top: 10px;
+		padding-top: 20px;
 	padding-left: 10px;
 	padding-right: 10px;
-	padding-bottom: 10px;
+	padding-bottom: -10px;
 			margin-left: 5px;
 	  }
 .header {
