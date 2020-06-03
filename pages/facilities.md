@@ -21,8 +21,8 @@ Within the 25,000 square feet innovation space, PIXEL provides a unique mix of f
   <div class="column5">
     <b>One Stop Centre for Developing Great Digital Experiences</b><br>
     <div class="spacer"> </div>
-    PIXEL also provides co-working and incubation spaces to companies that are working on innovation projects relating to tech, media or games and are looking for space and facilities. These spaces provide a conducive environment for the companies to work on their projects and also allow them to be connected to a multidisciplinary community of tech innovators, content creators, game developers and digital designers.</p>
-  Click <a href="https://forms.cwp.gov.sg/venuerequest/FormNFJO7: target="_blank">here</a> to apply for the incubation or co-working space now.
+    PIXEL also provides co-working and incubation spaces to companies that are working on innovation projects relating to tech, media or games and are looking for space and facilities. These spaces provide a conducive environment for the companies to work on their projects and also allow them to be connected to a multidisciplinary community of tech innovators, content creators, game developers and digital designers.<br>
+  Click <a href="https://forms.cwp.gov.sg/venuerequest/FormNFJO7" target="_blank">here</a> to apply for the incubation or co-working space now.
   </div></div>
 <h3>FACILITIES AND EQUIPMENT</h3>
 
