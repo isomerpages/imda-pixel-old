@@ -362,6 +362,18 @@ $desktop: 960px + (2 * $gap) !default;
 		padding: 10px;
 			margin-left: 5px;
 	  }
+.column4 {
+	float: center;
+	width: 66%;
+		padding: 10px;
+			margin-left: 5px;
+	  }
+.column5 {
+	float: center;
+	width: 33%;
+		padding: 10px;
+			margin-left: 5px;
+	  }	  
 .header {
 height: 35px;
 padding-top: 5px;
@@ -395,6 +407,12 @@ height: 100px;
 	height: 150px;
   }
 	.column3 {
+		width: 100%
+	}
+	.column4 {
+		width: 100%
+	}
+	.column5 {
 		width: 100%
 	}
 }
