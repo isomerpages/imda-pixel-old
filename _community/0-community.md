@@ -6,7 +6,7 @@ permalink: /community/
 
 <div class="row">
   <div class="column4">
-    <b>Do you want to be plugged into a vibrant community with a unique mix of tech, media and design capabilities?</b><br>
+    <div class="header2"><b>Do you want to be plugged into a vibrant community with a unique mix of tech, media and design capabilities?</b></div><br>
 Find opportunities to mix with, learn from and get inspired by each other to create customer-centric digital experiences.<br> Companies and creators can look forward to being part of a unique, multi-disciplinary community of tech innovators, content creators, digital designers and game developers in PIXEL.<br>
 PIXEL hosts themed events, workshops and masterclasses that purposefully bring together a combination of tech X media X design for customer-centric innovation. For example, we regularly conduct design thinking workshop and UI/UX clinics for tech companies to incorporate design principles into their digital products. We support content creation projects using digital techniques and immersive technology.
   </div>
