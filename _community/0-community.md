@@ -16,8 +16,7 @@ PIXEL hosts themed events, workshops and masterclasses that purposefully bring t
        </div>
 <div class="row">
   <div class="column4">
-    <b>Do you want to be plugged into a vibrant community with a unique mix of tech, media and design capabilities?</b><br><div class="spacer"> </div>
-<img src="/images/community/Community_Img1_630-x-355.jpg" width="200">
+    <img src="/images/community/Community_Img1_630-x-355.jpg" width="200">
   </div>
   <div class="column5">
     <b>Connect With PIXEL Community</b><br>
