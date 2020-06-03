@@ -32,7 +32,6 @@ A brief synopsis of what you intend to produce<br>
   <li>When you intend to shoot and the duration</li>
   <li>On which platform will the content be published</li>
 </ul>
-<br>
 For those need advice on content creation projects, you can check out our list of mentors <a href="/community/mentorship-programme/">here</a>.
   </div></div>
 <h3>FACILITIES AND EQUIPMENT</h3>
