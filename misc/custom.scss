@@ -345,7 +345,7 @@ $desktop: 960px + (2 * $gap) !default;
   float: left;
   width: 32%;
   padding-top: 10px;
-	padding-bottom: 0px;
+	padding-bottom: 10px;
 	padding-left: 15px;
 	padding-right: 15px;
   height: 400px;
@@ -368,13 +368,20 @@ $desktop: 960px + (2 * $gap) !default;
 .column4 {
 	float: center;
 	width: 60%;
-		padding: 10px;
+		padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	
 			margin-left: 5px;
 	  }
 .column5 {
 	float: center;
 	width: 40%;
-		padding: 10px;
+		padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 0px;
 			margin-left: 5px;
 	  }
 .header {
