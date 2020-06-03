@@ -58,11 +58,13 @@ For those need advice on content creation projects, you can check out our list o
 <div class="row">
   <div class="column">
     <div class="header"><b>Functional Kitchen</b></div><br>
+    <div class="spacer"> </div>
     <div class="para">Shoot cooking videos in our functional kitchen dressed up in three interchangeable themes - modern, country and Peranakan.</div><br>
          <img src="/images/facilities/facilities-and-equipment/lv1-kitchen.jpg" width="200">
   </div>
   <div class="column">
     <div class="header"><b>Changing and Makeup Room</b></div><br>
+    <div class="spacer"> </div>
     <div class="para">Come here for a change of attire, style your hair and refresh your makeup for your next video shoot.</div><br><img src="/images/facilities/facilities-and-equipment/IMG_8084-makeup.jpg" width="200">
   </div>
   <div class="column">
