@@ -54,7 +54,8 @@ For those need advice on content creation projects, you can check out our list o
     <div class="para">Record and edit your creative pieces at our video and sound production facilities filled with all the tools and software required for your project.</div><br><img src="/images/facilities/facilities-and-equipment/Production-Room_630-x-355.png" width="200">
     </div>
        </div>
-       
+---
+
 <div class="row">
   <div class="column">
     <div class="header"><b>Functional Kitchen</b></div><br>
