@@ -14,6 +14,7 @@ PIXEL hosts themed events, workshops and masterclasses that purposefully bring t
     <img src="/images/community/Community_Img5_630-x-355.png" width="200">
   </div>
        </div>
+       <div class="spacer"> </div>
 <div class="row">
   <div class="column4">
     <img src="/images/community/Community_Img1_630-x-355.jpg" width="200">
@@ -25,7 +26,8 @@ PIXEL hosts themed events, workshops and masterclasses that purposefully bring t
 Our mentors provide technical and business advice to our companies and creators as needed. Check them out <a href="/community/mentorship-programme/">here</a>.<br>
 If you are interested to be part of our community, access our facilities and keep up to date with our programmes and workshops, sign up to be on our mailing list <a href="https://gems.gevme.com/mailing-list" target="_blank">here</a>.<br>
 We host a range of innovation and acceleration programmes of Partners in PIXEL. These initiatives provide our companies and creators more opportunities to access their ecosystems, resources and technical expertise. Check out our Partners <a href="/community/partners/">here</a>.
-  </div></div><h3><b>Fun at PIXEL!</b></h3>
+  </div></div>
+  <h3><b>Fun at PIXEL!</b></h3>
                      
 <div class="row">
   <div class="column">
