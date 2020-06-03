@@ -2,8 +2,18 @@
 title: Community
 permalink: /community/
 ---
-![1](/images/design-thinking/DT_Banner_1440-x-432.png)
+![1](/images/community/Pollinate-Community-Day_Img-3.jpg)
 
+<div class="row">
+  <div class="column4">
+    <b>Do you want to be plugged into a vibrant community with a unique mix of tech, media and design capabilities?</b><br>
+Find opportunities to mix with, learn from and get inspired by each other to create customer-centric digital experiences.<br> Companies and creators can look forward to being part of a unique, multi-disciplinary community of tech innovators, content creators, digital designers and game developers in PIXEL.<br>
+PIXEL hosts themed events, workshops and masterclasses that purposefully bring together a combination of tech X media X design for customer-centric innovation. For example, we regularly conduct design thinking workshop and UI/UX clinics for tech companies to incorporate design principles into their digital products. We support content creation projects using digital techniques and immersive technology.
+  </div>
+  <div class="column5">
+    <img src="/images/community/Community_Img5_630-x-355.png" width="200">
+  </div>
+       </div>
 **Interested to learn what design thinking is about and how it can help you accelerate digital innovation and transformation?**
 
 ![2](/images/design-thinking/DT_Img1_630-x-355.png)
