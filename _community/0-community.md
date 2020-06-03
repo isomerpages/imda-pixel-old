@@ -1,5 +1,5 @@
 ---
-title: Design Thinking
+title: Community
 permalink: /community/
 ---
 ![1](/images/design-thinking/DT_Banner_1440-x-432.png)
