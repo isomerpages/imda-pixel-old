@@ -13,7 +13,8 @@ PIXEL hosts themed events, workshops and masterclasses that purposefully bring t
   <div class="column5">
     <img src="/images/community/Community_Img5_630-x-355.png" width="200">
   </div>
-       </div><br>
+       </div>
+<div class="row"<div class="spacer"> </div>/div>       
 <div class="row">
   <div class="column4">
     <img src="/images/community/Community_Img1_630-x-355.jpg" width="200">
