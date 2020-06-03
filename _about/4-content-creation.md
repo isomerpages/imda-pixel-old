@@ -35,7 +35,6 @@ A brief synopsis of what you intend to produce<br>
 <br>
 For those need advice on content creation projects, you can check out our list of mentors <a href="/community/mentorship-programme/">here</a>.
   </div></div>
-
 <h3>FACILITIES AND EQUIPMENT</h3>
 
 <div class="row">
