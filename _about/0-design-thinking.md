@@ -30,7 +30,8 @@ Tap on PIXEL’s mentors who can coach and facilitate your innovation projects u
                      
 <div class="row">
   <div class="column">
-    <div class="header"><b>Ideation Room</b></div><br>
+    <b>Ideation Room</b><br>
+         <div class="spacer"> </div>
     <div class="para">Brainstorm for ideas in this conducive environment during your Design Thinking sessions</div><br>
          <img src="/images/facilities/facilities-and-equipment/ideation2.jpg" width="200">
   </div>
