@@ -21,6 +21,7 @@ permalink: /community/companies/
               <div class="para">Design Business Chamber Singapore (DBCS) is the nation’s leading multidisciplinary design chamber since 1985. A strong advocate of applying design in business, we seek to raise the standard of professional practices and create business opportunities through cross-collaborations in local and international contexts.</div>         
   </div>
      </div>
+  <div class="row">   
  <div class="column-c">
         <a href="https://alo.health/" target="_blank"><img src="/images/companies/AloVR_300x230.jpg"></a><br>
          <div class="header"><b>Alo VR</b></div><br>
