@@ -349,6 +349,18 @@ $desktop: 960px + (2 * $gap) !default;
 	padding-left: 15px;
 	padding-right: 15px;
   height: 400px;
+	overflow: auto;
+	
+  /* Should be removed. Only for demonstration */
+}
+	  .column-c {
+  float: left;
+  width: 32%;
+  padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+  height: 400px;
 	
   /* Should be removed. Only for demonstration */
 }
