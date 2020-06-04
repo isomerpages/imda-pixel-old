@@ -356,10 +356,7 @@ $desktop: 960px + (2 * $gap) !default;
 	  .column-c {
   float: left;
   width: 32%;
-  padding-top: 10px;
-	padding-bottom: 10px;
-	padding-left: 15px;
-	padding-right: 15px;
+  padding: 10px;
   height: 800px;
 	
   /* Should be removed. Only for demonstration */
