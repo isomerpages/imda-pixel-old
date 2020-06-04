@@ -31,7 +31,6 @@ permalink: /community/companies/
         <a href="https://www.facebook.com/mantapictures/?modal=admin_todo_tour" target="_blank"><img src="/images/companies/mantaweblogo.png" width="200"></a><br>
          <div class="header"><b>Manta Pictures</b></div><br>
     <div class="para">Manta Pictures is the brainchild of actress/producer Debra Teng.<br>
-
 It's first project is a talk show called "Under The Carpet", and its first series is entitled"#metoo" that focuses on the topic of sexual harassment. It hopes to expand into OTT, film and other productions as it grows.</div>         
   </div>
  <div class="column">
@@ -50,33 +49,29 @@ It's first project is a talk show called "Under The Carpet", and its first serie
         <a href="https://www.linkedin.com/in/wee-boon-siong-0006b7157/?originalSubdomain=sg" target="_blank"><img src="/images/companies/avidologoweb.png" width="200"></a><br>
          <div class="header"><b>Avido Robotics</b></div><br>
     <div class="para">Avido Robotics was previously a finalist in the Tech Factor challenge 2017 for their product CookSafe.
-<br>
-CookSafe aims to reduce kitchen fires by reminding users of unattended cooking and automatically turning off the gas knob off when unattended cooking is detected. The CookSafe device does not require modifications to the gas stove.</div>         
+<br>CookSafe aims to reduce kitchen fires by reminding users of unattended cooking and automatically turning off the gas knob off when unattended cooking is detected. The CookSafe device does not require modifications to the gas stove.</div>     
   </div>
   <div class="column">
         <a href="https://battleskybrigade.com/" target="_blank"><img src="/images/companies/BAttleBre_web.png" width="200"></a><br>
          <div class="header"><b>BattleBrew Productions</b></div><br>
-    <div class="para">BattleBrew Productions is a small team based on a tiny sunny island brewing up games that we want the world to play.<br> 
-We're a feisty crew of creators and craftsmen working on the next generation of mobile strategy games. We’re ready for battle, and always brewing something new!</div>         
+    <div class="para">BattleBrew Productions is a small team based on a tiny sunny island brewing up games that we want the world to play.<br>We're a feisty crew of creators and craftsmen working on the next generation of mobile strategy games. We’re ready for battle, and always brewing something new!</div>         
   </div>
      </div>
  <div class="row">
  <div class="column">
         <a href="https://creativesatwork.asia/" target="_blank"><img src="/images/companies/creativesAtWork_logoweb.png" width="200"></a><br>
          <div class="header"><b>Creatives At Work</b></div><br>
-    <div class="para">A media agency that brings together project owners and media freelancers from all over the world, we believe that matching the best talent to each project is the key to a successful campaign.<br> 
-</div>         
-  </div></div>
+    <div class="para">A media agency that brings together project owners and media freelancers from all over the world, we believe that matching the best talent to each project is the key to a successful campaign.</div>         
+  </div>
        <div class="column">
         <a href="http://www.embodiedsensing.com/" target="_blank"><img src="/images/companies/embodied-sensingweblogo.png" width="200"></a><br>
          <div class="header"><b>Embodied Sensing</b></div><br>
-              <div class="para">Embodied Sensing is a tech-startup looking at improving the lives of people through smart-inclusive sensing technologies. We are committed to the development of smart devices for the elderly, people with disabilities and their caregivers. </div>         
+              <div class="para">Embodied Sensing is a tech-startup looking at improving the lives of people through smart-inclusive sensing technologies. We are committed to the development of smart devices for the elderly, people with disabilities and their caregivers.</div>         
   </div>
        <div class="column">
         <a href="http://ignite-vr.com/" target="_blank"><img src="/images/companies/IgniteVR_logoweb.png" width="200"></a><br>
          <div class="header"><b>Ignite VR</b></div><br>
-    <div class="para">We are a Virtual Reality Company based in sunny Singapore, specialising in bespoked applications and experiences.<br>
-We are also very involved in community building and have organized meetup, demo sessions, hackathon and more to bring VR to Singapore and nearby regions.</div>         
+    <div class="para">We are a Virtual Reality Company based in sunny Singapore, specialising in bespoked applications and experiences.<br>We are also very involved in community building and have organized meetup, demo sessions, hackathon and more to bring VR to Singapore and nearby regions.</div>         
   </div>
        </div>
  <div class="row">
