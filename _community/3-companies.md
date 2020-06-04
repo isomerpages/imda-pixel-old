@@ -21,7 +21,23 @@ permalink: /community/companies/
               <div class="para">Design Business Chamber Singapore (DBCS) is the nation’s leading multidisciplinary design chamber since 1985. A strong advocate of applying design in business, we seek to raise the standard of professional practices and create business opportunities through cross-collaborations in local and international contexts.</div>         
   </div>
      </div>
-    <div class="row">
+ <div class="column-c">
+        <a href="https://alo.health/" target="_blank"><img src="/images/companies/AloVR_300x230.jpg"></a><br>
+         <div class="header"><b>Alo VR</b></div><br>
+    <div class="para">ALO develops virtual reality solutions that advance human potential and well-being. We partner with healthcare professionals and researchers to create immersive content for cognitive training, pain management and physical rehabilitation. We’re currently developing a proprietary VR platform to help lower the risk of falls among the the elderly.</div>         
+  </div>
+ <div class="column-c">
+        <a href="https://axomem.io/" target="_blank"><img src="/images/companies/Axomem_300x230_colour.png"></a><br>
+         <div class="header"><b>Axomem</b></div><br>
+    <div class="para">Next-generation analytics and AI hosting platform, enabling 3D/AR/VR visualisation of complex relationships and capable of supporting multi-terabyte datasets at near real-time speeds.</div>         
+  </div>
+       <div class="column-c">
+        <a href="https://www.dbcsingapore.org/" target="_blank"><img src="/images/companies/DBCS_300x230px.png"></a><br>
+         <div class="header"><b>Design Business Chamber Singapore</b></div><br>
+              <div class="para">Design Business Chamber Singapore (DBCS) is the nation’s leading multidisciplinary design chamber since 1985. A strong advocate of applying design in business, we seek to raise the standard of professional practices and create business opportunities through cross-collaborations in local and international contexts.</div>         
+  </div>
+     </div>
+<div class="row">
        <div class="column-c">
         <a href="https://www.gluu.life/" target="_blank"><img src="/images/companies/Gluu_300x230px.jpg"></a><br>
          <div class="header"><b>Gluu</b></div><br>
@@ -39,6 +55,7 @@ It's first project is a talk show called "Under The Carpet", and its first serie
     <div class="para">XYConnect is the inventor of Wireless on Light. Its novel product de.Light makes the light as WiFi hotspot. Moving into 5G age, XYConnect is changing the light into 5G network access point.</div>         
   </div>
   </div>
+  
   <div class="row">
        <div class="column-c">
         <a href="https://www.swirlgo.com/" target="_blank"><img src="/images/companies/advantirelogoweb.png"></a><br>
@@ -57,6 +74,7 @@ It's first project is a talk show called "Under The Carpet", and its first serie
     <div class="para">BattleBrew Productions is a small team based on a tiny sunny island brewing up games that we want the world to play.<br>We're a feisty crew of creators and craftsmen working on the next generation of mobile strategy games. We’re ready for battle, and always brewing something new!</div>         
   </div>
      </div>
+ 
  <div class="row">
  <div class="column-c">
         <a href="https://creativesatwork.asia/" target="_blank"><img src="/images/companies/creativesAtWork_logoweb.png"></a><br>
