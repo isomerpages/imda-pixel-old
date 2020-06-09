@@ -397,7 +397,8 @@ $desktop: 960px + (2 * $gap) !default;
 	line-height: 1.4;
 }
 	a::before {
-		  content: none;
+		  content: none !important;
+		display: none !important;
 	  }
 	  }
 .header {
