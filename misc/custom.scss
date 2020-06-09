@@ -456,6 +456,6 @@ height: 100px;
   }
 	  }
 	  
-a::before {
+a[href$=".pdf"]:before {
 		  content: none;
 	  }
