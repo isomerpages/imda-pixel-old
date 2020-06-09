@@ -454,7 +454,7 @@ height: 100px;
 	 a[href$=".pdf"]:before {
    		 content: none;
 	  }
-		 a[href$=".pdf"] {
-			 position: relative;
+		a[href$=".pdf"] {
+    position: relative;
     margin-left: 0;
-	  }
+}
