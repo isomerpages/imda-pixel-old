@@ -451,8 +451,10 @@ height: 100px;
     height: 20rem;
   }
 	  }
-	 a[href$=".pdf"] {
+	 a[href$=".pdf"]:before {
    		 content: none;
-		 position: relative;
+	  }
+		 a[href$=".pdf"] {
+			 position: relative;
     margin-left: 1;
 	  }
