@@ -451,7 +451,12 @@ height: 100px;
     height: 20rem;
   }
 	  }
-a[href$=".pdf"]:before {
+a[href$=".pdf"]::before {
+		  
+	content: "";
+	margin-left: 1px !important;
+	  }
+	  a[href$=".pdf"]:before {
 		  
 	content: "";
 	margin-left: 1px !important;
