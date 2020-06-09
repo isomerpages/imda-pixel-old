@@ -396,6 +396,9 @@ $desktop: 960px + (2 * $gap) !default;
   font-size: 16px;
 	line-height: 1.4;
 }
+	a::before {
+		  content: none;
+	  }
 	  }
 .header {
 text-align: center;
@@ -452,9 +455,6 @@ height: 100px;
   }
 	  }
 	  
-	  p:before {
-   content: none;
-}
-	  a::before {
+a::before {
 		  content: none;
 	  }
