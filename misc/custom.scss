@@ -452,6 +452,7 @@ height: 100px;
   }
 	  }
 	 a[href$=".pdf"] {
-   		 position: relative;
+   		 content: "";
+		 position: relative;
     margin-left: 1;
 	  }
