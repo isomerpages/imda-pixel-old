@@ -454,5 +454,5 @@ height: 100px;
 a[href$=".pdf"]:before {
 		  
 	content: "";
-	margin-left: 1px;
+	margin-left: 1px !important;
 	  }
