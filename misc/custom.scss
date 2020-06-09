@@ -396,10 +396,6 @@ $desktop: 960px + (2 * $gap) !default;
   font-size: 16px;
 	line-height: 1.4;
 }
-	a::before {
-		  content: none !important;
-		display: none !important;
-	  }
 	  }
 .header {
 text-align: center;
@@ -457,5 +453,5 @@ height: 100px;
 	  }
 	  
 a[href$=".pdf"]:before {
-		  content: none;
+		  content: "";
 	  }
