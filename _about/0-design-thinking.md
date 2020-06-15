@@ -16,7 +16,7 @@ To find out more, download the brochure <a href="/files/PIXEL Brochure_Design Th
     <img src="/images/design-thinking/DT_Img1_630-x-355.png" width="200">
   </div>
        </div>
-       <div class="row"><div class="spacer0"> </div></div> 
+       <div class="row"><div class="spacer1"> </div></div> 
 <div class="row">
   <div class="column4">
     <img src="/images/design-thinking/DT_Img2_770-x-430.png" width="200">
