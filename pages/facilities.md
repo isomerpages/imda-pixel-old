@@ -24,20 +24,23 @@ Within the 25,000 square feet innovation space, PIXEL provides a unique mix of f
     PIXEL also provides co-working and incubation spaces to companies that are working on innovation projects relating to tech, media or games and are looking for space and facilities. These spaces provide a conducive environment for the companies to work on their projects and also allow them to be connected to a multidisciplinary community of tech innovators, content creators, game developers and digital designers.<br>
   Click <a href="https://forms.cwp.gov.sg/venuerequest/FormNFJO7" target="_blank">here</a> to apply for the incubation or co-working space now.
   </div></div>
+  
 <h3>FACILITIES AND EQUIPMENT</h3>
 <div class="row">
   <div class="column">
     <div class="header"><b>Fabrication Lab</b></div><br>
     <div class="para">Use the equipment such as 3D printers or laster available in the labs for rapid prototyping</div><br>
-         <img src="/images/facilities/facilities-and-equipment/Fabrication-Area_630-x-355.png" width="200">
+          <div class="image"><img src="/images/facilities/facilities-and-equipment/Fabrication-Area_630-x-355.png" width="200"></div>
   </div>
   <div class="column">
     <div class="header"><b>Immersive Experiences Lab</b></div><br>
-    <div class="para">Visit our Immersive Experience Lab to try out the different equipment available and explore how you may use these to develop a powerful immersive experience.</div><br><img src="/images/facilities/facilities-and-equipment/Immersive-Experiences-Lab_630-x-355.png" width="200">
+    <div class="para">Visit our Immersive Experience Lab to try out the different equipment available and explore how you may use these to develop a powerful immersive experience.</div><br>
+    <div class="image"><img src="/images/facilities/facilities-and-equipment/Immersive-Experiences-Lab_630-x-355.png" width="200"></div>
   </div>
   <div class="column">
     <div class="header"><b>Usability Testing Lab</b></div><br>
-    <div class="para">Test out your digital prototypes here to gather feedback from your users</div><br><img src="/images/facilities/facilities-and-equipment/User-Testing-Lab_630x355.png" width="200">
+    <div class="para">Test out your digital prototypes here to gather feedback from your users</div><br>
+     <div class="image"><img src="/images/facilities/facilities-and-equipment/User-Testing-Lab_630x355.png" width="200"></div>
     </div>
        </div>
 
