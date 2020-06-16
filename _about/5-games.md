@@ -16,7 +16,7 @@ We offer a conducive and creative environment for digital games and game-related
     <img src="/images/games/Games-UX_Img1_630-x-355.png" width="200">
   </div>
        </div>
-<div class="row"><div class="spacer"> </div></div>       
+<div class="row"><div class="spacer1"> </div></div>       
 <div class="row">
   <div class="column4">
     <img src="/images/games/Games_Img 2.jpg" width="200">
