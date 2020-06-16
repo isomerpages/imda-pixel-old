@@ -18,6 +18,19 @@ links:
   - title: Events
     url: /events/
     sublinks:
-    - title: Overview
+    - title: Design Thinking
       url: /events/design-thinking/
+    - title: Digital Content
+      url: /events/digital-content/
+    - title: Digital Storytelling
+      url: /events/digital-storytelling/
+    - title: Games
+      url: /events/games/
+    - title: Immersive Media
+      url: /events/immersive-media/
+    - title: Tech
+      url: /events/tech/
+    - title: UI UX
+      url: /events/ui-ux/
+     
  
