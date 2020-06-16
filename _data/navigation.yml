@@ -16,4 +16,7 @@ links:
   - title: Community
     collection: community
   - title: Events
-    resource_room: true
+    sub-links:
+    - title: Overview
+      url: /events/design-thinking/
+ 
