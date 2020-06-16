@@ -41,7 +41,7 @@ Within the 25,000 square feet innovation space, PIXEL provides a unique mix of f
     <div class="para">Test out your digital prototypes here to gather feedback from your users</div><br><img src="/images/facilities/facilities-and-equipment/User-Testing-Lab_630x355.png" width="200">
     </div>
        </div>
-<div class="row"><hr class="fac"></div>
+<hr class="fac">
 <div class="row">
   <div class="column">
     <div class="header"><b>Ideation Room</b></div><br>
