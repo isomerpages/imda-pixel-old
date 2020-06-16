@@ -14,7 +14,7 @@ Content creators can find shared production facilities and equipment at PIXEL th
     <img src="/images/content-creation/online-content-img1 edited.jpg" width="200">
   </div>
        </div>
-<div class="row"><div class="spacer"> </div></div>       
+<div class="row"><div class="spacer1"> </div></div>       
 <div class="row">
   <div class="column4">
     <img src="/images/content-creation/Content-Creation_Img1_630-x-355.png" width="200">
