@@ -17,7 +17,7 @@ links:
     collection: community
   - title: Events
     url: /events/
-    sub-links:
+    sublinks:
     - title: Overview
       url: /events/design-thinking/
  
