@@ -47,7 +47,7 @@ Within the 25,000 square feet innovation space, PIXEL provides a unique mix of f
 ---
 
 <div class="row">
-  <div class="column-alt">
+  <div class="column">
     <div class="header"><b>Ideation Room</b></div><br>
         <div class="para2">Brainstorm for ideas in this conducive environment during your Design Thinking sessions.</div><br>
          <div class="image"><img src="/images/facilities/facilities-and-equipment/ideation2.jpg" width="200"></div>
