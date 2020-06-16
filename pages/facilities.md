@@ -65,7 +65,7 @@ Within the 25,000 square feet innovation space, PIXEL provides a unique mix of f
        </div>
 
 ---    
-<br>
+
 <div class="row">
   <div class="column">
     <div class="header"><b>Incubation Suite</b></div><br>
