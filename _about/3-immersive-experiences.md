@@ -15,7 +15,7 @@ We host workshop and mixers to share about the latest innovations, tools and tec
     <img src="/images/immersive-experiences/IME_Img1_630-x-355.png" width="200">
   </div>
        </div>
-<div class="row"><div class="spacer"> </div></div>       
+<div class="row"><div class="spacer1"> </div></div>       
 <div class="row">
   <div class="column4">
     <img src="/images/immersive-experiences/IME_Img2_770x430.png" width="200">
