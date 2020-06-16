@@ -353,14 +353,14 @@ $desktop: 960px + (2 * $gap) !default;
 	
   /* Should be removed. Only for demonstration */
 }
-	  .column-t {
+	  .column-alt {
   float: left;
   width: 32%;
   padding-top: 10px;
 	padding-bottom: 10px;
 	padding-left: 15px;
 	padding-right: 15px;
-  height: 185px;
+  height: 27.5rem;
 	overflow: auto;
 	  }
 	  .column-p {
