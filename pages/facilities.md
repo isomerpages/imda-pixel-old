@@ -49,16 +49,16 @@ Within the 25,000 square feet innovation space, PIXEL provides a unique mix of f
 <div class="row">
   <div class="column">
     <div class="header"><b>Ideation Room</b></div><br>
-        <div class="para2">Brainstorm for ideas in this conducive environment during your Design Thinking sessions.</div><br>
+        <div class="para">Brainstorm for ideas in this conducive environment during your Design Thinking sessions.</div><br>
          <img src="/images/facilities/facilities-and-equipment/ideation2.jpg" width="200">
   </div>
   <div class="column">
     <div class="header"><b>Production Studios with Green Screen</b></div><br>
-    <div class="para2">Get creative in the professional video production studio with facilities such as green screens, virtual video system, professional cameras and camera crane system.</div><br><img src="/images/facilities/facilities-and-equipment/IMG_8110-green-screen-2.jpg" width="200">
+    <div class="para">Get creative in the professional video production studio with facilities such as green screens, virtual video system, professional cameras and camera crane system.</div><br><img src="/images/facilities/facilities-and-equipment/IMG_8110-green-screen-2.jpg" width="200">
   </div>
   <div class="column">
     <div class="header"><b>Production Rooms (Video and Sound)</b></div><br>
-    <div class="para2">Record and edit your creative pieces at our video and sound production facilities filled with all the tools and software required for your project.</div><br><img src="/images/facilities/facilities-and-equipment/Production-Room_630-x-355.png" width="200">
+    <div class="para">Record and edit your creative pieces at our video and sound production facilities filled with all the tools and software required for your project.</div><br><img src="/images/facilities/facilities-and-equipment/Production-Room_630-x-355.png" width="200">
        </div>
        </div>
 
