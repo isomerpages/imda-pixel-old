@@ -15,7 +15,7 @@ Our support includes: (1) Workshops and Masterclasses on how to develop capabili
     <img src="/images/digital-storytelling/DigitalStorytelling-_Img1_630-x-355.png" width="200">
   </div>
        </div>
-<div class="row"><div class="spacer"> </div></div>       
+<div class="row"><div class="spacer1"> </div></div>       
 <div class="row">
   <div class="column4">
     <img src="/images/digital-storytelling/DigitalStorytelling_Img2_770-x-430.png" width="200">
