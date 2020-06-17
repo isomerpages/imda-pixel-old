@@ -16,13 +16,16 @@ VR, Healthcare, Seniors</div>
         <a href="https://axomem.io/" target="_blank"><img src="/images/companies/Axomem_300x230_colour.png"></a><br>
          <div class="header"><b>Axomem</b></div><br>
       <div class="spacer"> </div>
-    <div class="para">Next-generation analytics and AI hosting platform, enabling 3D/AR/VR visualisation of complex relationships and capable of supporting multi-terabyte datasets at near real-time speeds.</div>         
+    <div class="para">Expertise:<br>
+Enterprise Data Analytics, 
+3D, VR and AR Visualisation of Business Data, AI and Automation</div>         
   </div>
        <div class="column-c">
         <a href="https://www.dbcsingapore.org/" target="_blank"><img src="/images/companies/DBCS_300x230px.png"></a><br>
          <div class="header"><b>Design Business Chamber Singapore</b></div><br>
             <div class="spacer"> </div>
-              <div class="para">Design Business Chamber Singapore (DBCS) is the nation’s leading multidisciplinary design chamber since 1985. A strong advocate of applying design in business, we seek to raise the standard of professional practices and create business opportunities through cross-collaborations in local and international contexts.</div>         
+              <div class="para">Expertise:<br>
+Networking between Design & Business Communities </div>         
   </div>
      </div>
 <div class="row">
