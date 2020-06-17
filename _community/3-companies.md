@@ -87,4 +87,22 @@ Tech</div>
 Games Development/Immersive Media</div>         
   </div>
        </div>
+ <div class="row">
+ <div class="column-c">
+        <a href="http://www.immersively.co/" target="_blank"><img src="/images/companies/Immersively_logoweb.png"></a><br>
+         <div class="header"><b>iMMERSiVELY</b></div><br>
+    <div class="para">Expertise:<br>
+Immersive Media</div>         
+  </div>
+       <div class="column-c">
+        <a href="https://www.meshminds.com/" target="_blank"><img src="/images/companies/Meshminds-logoweb.png"></a><br>
+         <div class="header"><b>MeshMinds</b></div><br>
+              <div class="para">Expertise:<br>
+Virtual Reality/Immersive Media</div>         
+  </div>
+       <div class="column-c">
+                 
+  </div>
+       </div>      
+       
      
