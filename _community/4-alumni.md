@@ -7,7 +7,7 @@ permalink: /community/alumni/
 <br>
 <div class="row">
   <div class="column3">
-        <a href="https://42lab.io/" target="_blank"><img src="/images/alumni/42lab_weblogo.png" width="150"></a<br>
+        <a href="https://42lab.io/" target="_blank"><img src="/images/alumni/42lab_weblogo.png" width="150"></a><br>
          <div class="header"><b>42 LAB</b></div><br>
     <div class="para">Expertise:<br>
 Biotech/div>         
