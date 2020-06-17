@@ -9,7 +9,8 @@ permalink: /community/companies/
         <a href="https://alo.health/" target="_blank"><img src="/images/companies/AloVR_300x230.jpg"></a><br>
          <div class="header"><b>Alo VR</b></div><br>
        <div class="spacer"> </div>
-    <div class="para">ALO develops virtual reality solutions that advance human potential and well-being. We partner with healthcare professionals and researchers to create immersive content for cognitive training, pain management and physical rehabilitation. We’re currently developing a proprietary VR platform to help lower the risk of falls among the the elderly.</div>         
+    <div class="para">Expertise:<br>
+VR, Healthcare, Seniors</div>         
   </div>
  <div class="column-c">
         <a href="https://axomem.io/" target="_blank"><img src="/images/companies/Axomem_300x230_colour.png"></a><br>
