@@ -6,13 +6,13 @@ permalink: /community/companies/
      
 <div class="row">
   <div class="column-c">
-       <a href="https://alo.health/" target="_blank"><img src="/images/companies/AloVR_300x230.jpg"></a></div><br>
+       <div class="image"><a href="https://alo.health/" target="_blank"><img src="/images/companies/AloVR_300x230.jpg"></a><br>
          <div class="header"><b>Alo VR</b></div><br>
     <div class="para">Expertise:<br>
 VR, Healthcare, Seniors</div>         
   </div>
  <div class="column-c">
-        <div class="image"><a href="https://axomem.io/" target="_blank"><img src="/images/companies/Axomem_300x230_colour.png"></a>/div><br>
+        <div class="image"><a href="https://axomem.io/" target="_blank"><img src="/images/companies/Axomem_300x230_colour.png"></a></div><br>
          <div class="header"><b>Axomem</b></div><br>
     <div class="para">Expertise:<br>
 Enterprise Data Analytics, 
