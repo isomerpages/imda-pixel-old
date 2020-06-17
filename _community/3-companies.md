@@ -6,20 +6,20 @@ permalink: /community/companies/
      
 <div class="row">
   <div class="column-c">
-       <div class="image"><a href="https://alo.health/" target="_blank"><img src="/images/companies/AloVR_300x230.jpg"></a></div><br>
+       <div class="image"><a href="https://alo.health/" target="_blank"><img src="/images/companies/AloVR_300x230.jpg"></a></div><br><br>
          <div class="header"><b>Alo VR</b></div><br>
     <div class="para">Expertise:<br>
 VR, Healthcare, Seniors</div>         
   </div>
  <div class="column-c">
-        <div class="image"><a href="https://axomem.io/" target="_blank"><img src="/images/companies/Axomem_300x230_colour.png"></a></div><br>
+        <div class="image"><a href="https://axomem.io/" target="_blank"><img src="/images/companies/Axomem_300x230_colour.png"></a></div><br><br>
          <div class="header"><b>Axomem</b></div><br>
     <div class="para">Expertise:<br>
 Enterprise Data Analytics, 
 3D, VR and AR Visualisation of Business Data, AI and Automation</div>         
   </div>
        <div class="column-c">
-        <div class="image"><a href="https://www.dbcsingapore.org/" target="_blank"><img src="/images/companies/DBCS_300x230px.png"></a></div><br>
+        <div class="image"><a href="https://www.dbcsingapore.org/" target="_blank"><img src="/images/companies/DBCS_300x230px.png"></a></div><br><br>
          <div class="header"><b>Design Business Chamber Singapore</b></div><br>
               <div class="para">Expertise:<br>
 Networking between Design & Business Communities </div>         
