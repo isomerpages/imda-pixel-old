@@ -25,7 +25,7 @@ Tech</div>
 Tech & Design</div>         
   </div>
        <div class="column3">
-        <a href="https://www.affable.ai/" target="_blank"><img src="/images/alumni/affable-logo-with-text2web.png" width="150"><br></a>
+        <a href="https://www.affable.ai/" target="_blank"><img src="/images/alumni/affable-logo-with-text2web.png" width="150"></a><br>
          <div class="header"><b>Affable</b></div><br>
     <div class="para">Expertise:<br>
 Tech</div>         
