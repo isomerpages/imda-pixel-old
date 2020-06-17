@@ -42,7 +42,7 @@ Within the 25,000 square feet innovation space, PIXEL provides a unique mix of f
     <div class="para">Test out your digital prototypes here to gather feedback from your users</div><br>
      <div class="image"><img src="/images/facilities/facilities-and-equipment/User-Testing-Lab_630x355.png" width="200"></div>
     </div>
-       </div>
+       </div><div class="spacer1"> </div>  
 <hr>
 <div class="row">
   <div class="column">
@@ -60,7 +60,7 @@ Within the 25,000 square feet innovation space, PIXEL provides a unique mix of f
     <div class="para2">Record and edit your creative pieces at our video and sound production facilities filled with all the tools and software required for your project.</div><br>
     <div class="image"><img src="/images/facilities/facilities-and-equipment/Production-Room_630-x-355.png" width="200"></div>
        </div>
-       </div><div class="spacer"> </div>
+       </div><div class="spacer"> </div><div class="spacer1"> </div>       
 
 ---    
 
