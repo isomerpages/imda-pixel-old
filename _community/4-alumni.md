@@ -2,7 +2,7 @@
 title: Alumni
 permalink: /community/alumni/
 ---
-<h1>Alumni</h1>
+<h1><b>Alumni</b></h1>
 
 <br>
 <div class="row">
