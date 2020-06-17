@@ -85,63 +85,74 @@ Games Development</div>
        </div>
 <div class="row">
   <div class="column3">
-        <img src="/images/alumni/mylogonephtech_weblogo.png" width="150"><br>
+        <a href="http://www.nephtech.com.sg/" target="_blank"><img src="/images/alumni/mylogonephtech_weblogo.png" width="150"></a><br>
          <div class="header"><b>NephTech Pte Ltd</b></div><br>
-    <div class="para"><a href="http://www.nephtech.com.sg/" target="_blank">Website</a></div>         
+    <div class="para">Expertise:<br>
+Tech</div>         
   </div>
  <div class="column3">
-        <img src="/images/alumni/NeuralBay_logoweb.png" width="150"><br>
+        <a href="https://www.neuralbay.com/" target="_blank"><img src="/images/alumni/NeuralBay_logoweb.png" width="150"></a><br>
          <div class="header"><b>NeuralBay</b></div><br>
-    <div class="para"><a href="https://www.neuralbay.com/" target="_blank">Website</a></div>         
+    <div class="para">Expertise:<br>
+Artificial Intellegence/Immersive Media</div>         
   </div>
        <div class="column3">
-        <img src="/images/alumni/joysteak-logoweb.png" width="150"><br>
+        <a href="https://joysteak.com/" target="_blank"><img src="/images/alumni/joysteak-logoweb.png" width="150"></a><br>
          <div class="header"><b>Joysteak Studios</b></div><br>
-              <div class="para"><a href="https://joysteak.com/" target="_blank">Website</a></div>         
+              <div class="para">Expertise:<br>
+Games Development</div>         
   </div>
        <div class="column3">
-        <img src="/images/alumni/imbalogo-web.png" width="150"><br>
+        <a href="http://www.imbainteractive.com/" target="_blank"><img src="/images/alumni/imbalogo-web.png" width="150"></a><br>
          <div class="header"><b>Rustbucket Interactive and IMBA Interactive</b></div><br>
-    <div class="para"><a href="http://www.imbainteractive.com/" target="_blank">Website</a></div>         
+    <div class="para">Expertise:<br>
+Games/interactive media/Digital Storytelling</div>         
   </div>
        </div>
  <div class="row">
   <div class="column3">
-        <img src="/images/alumni/tendaysstudios_web.png" width="150"><br>
+        <a href="http://www.10days-studio.com/" target="_blank"><img src="/images/alumni/tendaysstudios_web.png" width="150"></a><br>
          <div class="header"><b>Tendays Studio</b></div><br>
-    <div class="para"><a href="http://www.10days-studio.com/" target="_blank">Website</a></div>         
+    <div class="para">Expertise:<br>
+Games Development</div>         
   </div>
  <div class="column3">
-        <img src="/images/alumni/TFILogo150119weblogo.png" width="150"><br>
+        <a href="https://www.transferfi.com/" target="_blank"><img src="/images/alumni/TFILogo150119weblogo.png" width="150"></a><br>
          <div class="header"><b>Transfer Fi</b></div><br>
-    <div class="para"><a href="https://www.transferfi.com/" target="_blank">Website</a></div>         
+    <div class="para">Expertise:<br>
+Tech</div>         
   </div>
        <div class="column3">
-        <img src="/images/alumni/pngthunderconsole_300x230px.png" width="150"><br>
+        <a href="https://www.thunderconsole.com/index.html" target="_blank"><img src="/images/alumni/pngthunderconsole_300x230px.png" width="150"></a><br>
          <div class="header"><b>Thunderconsole</b></div><br>
-              <div class="para"><a href="https://www.thunderconsole.com/index.html" target="_blank">Website</a></div>
+              <div class="para">Expertise:<br>
+Cloud Computing for Gaming</div>
   </div>
        <div class="column3">
-        <img src="/images/alumni/umitronweblogo.png" width="150"><br>
+        <a href="https://umitron.com/en/mission.html" target="_blank"><img src="/images/alumni/umitronweblogo.png" width="150"></a><br>
          <div class="header"><b>Umitron</b></div><br>
-    <div class="para"><a href="https://umitron.com/en/mission.html" target="_blank">Website</a></div>         
+    <div class="para">Expertise:<br>
+Aquatech</div>         
   </div>
        </div>
  <div class="row">
   <div class="column3">
-        <img src="/images/alumni/downloadviddsee_lgoo.png" width="150"><br>
+        <a href="https://www.viddsee.com/?locale=en" target="_blank"><img src="/images/alumni/downloadviddsee_lgoo.png" width="150"></a><br>
          <div class="header"><b>Viddsee</b></div><br>
-    <div class="para"><a href="https://www.viddsee.com/?locale=en" target="_blank">Website</a></div>         
+    <div class="para">Expertise:<br>
+Content Distribution and Creation</div>         
   </div>
  <div class="column3">
-        <img src="/images/alumni/vrcollab-logoweb.png" width="150"><br>
+        <a href="https://vrcollab.com/" target="_blank"><img src="/images/alumni/vrcollab-logoweb.png" width="150"></a>
          <div class="header"><b>VRCollab</b></div><br>
-    <div class="para"><a href="https://vrcollab.com/" target="_blank">Website</a></div>         
+    <div class="para">Expertise:<br>
+Immersive Media</div>         
   </div>
        <div class="column3">
-        <img src="/images/alumni/Vuulr_logoweb.png" width="150"><br>
+        <a href="https://www.vuulr.com/" target="_blank"><img src="/images/alumni/Vuulr_logoweb.png" width="150"></a>
          <div class="header"><b>Vuulr</b></div><br>
-              <div class="para"><a href="https://www.vuulr.com/" target="_blank">Website</a></div>
+              <div class="para">Expertise:<br>
+Online Content Distribution & Acquisition, Blockchain</div>
   </div>
        <div class="column3">
                  <div class="header"><b> </b></div><br>
