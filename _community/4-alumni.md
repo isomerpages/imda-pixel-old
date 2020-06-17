@@ -10,7 +10,7 @@ permalink: /community/alumni/
         <a href="https://42lab.io/" target="_blank"><img src="/images/alumni/42lab_weblogo.png" width="150"></a><br>
          <div class="header"><b>42 LAB</b></div><br>
     <div class="para">Expertise:<br>
-Biotech/div>         
+Biotech</div>         
   </div>
  <div class="column3">
         <a href="https://www.ackcio.com/" target="_blank"><img src="/images/alumni/Ackio1weblogo.png" width="150"></a><br>
