@@ -6,7 +6,7 @@ permalink: /community/companies/
      
 <div class="row">
   <div class="column-c">
-       <div class="image"><a href="https://alo.health/" target="_blank"><img src="/images/companies/AloVR_300x230.jpg"></a><br>
+       <div class="image"><a href="https://alo.health/" target="_blank"><img src="/images/companies/AloVR_300x230.jpg"></a></div><br>
          <div class="header"><b>Alo VR</b></div><br>
     <div class="para">Expertise:<br>
 VR, Healthcare, Seniors</div>         
