@@ -93,19 +93,21 @@ Tech</div>
  <div class="column3">
         <a href="https://www.neuralbay.com/" target="_blank"><img src="/images/alumni/NeuralBay_logoweb.png" width="150"></a><br>
          <div class="header"><b>NEURALBAY</b></div><br>
+   <div class="spacer1"> </div>
     <div class="para">Expertise:<br>
 Artificial Intellegence/Immersive Media</div>         
   </div>
        <div class="column3">
         <a href="https://joysteak.com/" target="_blank"><img src="/images/alumni/joysteak-logoweb.png" width="150"></a><br>
          <div class="header"><b>JOYSTEAK STUDIOS</b></div><br>
+         <div class="spacer1"> </div>
               <div class="para">Expertise:<br>
 Games Development</div>         
   </div>
        <div class="column3">
         <a href="http://www.imbainteractive.com/" target="_blank"><img src="/images/alumni/imbalogo-web.png" width="150"></a><br>
          <div class="header"><b>RUSTBUCKET INTERACTIVE AND IMBA INTERACTIVE</b></div><br>
-         <div class="spacer"> </div>
+         <div class="spacer1"> </div>
     <div class="para">Expertise:<br>
 Games/interactive media/Digital Storytelling</div>         
   </div>
