@@ -105,6 +105,7 @@ Games Development</div>
        <div class="column3">
         <a href="http://www.imbainteractive.com/" target="_blank"><img src="/images/alumni/imbalogo-web.png" width="150"></a><br>
          <div class="header"><b>RUSTBUCKET INTERACTIVE AND IMBA INTERACTIVE</b></div><br>
+         <div class="spacer"> </div>
     <div class="para">Expertise:<br>
 Games/interactive media/Digital Storytelling</div>         
   </div>
