@@ -419,29 +419,7 @@ $desktop: 960px + (2 * $gap) !default;
 	line-height: 1.4;
 }
 	  }
-.column41 {
-	float: center;
-	width: 60%;
-		padding-top: 10px;
-	padding-left: 10px;
-	padding-right: 10px;
-	padding-bottom: 10px;
-	
-			margin-left: 5px;
-	  }
-.column51 {
-	float: center;
-	width: 40%;
-		padding-top: 20px;
-	padding-left: 10px;
-	padding-right: 10px;
-	padding-bottom: -10px;
-			margin-left: 5px;
-	ul li {
-  font-size: 16px;
-	line-height: 1.4;
-}
-	  }	  
+	  
 .header {
 text-align: center;
 	height: 20px;
