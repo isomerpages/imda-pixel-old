@@ -8,7 +8,7 @@ permalink: /about/uiux/
   <div class="column4">
     <b>Looking to transform the User Interface/User Experience (UI/UX) of your products and services?</b><br><div class="spacer"> </div>
 Natural and intuitive interfaces and experiences are key to customer-centric innovation. PIXEL helps companies to enhance the user experience of their digital products or services, including web, mobile applications, immersive media, game consoles and emerging interfaces.<br>
-Our support includes: (1) Workshops and Masterclasses on how to develop and refine the UI/UX as part of the digital innovation process (2) Project-based coaching with an expert to transform the UI/UX of a digital product, and build capabilities in your team (3) a fully-equipped Usability Testing Lab to conduct usability interviews.<br>To find out more, download the brochure <a href="/files/PIXEL Brochure_Design Thinking_Reading.pdf" target="_blank">here</a>.
+Our support includes: (1) Workshops and Masterclasses on how to develop and refine the UI/UX as part of the digital innovation process (2) Project-based coaching with an expert to transform the UI/UX of a digital product, and build capabilities in your team (3) a fully-equipped Usability Testing Lab to conduct usability interviews.<br>To find out more, download the brochure <a href="/files/PIXEL Brochure_UIUX_Reading.pdf" target="_blank">here</a>.
 
   </div>
   <div class="column5">
