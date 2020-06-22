@@ -87,6 +87,7 @@ Games Development</div>
   <div class="column3">
         <a href="http://www.nephtech.com.sg/" target="_blank"><img src="/images/alumni/mylogonephtech_weblogo.png" width="150"></a><br>
          <div class="header"><b>NEPHTECH PTE LTD</b></div><br>
+    <div class="spacer1"> </div>
     <div class="para">Expertise:<br>
 Tech</div>         
   </div>
