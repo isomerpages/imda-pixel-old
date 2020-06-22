@@ -29,7 +29,6 @@ permalink: /community/mentorship-programme/mentor-list
   </div>
        </div>
 ---
-<br>
 
 <b>Design Thinking</b>
 <div class="row">
@@ -55,7 +54,6 @@ permalink: /community/mentorship-programme/mentor-list
        </div>
        
 ---
-<br>
 
 <b>Digital Storytelling</b>
 <div class="row">
@@ -81,7 +79,6 @@ permalink: /community/mentorship-programme/mentor-list
        </div>
        
 ---
-<br>
 
 <b>Games</b>
 <div class="row">
@@ -106,7 +103,6 @@ permalink: /community/mentorship-programme/mentor-list
   </div>
        </div>
 ---
-<br>
 
 <b>Immersive Experiences</b>
 <div class="row">
