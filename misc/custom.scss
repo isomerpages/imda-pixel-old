@@ -463,11 +463,10 @@ height: 8.5rem;
 
 /* Responsive mobile layout */
 @media screen and (max-width: 600px) {
-	.notification-bar {
+.notification-bar {
    .bg-secondary {
     background-color: #4372d6!important;
 }
-.bp-notification {
     background-color: #f5f5f5;
     border-radius: 0;
     padding: .55rem!important;
