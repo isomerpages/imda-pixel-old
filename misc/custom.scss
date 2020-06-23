@@ -463,11 +463,26 @@ height: 8.5rem;
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
+	.bp-notification {
+    background-color: #f5f5f5;
+    border-radius: 0;
+    padding: .5rem;
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+}
   .column {
     width: 100%;
   }
+	.header {
+    text-align: center;
+    width: 18.75rem;
+    height: 1rem;
+    margin-top: 3rem;
+    margin-bottom: 0;
+}
 	.para {
-height: 4.75rem;
+height: 4rem;
 	margin-bottom: 1rem;
 	font-size: 0.95rem;
 }
@@ -476,20 +491,10 @@ height: 4.75rem;
 	margin-bottom: 1rem;
 	font-size: 0.95rem;
 	  }
-.image { height: 4.75rem;
-	margin-top: 5px;
-	margin-bottom: 5px;
-	img { max-width: 75%;
-		height: auto;
-	}
-	  }
-	.img { max-width: 75%;
-		height: auto;
-	}
 	.content img {
     display: block;
     margin: inherit;
-    width: 80%;
+    width: 16.25rem;
 }
 	.column-c {
     width: 100%;
