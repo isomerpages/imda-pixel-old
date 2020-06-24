@@ -19,11 +19,6 @@ sections:
         button: <h5>Learn more</h5>
         url: /faq/
 
-    - resources:
-        title: Join our Events
-        subtitle: Register now for our upcoming events
-        button: View all events
-
     - carousel:
        - title: Fabrication Labs
          subtitle:
@@ -50,6 +45,12 @@ sections:
          description: Shoot your videos in a Kopitiam, a train carriage, a 1950s diner or stage a talk show with three large projection screens as backdrop! This area also functions as a place for discussions or simply for chilling out after a busy day of video production.
          image: /images/homepage/IMG_8133-theme-mtg-room-2.jpg
          alt: Thematic Sets
+         
+    - resources:
+        title: Join our Events
+        subtitle: Register now for our upcoming events
+        button: View all events
+        
 careers-subtitle: 
 careers-description: 
 ---
