@@ -7,7 +7,7 @@ permalink: /about/content-creation/
 <div class="row">
   <div class="column4">
     <b>Are you looking for the right facilities and equipment to create your online content?</b><br><div class="spacer"> </div>
-Whether you are an inspired individual currently filming from your bedroom, or an online video content creator with 10,000 subscribers looking to pilot/trial ideas, PIXEL has programmes and resources to help you create content.<br>
+Whether you are an inspired individual currently filming from your bedroom, or an online video content creator with 10,000 subscribers looking to pilot/trial ideas, PIXEL has programmes and resources to help you create content.<br><br>
 Content creators can find shared production facilities and equipment at PIXEL that are essential for video production of all levels, such as production studios, green screen and editing suites, thematic sets, co-working areas and cameras. There are plenty of opportunities for you to connect with fellow creators to exchange ideas and collaborate.
   </div>
   <div class="column5">
