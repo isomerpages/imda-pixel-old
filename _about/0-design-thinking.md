@@ -44,6 +44,6 @@ Tap on PIXEL’s mentors who can coach and facilitate your innovation projects u
   </div>
   <div class="column">
     <div class="header"><b>Fabrication Lab</b></div><br>
-    <div class="para">Chill out with some of the latest console games or test your prototypes at this zone.</div><br><img src="/images/facilities/facilities-and-equipment/Fabrication-Area_630-x-355.png" width="200">
+    <div class="para">Use the equipment such as 3D printers or laser cutters available in labs for rapid prototyping.</div><br><img src="/images/facilities/facilities-and-equipment/Fabrication-Area_630-x-355.png" width="200">
     </div>
        </div>
