@@ -42,7 +42,7 @@ sections:
          alt: Functional Kitchen and Pantry
        - title: Thematic Sets
          subtitle: 
-         description: Shoot your videos in a "Kopitiam", a "train carriage", a "1950s diner" or stage a talk show with three large projection screens as backdrop! This area also functions as a place for discussions or simply for chilling out after a busy day of video production.
+         description: Shoot your videos in a Kopitiam, a train carriage, a 1950s diner or stage a talk show with three large projection screens as backdrop! This area also functions as a place for discussions or simply for chilling out after a busy day of video production.
          image: /images/homepage/IMG_8133-theme-mtg-room-2.jpg
          alt: Thematic Sets
          
