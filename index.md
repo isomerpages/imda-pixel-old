@@ -24,7 +24,7 @@ sections:
         subtitle: Register now for our upcoming events
         button: View all events
 
-     - carousel:
+    - carousel:
        - title: Fabrication Labs
          subtitle:
          description: Teams can use the equipment such as 3D printers or laser cutters available in PIXEL for rapid prototyping.
