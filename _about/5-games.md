@@ -9,7 +9,7 @@ permalink: /about/games/
   <div class="column4">
     <b>Are you a game developer looking for resources to help turn ideas into prototypes, or build a game for commercialisation?</b><br><div class="spacer"> </div>
 Whether you are developing casual or serious games, AR/VR games, or just looking to gamify your digital product, PIXEL has the right facilities and programmes for you! 
-<br>
+<br><br>
 We offer a conducive and creative environment for digital games and game-related start-ups to prototype and develop their games or solutions, as well as to plug into our local games community. PIXEL offers promising game companies support from incubation stages to being full-fledged commercially viable companies.
   </div>
   <div class="column5">
