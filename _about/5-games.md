@@ -25,7 +25,7 @@ We offer a conducive and creative environment for digital games and game-related
     <b>Getting Serious about Play</b><br>
     <div class="spacer"> </div>
     If you want to be mentored by games experts and get advice on how to develop a great game, you can check out the list of our mentors <a href="/community/mentorship-programme/">here</a>.
-<br>
+<br><br>
 If you are looking for a conducive environment to develop and showcase your games. PIXEL is the space for you. Just fill up the form <a href="https://forms.cwp.gov.sg/venuerequest/FormNFJO7" target="_blank">here</a> and we will get back to you soon!
   </div></div>
 <h3>FACILITIES AND EQUIPMENT</h3>
