@@ -24,22 +24,32 @@ sections:
         subtitle: Register now for our upcoming events
         button: View all events
 
-    - carousel:
-       - title: Networked Trade Platform
+     - carousel:
+       - title: Fabrication Labs
          subtitle:
-         description: Find out more about the NTP to advance your business and improve your trade operations.
-         image: /images/NTP.png
-         alt: Networked Trade Platform
-       - title: inSYNC Issue 56
+         description: Teams can use the equipment such as 3D printers or laser cutters available in PIXEL for rapid prototyping.
+         image: /images/homepage/landing-carousel-1.jpg
+         alt: Fabrication Labs
+       - title: Hot-desking and Discussion Area
          subtitle: 
-         description: inSYNC is a publication by Singapore Customs. We keep you updated on topics that impact the trading community. Read us to get vital news, pertinent insights, useful pointers, practical advice and more. 
-         image: /images/inSYNC.png
-         alt: inSYNC Issue 56
-       - title: E-SERVICES
+         description: Discuss, brainstorm or get work done at the user-friendly hot-desking area. 
+         image: /images/homepage/IMG_8129-discussion-hotdesk.jpg
+         alt: Hot-desking and Discussion Area
+       - title: Common Area for Events
          subtitle: 
-         description: For information on forms, service links and our Customs@SG Mobile & Web Application. 
-         image: /images/E-SERVICES.png
-         alt: E-SERVICES
+         description: Mingle and connect with the community at the events held at PIXEL. 
+         image: /images/homepage/lv1-stage.jpg
+         alt: Common Area for Events
+       - title: Functional Kitchen and Pantry
+         subtitle: 
+         description: Aspiring to set up your own food channel? The functional kitchen built for cooking videos is dressed up in three interchangeable themes - modern, country and Peranakan. It also serves as a pantry area for creators who are using the collaboration area. 
+         image: /images/homepage/lv1-kitchen.jpg
+         alt: Functional Kitchen and Pantry
+       - title: Thematic Sets
+         subtitle: 
+         description: Shoot your videos in a Kopitiam, a train carriage, a 1950s diner or stage a talk show with three large projection screens as backdrop! This area also functions as a place for discussions or simply for chilling out after a busy day of video production.
+         image: /images/homepage/IMG_8133-theme-mtg-room-2.jpg
+         alt: Thematic Sets
 careers-subtitle: 
 careers-description: 
 ---
