@@ -208,43 +208,7 @@ $desktop: 960px + (2 * $gap) !default;
 		}
 	}
 }
-#main-content{
-	.owl-theme .owl-dots .owl-dot {
-    display: none;
-    zoom: 1;
-}
-	.owl-dot {
-    display: none;
-    zoom: 1;
-}
-  .owl-carousel{
-	  .owl-theme .owl-dots .owl-dot {
-    display: none;
-    zoom: 1;
-}
-	  img {
-    display: block;
-    max-width: 32rem;
-		  height: auto;
-		  margin-left: auto;
-		  margin-right: auto;
-}
-	  .owl-theme .owl-dots .owl-dot {
-    display: none;
-    zoom: 1;
-}
-    .owl-item{
-      div.is-3{
-        h3{
-          word-break: break-word;
-          overflow-wrap: break-word;
-          font-size: 1.5rem;
-          line-height: 2rem;
-        }
-      }
-    }
-  }
-}
+
 
 // Navbar
 .navbar{
