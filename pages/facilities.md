@@ -89,7 +89,6 @@ Within the 25,000 square feet innovation space, PIXEL provides a unique mix of f
     <div class="header"><b>Co-Working and Discussion Space</b></div><br>
     <div class="spacer"> </div>
      <div class="para">Meet up with our mentors at the discussion areas and meeting rooms to get some advice from them on your projects.</div><br><img src="/images/facilities/facilities-and-equipment/IMG_8129-discussion-hotdesk (1).jpg" width="200">
-    </div>
   </div>
   <div class="column">
     <div class="header"><b>Thematic Sets</b></div><br>
