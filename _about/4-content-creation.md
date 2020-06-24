@@ -24,7 +24,7 @@ Content creators can find shared production facilities and equipment at PIXEL th
 Turn Your Ideas Into Reality</b><br>
     <div class="spacer"> </div>
     Online creators who are creating experimental content and pilots are welcome to try out and use PIXEL’s spaces and facilities.
-<br>
+<br><br>
 Apply to use our facilities with the following details <a href="https://forms.cwp.gov.sg/venuerequest/FormIUC5W" target="_blank">here</a>:<br>
 A brief synopsis of what you intend to produce<br>
 <ul>
