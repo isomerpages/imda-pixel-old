@@ -88,17 +88,14 @@ Within the 25,000 square feet innovation space, PIXEL provides a unique mix of f
 <div class="row">
   <div class="column">
     <div class="header"><b>Co-Working and Discussion Space</b></div><br>
-    <div class="spacer"> </div>
      <div class="para">Meet up with our mentors at the discussion areas and meeting rooms to get some advice from them on your projects.</div><br><img src="/images/facilities/facilities-and-equipment/IMG_8129-discussion-hotdesk (1).jpg" width="200">
   </div>
   <div class="column">
     <div class="header"><b>Thematic Sets</b></div><br>
-    <div class="spacer"> </div>
     <div class="para">Shoot your videos in a "Kopitiam", a "train carriage", a "1950s diner" or stage a talk show with three large projection screens as backdrop.</div><br><img src="/images/facilities/facilities-and-equipment/IMG_8133-theme-mtg-room-2.jpg" width="200">
   </div>
   <div class="column">
     <div class="header"><b>Production Rooms (Video and Sound)</b></div><br>
-    <div class="spacer"> </div>
     <div class="para">Record and edit your creative pieces at our video and sound production facilities filled with all the tools and software required for your project.</div><br><img src="/images/facilities/facilities-and-equipment/Production-Room_630-x-355.png" width="200">
        </div>
        </div>
