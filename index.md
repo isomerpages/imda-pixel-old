@@ -21,8 +21,7 @@ sections:
     - resources:
         title: Join our Events
         subtitle: Register now for our upcoming events
-        button: View all events
-        
+        button: View all events       
   - carousel:
        - title: Fabrication Labs
          subtitle:
