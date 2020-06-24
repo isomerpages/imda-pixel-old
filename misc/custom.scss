@@ -210,6 +210,10 @@ $desktop: 960px + (2 * $gap) !default;
 }
 #main-content{
   .owl-carousel{
+	  .owl-theme .owl-dots .owl-dot {
+    display: none;
+    zoom: 1;
+}
 	  img {
     display: block;
     max-width: 32rem;
