@@ -8,7 +8,7 @@ permalink: /about/immersive-experiences/
   <div class="column4">
     <b>Are you looking to experiment and create innovative immersive experiences?</b><br><div class="spacer"> </div>
 PIXEL is always on the lookout to showcase how latest technologies are combined with engaging content to create realistic and immersive experiences in different industries. We provide companies with incubation, co-working and testing spaces equipped with hardware, software platforms and tools relevant for Virtual Reality, Augmented Reality, Mixed Reality and Advanced Interfaces. 
-<br>
+<br><br>
 We host workshop and mixers to share about the latest innovations, tools and techniques to create realistic and immersive experiences. Visit us to get inspired by the endless possibilities of using immersive media across different sectors and use-cases.
   </div>
   <div class="column5">
