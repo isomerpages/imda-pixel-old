@@ -82,7 +82,8 @@ Within the 25,000 square feet innovation space, PIXEL provides a unique mix of f
        </div>
        </div>
 
---- 
+<div class="spacer1"> </div>  
+<hr>
 
 <div class="row">
   <div class="column">
