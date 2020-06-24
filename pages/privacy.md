@@ -21,7 +21,7 @@ By using our site, you consent to our privacy policy.
 
 We reserve the right to change our privacy policy from time to time. If we decide to make changes to our privacy policy, we will post those the changes on this page.
 
-Please email to <enquire@impixel.sg>,
+Please email to <enquiry@impixel.sg>,
 
 (a) For any enquiries or feedback on our privacy policy;
 
