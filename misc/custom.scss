@@ -212,7 +212,8 @@ $desktop: 960px + (2 * $gap) !default;
   .owl-carousel{
 	  img {
     display: block;
-    width: 16.25rem;
+    width: 35rem;
+		  margin-left: 15rem;
 }
     .owl-item{
       div.is-3{
