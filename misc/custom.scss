@@ -209,6 +209,7 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+
 // Navbar
 .navbar{
   &-start{
@@ -334,4 +335,217 @@ $desktop: 960px + (2 * $gap) !default;
   @include touch() {
     width: 100%;
   }
+}
+	  
+* {
+  box-sizing: border-box;
+}
+
+/* Start of Custom CSS - Columns */
+.column {
+  float: left;
+  width: 32%;
+  margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	margin-right: 15px;
+  height: 25rem;
+	overflow: visible;
+	
+}
+	  .column-alt {
+  float: left;
+  width: 32%;
+  padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+  height: 27.5rem;
+	overflow: auto;
+	  }
+	  .column-p {
+  float: left;
+  width: 32%;
+  padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+  height: 160px;
+	overflow: auto;
+	  }
+	  .column-c {
+  float: left;
+  width: 32%;
+  margin-bottom: 10px;
+		  margin-left: 5px;
+		  margin-right: 5px;
+  height: 480px;
+	
+ 
+}
+.column2 {
+  float: center;
+  width: 80%;
+  padding: 10px;
+  	
+}
+.column3 {
+	float: center;
+	width: 23%;
+		padding: 10px 12px 10px 12px;
+			margin-left: 5px;
+	  }
+.column4 {
+	float: center;
+	width: 60%;
+		padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	
+			margin-left: 5px;
+	  }
+.column5 {
+	float: center;
+	width: 40%;
+		padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: -10px;
+			margin-left: 5px;
+	ul li {
+  font-size: 16px;
+	line-height: 1.4;
+}
+	  }
+/* Body Text and Images */	  
+.header {
+text-align: center;
+	height: 20px;
+padding-top: 5px;
+	margin-bottom: 8px;
+}
+.image { height: 6.5rem;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	img { max-width: 100%;
+		height: auto;
+	}
+	  }
+.spacer {
+height: 15px;	  
+}
+.spacer1 { height: 2.75rem;
+	  }
+.para {
+height: 8.5rem;
+	margin-bottom: 1rem;
+	font-size: 0.95rem;
+}
+.para2 {
+	height: 9.5rem;
+	margin-bottom: 1rem;
+	font-size: 0.95rem;
+	  }
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.row2:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive mobile layout */
+@media screen and (max-width: 600px) {
+.notification-bar {
+   .bg-secondary {
+    background-color: #4372d6!important;
+}
+    background-color: #f5f5f5;
+    border-radius: 0;
+    padding: .9375rem!important;
+    position: unset;
+    width: 99%;
+    z-index: 2;
+}
+.bp-notification {
+    background-color: #f5f5f5;
+    border-radius: 0;
+    padding: .65rem!important;
+    position: unset;
+    width: 100%;
+    z-index: 2;
+}
+  .column {
+    width: 100%;
+  }
+.header {
+    text-align: center;
+    width: 80%;
+    height: 1rem;
+        margin-bottom: 0.25rem;
+}
+	.para {
+height: 4rem;
+width: 80%;
+	margin-bottom: 0.75rem;
+	font-size: 0.925rem;
+}
+.para2 {
+	height: 7.5rem;
+	margin-bottom: 1rem;
+	font-size: 0.95rem;
+	  }
+	.content img {
+    display: block;
+    margin: inherit;
+    width: 16.25rem;
+}
+	.column-c {
+    width: 100%;
+  }
+	.column-t {
+    width: 100%;
+  }
+	.column-p {
+    width: 100%;
+  }
+.column2 {
+    width: 100%;
+	height: 150px;
+  }
+	.column3 {
+		width: 100%
+	}
+	.column4 {
+		width: 98%
+	}
+	.column5 {
+		width: 98%
+	}
+}
+@media screen and (min-width: 600px) {
+  .column2 {
+    height: 20rem;
+  }
+	  }
+	 a[href$=".pdf"]:before {
+   		 content: none;
+	  }
+		a[href$=".pdf"] {
+    position: relative;
+    margin-left: 0;
+}
+hr {
+    background-color: #d6d6d6;
+    border: none;
+    display: block;
+    height: 2px;
+    margin-top: 0.5rem;
+    margin-bottom: 3.75rem;
 }
