@@ -88,7 +88,7 @@ permalink: /community/mentorship-programme/mentor-list
     <div class="para"><small><a href="http://www.consigclear.com/" target="_blank">Website</a></small><br>Founding Director, Consigclear LLC</div>         
   </div>
   <div class="column3">
-        <img src="/images/mentor-list/Je-Alipio_300x230px.jpg.jpg" width="150"><br>
+        <img src="/images/mentor-list/Je-Alipio_300x230px.jpg" width="150"><br>
          <div class="header"><b>Je Alipio</b></div><br>
     <div class="para"><small><a href="https://thewaltdisneycompany.com/" target="_blank">Website</a></small><br>Director and Head of Games,  South Apac and Mena,  The Walt Disney Company</div>         
   </div>
