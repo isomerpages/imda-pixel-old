@@ -90,7 +90,7 @@ permalink: /community/mentorship-programme/mentor-list
   <div class="column3">
         <img src="/images/mentor-list/Je-Alipio_300x230px-2.jpg" width="150"><br>
          <div class="header"><b>Je Alipio</b></div><br>
-    <div class="para"><small><a href="https://thewaltdisneycompany.com/" target="_blank">Website</a></small><a href="https://www.linkedin.com/in/jealipio/" target="_blank">LinkedIn Profile</a></small><br>Director and Head of Games,  South Apac and Mena,  The Walt Disney Company</div>         
+    <div class="para"><small><a href="https://thewaltdisneycompany.com/" target="_blank">Website</a></small><br><small><a href="https://www.linkedin.com/in/jealipio/" target="_blank">LinkedIn Profile</a></small><br>Director and Head of Games, South Apac and Mena, The Walt Disney Company</div>     
   </div>
  <div class="column3">
         <img src="/images/mentor-list/Allan-Simonsen_300x230jpg.jpg" width="150"><br>
