@@ -17,7 +17,7 @@ contacts:
   - title: General Enquiries & Feedback
     content:
     - phone: 
-    - email: enquiry@impixel.sg
+    - email: pixel@imda.gov.sg
     - other: Fill up our contact form <i><a href="https://forms.cwp.gov.sg/venuerequest/FormNFJO7" target="_blank">here<a></i>
   
 ---
