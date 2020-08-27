@@ -13,7 +13,7 @@ Sat, Sun and PH: Closed
 
 <b>2. How can I utilise the resources available at PIXEL Studios?</b>
 
-PIXEL Studios’ facilities support independent digital content creators in producing experimental content and/or pilots. Interested users can email us at enquire@impixel.sg with a project proposal to request for usage. Content of proposal may include:
+PIXEL Studios’ facilities support independent digital content creators in producing experimental content and/or pilots. Interested users can email us at pixel@imda.gov.sg with a project proposal to request for usage. Content of proposal may include:
 
 * Concept synopsis
 * Business objective
