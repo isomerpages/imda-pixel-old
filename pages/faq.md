@@ -35,7 +35,7 @@ Interested users who are under 18 years old are required to submit a parental co
 
 As PIXEL Studios is not a commercial media service provider, our facilities are not for hire.
 
-PIXEL Studios’ facilities support independent digital content creators in producing experimental content and/or pilots. Interested users can email us at enquire@impixel.sg with a project proposal to request for usage.
+PIXEL Studios’ facilities support independent digital content creators in producing experimental content and/or pilots. Interested users can email us at pixel@imda.gov.sg with a project proposal to request for usage.
 
 <b>5. How do I become a games incubatee in PIXEL Studios?</b>
 
