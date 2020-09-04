@@ -10,7 +10,7 @@ Design thinking is a human-centred and iterative approach to problem solving, an
 We offer interactive and hands-on workshops to help your company learn and apply design thinking in digital transformation and innovation projects. PIXEL provides a conducive environment for companies to go through the Design Thinking process, from ideation to prototyping.<br>
 Our support includes: (1) Workshops to help your company learn and apply design thinking in digital transformation and innovation projects, (2) Project-based coaching with an expert to have a practical and experiential understanding of Design Thinking principles and to help you to develop customer-centric digital products and services.
        
-To find out more, download the brochure <a href="/files/PIXEL Brochure_Design Thinking_Reading.pdf" target="_blank" >here</a>.
+To find out more, download the brochure <a href="/files/PIXEL Brochure_DesignThinking.pdf" target="_blank" >here</a>.
   </div>
   <div class="column5">
     <img src="/images/design-thinking/DT_Img1_630-x-355.png" width="200">
