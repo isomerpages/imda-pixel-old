@@ -30,7 +30,7 @@ collections:
     output: true
 resources_name: events
 future: true
-google_analytics: UA-91357646-1
+google_analytics: UA-79861556-1
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
