@@ -24,7 +24,7 @@ PIXEL hosts themed events, workshops and masterclasses that purposefully bring t
     <div class="spacer"> </div>
     Companies that incubate or co-work with us are typically developing digital solutions at the nexus of tech and content, or are bringing in design to transform a digital experience. Check them out <a href="/community/companies/">here</a>.<br><br>
 Our mentors provide technical and business advice to our companies and creators as needed. Check them out <a href="/community/mentorship-programme/">here</a>.<br><br>
-If you are interested to be part of our community, access our facilities and keep up to date with our programmes and workshops, sign up to be on our mailing list <a href="https://gems.gevme.com/mailing-list" target="_blank">here</a>.<br><br>
+If you are interested to be part of our community, access our facilities and keep up to date with our programmes and workshops, sign up to be on our mailing list <a href="https://go.gov.sg/pixelsub" target="_blank">here</a>.<br><br>
 We host a range of innovation and acceleration programmes of Partners in PIXEL. These initiatives provide our companies and creators more opportunities to access their ecosystems, resources and technical expertise. Check out our Partners <a href="/community/partners/">here</a>.
   </div></div>
   <h3><b>Fun at PIXEL!</b></h3>
