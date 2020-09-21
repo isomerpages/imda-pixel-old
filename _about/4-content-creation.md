@@ -25,7 +25,7 @@ Turn Your Ideas Into Reality</b><br>
     <div class="spacer"> </div>
     Online creators who are creating experimental content and pilots are welcome to try out and use PIXEL’s spaces and facilities.
 <br><br>
-Apply to use our facilities with the following details <a href="https://forms.cwp.gov.sg/venuerequest/FormIUC5W" target="_blank">here</a>:<br>
+Apply to use our facilities with the following details <a href="https://go.gov.sg/ccreq" target="_blank">here</a>:<br>
 A brief synopsis of what you intend to produce<br>
 <ul>
   <li>Where you intend to shoot (e.g. production studios, functional kitchen, etc.)</li>
