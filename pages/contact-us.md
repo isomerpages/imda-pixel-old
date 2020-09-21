@@ -18,7 +18,7 @@ contacts:
     content:
     - phone: 
     - email: pixel@imda.gov.sg
-    - other: Fill up our contact form <i><a href="https://forms.cwp.gov.sg/venuerequest/FormNFJO7" target="_blank">here<a></i>
+    - other: Fill up our contact form <i><a href="https://go.gov.sg/preqform" target="_blank">here<a></i>
   
 ---
 
