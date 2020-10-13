@@ -8,7 +8,6 @@ permalink: /about/content-creation/
   <div class="column4">
     <b>Are you a Digital Content Creator looking for facilities and equipment to create your online content?</b><br><div class="spacer"> </div>
 Members of PIXEL’s Digital Content Creation Community can use shared production facilities and equipment at PIXEL that are essential for video production of all levels, such as production studios, green screen and editing suites, thematic sets, live streaming equipment and cameras. Usage of PIXEL’s facilities are complementary, and there are plenty of opportunities for you to connect with fellow creators to exchange ideas and collaborate.<br><br>
-  </div>
       <b>Growing the next generation of Digital Content Creators</b><br><div class="spacer"> </div>
 Over the years, Singapore’s Digital Content Creation Community have grown and matured in leaps and bounds. As the world evolves to rely on digital technology to make informed decisions, PIXEL encourages all Content Creators to use data analytics to track and manage their fan base efficiently, and will offer curated workshops for the PIXEL community to join. If you are a content creator experiencing fast growth, or with an established content creation channel, you can apply for our Digital Content Creators membership programme to gain access to our space and facilities for your content production.
   </div>
