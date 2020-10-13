@@ -13,7 +13,7 @@ Our support includes: (1) Workshops to help your company learn and apply design 
 To find out more, download the brochure <a href="/files/PIXEL Brochure_DesignThinking.pdf" target="_blank" >here</a>.
   </div>
   <div class="column5">
-    <img src="/images/design-thinking/01PIXELStarterKitImg.png" width="200"><a href="https://alo.health/" target="_blank">
+    <a href="https://alo.health/" target="_blank"><img src="/images/design-thinking/01PIXELStarterKitImg.png" width="200"></a><br>
   </div>
        </div>
 <div class="row"><div class="spacer1"> </div></div>
