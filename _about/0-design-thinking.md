@@ -14,6 +14,7 @@ To find out more, download the brochure <a href="/files/PIXEL Brochure_DesignThi
   </div>
   <div class="column5">
     <a href="https://alo.health/" target="_blank"><img src="/images/design-thinking/01PIXELStarterKitImg.png" width="200"></a><br>
+  Check out our e-book to learn how your company can benefit from design thinking.<br>
   </div>
        </div>
 <div class="row"><div class="spacer1"> </div></div>
