@@ -6,9 +6,11 @@ permalink: /about/content-creation/
 
 <div class="row">
   <div class="column4">
-    <b>Are you looking for the right facilities and equipment to create your online content?</b><br><div class="spacer"> </div>
-Whether you are an inspired individual currently filming from your bedroom, or an online video content creator with 10,000 subscribers looking to pilot/trial ideas, PIXEL has programmes and resources to help you create content.<br><br>
-Content creators can find shared production facilities and equipment at PIXEL that are essential for video production of all levels, such as production studios, green screen and editing suites, thematic sets, co-working areas and cameras. There are plenty of opportunities for you to connect with fellow creators to exchange ideas and collaborate.
+    <b>Are you a Digital Content Creator looking for facilities and equipment to create your online content?</b><br><div class="spacer"> </div>
+Members of PIXEL’s Digital Content Creation Community can use shared production facilities and equipment at PIXEL that are essential for video production of all levels, such as production studios, green screen and editing suites, thematic sets, live streaming equipment and cameras. Usage of PIXEL’s facilities are complementary, and there are plenty of opportunities for you to connect with fellow creators to exchange ideas and collaborate.<br><br>
+  </div>
+      <b>Growing the next generation of Digital Content Creators</b><br><div class="spacer"> </div>
+Over the years, Singapore’s Digital Content Creation Community have grown and matured in leaps and bounds. As the world evolves to rely on digital technology to make informed decisions, PIXEL encourages all Content Creators to use data analytics to track and manage their fan base efficiently, and will offer curated workshops for the PIXEL community to join. If you are a content creator experiencing fast growth, or with an established content creation channel, you can apply for our Digital Content Creators membership programme to gain access to our space and facilities for your content production.
   </div>
   <div class="column5">
     <img src="/images/content-creation/online-content-img1 edited.jpg" width="200">
@@ -21,18 +23,27 @@ Content creators can find shared production facilities and equipment at PIXEL th
   </div>
   <div class="column5">
     <b>
-Turn Your Ideas Into Reality</b><br>
+Digital Content Creators Membership programme</b><br>
     <div class="spacer"> </div>
-    Online creators who are creating experimental content and pilots are welcome to try out and use PIXEL’s spaces and facilities.
+    PIXEL holds a half-yearly Call for Digital Content Creators to join this programme and we only accept new members through our Call. To qualify*, Digital Content creators must demonstrate that they are able to utilize data for their channel, and have at least 100,000 subscribers on a single digital platform or at least 10% month on month growth on subscriber base within the past year.
 <br><br>
-Apply to use our facilities with the following details <a href="https://go.gov.sg/ccreq" target="_blank">here</a>:<br>
-A brief synopsis of what you intend to produce<br>
-<ul>
-  <li>Where you intend to shoot (e.g. production studios, functional kitchen, etc.)</li>
-  <li>When you intend to shoot and the duration</li>
-  <li>On which platform will the content be published</li>
-</ul>
-For those need advice on content creation projects, you can check out our list of mentors <a href="/community/mentorship-programme/">here</a>.
+    Sign up for PIXEL’s mailing list or follow PIXEL’s social media channels to look out for the call for Digital Content Creators membership programme.<br>
+    *Applications will be subjected to approval, and is valid for one year.<br>
+    <b>
+Digital Content Creation Membership call is now open until 16 November 2020.</b><br>
+    <div class="spacer"> </div>
+    To apply, you will need to submit a short report about your channel. The report should include supporting documents that your digital platform meet the membership requirements. A copy of the report template is available here.
+<br><br>
+        After the report is done, you can submit it through this form to apply to be a member of PIXEL’s Digital Content Creator community. We will then get back to you if your application is successful.
+Only submissions submitted before the closing date will be processed.
+<br><br>
+    <b>
+Business to Business (B2B) Related Productions</b><br>
+    <div class="spacer"> </div>
+PIXEL supports B2B productions for the tech community which are non-commercial in nature. From virtual conferences, educational seminars and award ceremonies, PIXEL’s green screen production studio and collaboration space are an ideal location for productions of B2B events.
+<br><br>
+Applications for B2B Related productions are accessed on a case-by-case basis, and can be submitted via the form here.
+<br><br>
   </div></div>
 <h3>FACILITIES AND EQUIPMENT</h3>
 
