@@ -28,7 +28,8 @@ Digital Content Creators Membership programme</b><br>
     PIXEL holds a half-yearly Call for Digital Content Creators to join this programme and we only accept new members through our Call. To qualify*, Digital Content creators must demonstrate that they are able to utilize data for their channel, and have at least 100,000 subscribers on a single digital platform or at least 10% month on month growth on subscriber base within the past year.
 <br><br>
     Sign up for PIXEL’s mailing list or follow PIXEL’s social media channels to look out for the call for Digital Content Creators membership programme.<br>
-    *Applications will be subjected to approval, and is valid for one year.<br>
+    <i>*Applications will be subjected to approval, and is valid for one year.</i>
+    <br><br>
     <b>
 Digital Content Creation Membership call is now open until 16 November 2020.</b><br>
     <div class="spacer"> </div>
