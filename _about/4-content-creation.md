@@ -26,7 +26,7 @@ Digital Content Creators Membership programme</b><br>
     <div class="spacer"> </div>
     PIXEL holds a half-yearly Call for Digital Content Creators to join this programme and we only accept new members through our Call. To qualify*, Digital Content creators must demonstrate that they are able to utilize data for their channel, and have <u>at least 100,000 subscribers on a single digital platform</u><br> or <u>at least 10% month on month growth on subscriber base within the past year.</u><br>
 <br>
-    Sign up for PIXEL’s <a href="https://go.gov.sg/pixelsub" target="_blank" >mailing list</a> or follow PIXEL’s <a href="https://www.facebook.com/IMPIXELsg" target="_blank" >social media channels</a> to look out for the call for Digital Content Creators membership programme.<br>
+    Sign up for PIXEL’s <a href="https://go.gov.sg/pixelsub" target="_blank" >mailing list</a> or follow PIXEL’s <a href="https://www.facebook.com/IMPIXELsg" target="_blank" >social media channels</a> to look out for the call for Digital Content Creators Membership programme.<br>
     <br>
     <i>*Applications will be subjected to approval, and is valid for one year.</i>
     <br><br>
