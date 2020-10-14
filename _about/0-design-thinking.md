@@ -13,7 +13,7 @@ Our support includes: (1) Workshops to help your company learn and apply design 
 To find out more, download the brochure <a href="/files/PIXEL Brochure_DesignThinking.pdf" target="_blank" >here</a>.
   </div>
   <div class="column5">
-    <a href="https://alo.health/" target="_blank"><img src="/images/design-thinking/03PIXELStarterKitImg.png" width="200"></a><br>
+    <a href="/files/The_SME_Guide_to_DT_UIUX_DS-(FA).pdf" target="_blank"><img src="/images/design-thinking/04PIXELStarterKitImg.png" width="200"></a><br>
   <i>Check out our e-book to learn how your company can benefit from design thinking.</i><br>
   </div>
        </div>
