@@ -24,18 +24,18 @@ Over the years, Singapore’s Digital Content Creation Community have grown and 
     <b>
 Digital Content Creators Membership programme</b><br>
     <div class="spacer"> </div>
-    PIXEL holds a half-yearly Call for Digital Content Creators to join this programme and we only accept new members through our Call. To qualify*, Digital Content creators must demonstrate that they are able to utilize data for their channel, and have at least 100,000 subscribers on a single digital platform or at least 10% month on month growth on subscriber base within the past year.
+    PIXEL holds a half-yearly Call for Digital Content Creators to join this programme and we only accept new members through our Call. To qualify*, Digital Content creators must demonstrate that they are able to utilize data for their channel, and <u>have at least 100,000 subscribers on a single digital platform</u> or <u>at least 10% month on month growth on subscriber base within the past year.<u/>
 <br><br>
-    Sign up for PIXEL’s mailing list or follow PIXEL’s social media channels to look out for the call for Digital Content Creators membership programme.<br>
-    <br><br>
+    Sign up for PIXEL’s <a href="/https://go.gov.sg/pixelsub" target="_blank" >mailing list</a> or follow PIXEL’s <a href="https://www.facebook.com/IMPIXELsg" target="_blank" >social media channels</a> to look out for the call for Digital Content Creators membership programme.<br>
+    <br>
     <i>*Applications will be subjected to approval, and is valid for one year.</i>
     <br><br>
     <b>
 Digital Content Creation Membership call is now open until 16 November 2020.</b><br>
     <div class="spacer"> </div>
-    To apply, you will need to submit a short report about your channel. The report should include supporting documents that your digital platform meet the membership requirements. A copy of the report template is available here.
+    To apply, you will need to submit a short report about your channel. The report should include supporting documents that your digital platform meet the membership requirements. A copy of the report template is available <a href="/files/PIXEL Membership Template.pptx" target="_blank" >here</a>.
 <br><br>
-        After the report is done, you can submit it through this form to apply to be a member of PIXEL’s Digital Content Creator community. We will then get back to you if your application is successful.
+        After the report is done, you can submit it through this <a href="https://go.gov.sg/membercc" target="_blank" >form</a> to apply to be a member of PIXEL’s Digital Content Creator community. We will then get back to you if your application is successful.
 Only submissions submitted before the closing date will be processed.
 <br><br>
     <b>
@@ -43,7 +43,7 @@ Business to Business (B2B) Related Productions</b><br>
     <div class="spacer"> </div>
 PIXEL supports B2B productions for the tech community which are non-commercial in nature. From virtual conferences, educational seminars and award ceremonies, PIXEL’s green screen production studio and collaboration space are an ideal location for productions of B2B events.
 <br><br>
-Applications for B2B Related productions are accessed on a case-by-case basis, and can be submitted via the form here.
+Applications for B2B Related productions are accessed on a case-by-case basis, and can be submitted via the form <a href="https://go.gov.sg/b2bproj" target="_blank" >here</a>.
 <br><br>
   </div></div>
 <h3>FACILITIES AND EQUIPMENT</h3>
