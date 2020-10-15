@@ -12,6 +12,11 @@ permalink: /community/mentorship-programme/mentor-list
          <div class="header"><b>Alan Hellawell</b></div><br>
     <div class="para"><small><a href="https://www.linkedin.com/in/alan-hellawell-96a3263/" target="_blank">LinkedIn Profile</a></small><br>Venture Partner, Alpha JWC</div>         
   </div>
+  <div class="column3">
+        <img src="/images/mentor-list/AndrewLer_300x230px-2.jpg" width="150"><br>
+         <div class="header"><b>Andrew Ler</b></div><br>
+    <div class="para"><small><a href="https://www.linkedin.com/in/andrew-ler-b042882b/" target="_blank">LinkedIn Profile</a></small><br>Senior Advisor of Singapore Exchange Ltd</div>         
+  </div>
  <div class="column3">
         <img src="/images/mentor-list/AndyTan_300X230px.jpg" width="150"><br>
          <div class="header"><b>Andy Tan</b></div><br>
