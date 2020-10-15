@@ -12,11 +12,23 @@ permalink: /community/mentorship-programme/mentor-list
          <div class="header"><b>Alan Hellawell</b></div><br>
     <div class="para"><small><a href="https://www.linkedin.com/in/alan-hellawell-96a3263/" target="_blank">LinkedIn Profile</a></small><br>Venture Partner, Alpha JWC</div>         
   </div>
+  <div class="column3">
+        <img src="/images/mentor-list/AndrewLer_300x230px-2.jpg" width="150"><br>
+         <div class="header"><b>Andrew Ler</b></div><br>
+    <div class="para"><small><a href="https://www.linkedin.com/in/andrew-ler-b042882b/" target="_blank">LinkedIn Profile</a></small><br>Senior Advisor of Singapore Exchange Ltd</div>         
+  </div>
  <div class="column3">
         <img src="/images/mentor-list/AndyTan_300X230px.jpg" width="150"><br>
          <div class="header"><b>Andy Tan</b></div><br>
     <div class="para"><small><a href="https://www.linkedin.com/in/andytanyy/" target="_blank">LinkedIn Profile</a></small><br>Director and Head of APAC Financing Group Loan Syndicate - South East Asia, Credit Suisse</div>         
   </div>
+   <div class="column3">
+        <img src="/images/mentor-list/Arijit Sengupta_300x230px.jpg" width="150"><br>
+         <div class="header"><b>Arijit Sengupta</b></div><br>
+    <div class="para"><small><a href="https://www.bcapgroup.com/" target="_blank">Website</a></small><br><small><a href="https://www.linkedin.com/in/arijit-sengupta/" target="_blank">LinkedIn Profile</a></small>Partner, B Capital Group</div>
+       </div>
+       </div>
+<div class="row">
        <div class="column3">
         <img src="/images/mentor-list/Gustavo-Fuchs_300x230px.jpg" width="150"><br>
          <div class="header"><b>Gustavo Fuchs</b></div><br>

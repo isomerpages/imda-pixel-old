@@ -12,7 +12,8 @@ Our support includes: (1) Workshops and Masterclasses on how to develop and refi
 
   </div>
   <div class="column5">
-    <img src="/images/ui-ux/UI-UX_Img1_630-x-355.png" width="200">
+    <a href="/files/The_SME_Guide_to_DT_UIUX_DS-(FA).pdf" target="_blank"><img src="/images/design-thinking/04PIXELStarterKitImg.png" width="200"></a><br>
+  <i>Check out our <a href="/files/The_SME_Guide_to_DT_UIUX_DS-(FA).pdf" target="_blank" >e-book</a> to learn how your company can benefit from UI/UX.</i><br>
   </div>
        </div>
 <div class="row"><div class="spacer1"> </div></div>       
