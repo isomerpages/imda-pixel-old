@@ -19,7 +19,7 @@ Biotech</div>
 Tech</div>         
   </div>
        <div class="column3">
-        <a href="https://adidesigns.asia/staff/" target="_blank"><img src="/images/alumni/adidesignweb.png" width="150"></a><br>
+        <a href="https://adidesigns.asia/" target="_blank"><img src="/images/alumni/adidesignweb.png" width="150"></a><br>
          <div class="header"><b>ADI DESIGN STUDIO</b></div><br>
               <div class="para">Expertise:<br>
 Tech & Design</div>         
