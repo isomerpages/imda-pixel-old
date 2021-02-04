@@ -35,7 +35,7 @@ permalink: /community/mentorship-programme/mentor-list
     <div class="para"><small><a href="https://www.linkedin.com/in/gustavofuchs/" target="_blank">LinkedIn Profile</a></small><br>General Manager - Cloud & Solutions - Asia, Microsoft</div>         
   </div>
      <div class="column3">
-        <img src="/images/mentor-list/1809 Shashank casual profile_small.jpg" width="150"><br>
+        <img src="/images/mentor-list/1809 Shashank casual profile_cropped.jpg" width="150"><br>
          <div class="header"><b>Shashank Luthra</b></div><br>
     <div class="para"><small><a href="www.linkedin.com/in/shashankluthra" target="_blank">LinkedIn Profile</a></small><br>General Managing Director -  Services & Software Sales - ASEAN, Cisco Systems</div> 
         </div>
