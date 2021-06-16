@@ -101,7 +101,10 @@ Immersive Media</div>
 Virtual Reality/Immersive Media</div>         
   </div>
        <div class="column-c">
-                 
+        <a href="https://www.sendjoynow.com/" target="_blank"><img src="/images/companies/Sendjoylogo.png"></a><br>
+         <div class="header"><b>SENDJOY</b></div><br>
+              <div class="para">Expertise:<br>
+E-Commerce, Media</div>                   
   </div>
        </div>      
        
