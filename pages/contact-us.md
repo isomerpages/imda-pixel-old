@@ -13,12 +13,6 @@ locations:
         time: 9.00am - 6.00pm
         description: 
     maps_link: https://goo.gl/maps/F1EBqnBMaWgzjHPh6
-contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: 
-    - email: pixel@imda.gov.sg
-    - other: Fill up our contact form <i><a href="https://go.gov.sg/preqform" target="_blank">here<a></i>
   
 ---
 
