@@ -13,6 +13,7 @@ PIXEL also provides co-working and incubation spaces to companies that are worki
 Click [here](https://go.gov.sg/preqform) to apply for the incubation or co-working space now.
   
 ###FACILITIES AND EQUIPMENT
+
 | Fabrication Lab | Immersive Experiences Lab | Usability Testing Lab |
 |:-------------:|:-------------:|:-------------:|
 | Use the equipment such as 3D printers or laster available in the labs for rapid prototyping | Visit our Immersive Experience Lab to try out the different equipment available and explore how you may use these to develop a powerful immersive experience. | Test out your digital prototypes here to gather feedback from your users |
