@@ -1,10 +1,8 @@
 contact_us: /contact-us/
 show_reach: true
-feedback: 
-faq: /faq/
+feedback: null
 social_media:
-    facebook: https://www.facebook.com/IMPIXELsg
-    youtube: https://www.youtube.com/channel/UCcRDfEcVDKImGS25brcGmDQ
-    instagram: https://www.instagram.com/impixelsg/
-    linkedin: https://www.linkedin.com/showcase/14678911
-    
+  facebook: https://www.facebook.com/IMPIXELsg
+  youtube: https://www.youtube.com/channel/UCcRDfEcVDKImGS25brcGmDQ
+  instagram: https://www.instagram.com/impixelsg/
+  linkedin: https://www.linkedin.com/showcase/14678911
