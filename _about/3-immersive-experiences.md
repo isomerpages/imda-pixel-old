@@ -24,8 +24,6 @@ We host workshop and mixers to share about the latest innovations, tools and tec
     <b>Innovation in Immersive Experiences</b><br>
     <div class="spacer"> </div>
     As part of our partnership with <b>Unity</b>, workshops will be held at PIXEL to improve skillsets in Immersive Experiences. Check out our schedule of workshops <a href="/events/">here</a>.<br><br>
-Request to book our Immersive Experiences Lab <a href="https://go.gov.sg/imerequest" target="_blank">here</a> to explore how you may use the different equipment available to develop your next immersive experience.<br><br>
-Looking for advice to develop Immersive Experiences? You can engage our mentors listed <a href="/community/mentorship-programme/">here</a>.<br><br>
 If you are looking for a space to showcase your company’s immersive experience solution or to build your prototype, PIXEL is the space for you. Just fill up the form <a href="https://go.gov.sg/preqform" target="_blank">here</a> and we will get back to you soon!
   </div></div>
 <h3>FACILITIES AND EQUIPMENT</h3>
