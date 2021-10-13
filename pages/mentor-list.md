@@ -29,21 +29,11 @@ permalink: /community/mentorship-programme/mentor-list
        </div>
        </div>
 <div class="row">
-       <div class="column3">
-        <img src="/images/mentor-list/Gustavo-Fuchs_300x230px.jpg" width="150"><br>
-         <div class="header"><b>Gustavo Fuchs</b></div><br>
-    <div class="para"><small><a href="https://www.linkedin.com/in/gustavofuchs/" target="_blank">LinkedIn Profile</a></small><br>General Manager - Cloud & Solutions - Asia, Microsoft</div>         
-  </div>
      <div class="column3">
         <img src="/images/mentor-list/1809 Shashank casual profile_cropped.jpg" width="150"><br>
          <div class="header"><b>Shashank Luthra</b></div><br>
     <div class="para"><small><a href="https://www.linkedin.com/in/shashankluthra/" target="_blank">LinkedIn Profile</a></small><br>General Managing Director -  Services & Software Sales - ASEAN, Cisco Systems</div> 
         </div>
-       <div class="column3">
-        <img src="/images/mentor-list/Tan-Toi-Ngee_300x230px.jpg" width="150"><br>
-         <div class="header"><b>Tan Toi Ngee</b></div><br>
-    <div class="para"><small><a href="https://www.linkedin.com/in/toi-ngee-tan-06604b16/?originalSubdomain=sg%C2%A0%C2%A0" target="_blank">LinkedIn Profile</a></small><br>Chief Innovation Officer, Sinar Mas Mining</div>         
-  </div>
        </div>
 ---
 
@@ -97,34 +87,6 @@ permalink: /community/mentorship-programme/mentor-list
        
 ---
 
-<b>Games</b>
-<div class="row">
-  <div class="column3">
-        <img src="/images/mentor-list/Adrian-Kwong_300x230px.jpg" width="150"><br>
-         <div class="header"><b>Adrian Kwong</b></div><br>
-    <div class="para"><small><a href="http://www.consigclear.com/" target="_blank">Website</a></small><br>Founding Director, Consigclear LLC</div>         
-  </div>
-  <div class="column3">
-        <img src="/images/mentor-list/Je-Alipio_300x230px-2.jpg" width="150"><br>
-         <div class="header"><b>Je Alipio</b></div><br>
-    <div class="para"><small><a href="https://thewaltdisneycompany.com/" target="_blank">Website</a></small><br>Director and Head of Games, South Apac and Mena, The Walt Disney Company</div>     
-  </div>
- <div class="column3">
-        <img src="/images/mentor-list/Allan-Simonsen_300x230jpg.jpg" width="150"><br>
-         <div class="header"><b>Allan Simonsen</b></div><br>
-    <div class="para"><small><a href="http://www.boomzap.com/" target="_blank">Website</a></small><br>Technical Director & Co-Founder, Boomzap Pte Ltd</div>         
-  </div>
-       <div class="column3">
-        <img src="/images/mentor-list/don-baey_300x230px.jpg" width="150"><br>
-         <div class="header"><b>Don Baey</b></div><br>
-    <div class="para"><small><a href="https://www.sgg.org.sg/" target="_blank">Website</a></small><br><small><a href="https://www.linkedin.com/in/donbaey/" target="_blank">LinkedIn Profile</a></small><br>Secretary (Honorary), Singapore Games Guild (SGG)</div>         
-  </div>
-       <div class="column3">
-                 <div class="header"> </div><br>
-    <div class="para"> </div>         
-  </div>
-       </div>
----
 
 <b>Immersive Experiences</b>
 <div class="row">
@@ -134,13 +96,19 @@ permalink: /community/mentorship-programme/mentor-list
     <div class="para"><small><a href="https://www.linkedin.com/in/eng-tat-khoo-6061311a/" target="_blank">LinkedIn Profile</a></small><br>Senior Lecturer, NUS Engineering Design and Innovation Centre</div>         
   </div>
  <div class="column3">
-        <img src="/images/mentor-list/Leong-Yong-Shin_300x230px.jpg" width="150"><br>
-         <div class="header"><b>Leong yong Shin</b></div><br>
-    <div class="para"><small><a href="https://www.linkedin.com/in/yong-shin-leong-0a439a9b/" target="_blank">LinkedIn Profile</a></small><br>Technical Lead, Agency for Science, Technology and Research (A*STAR)</div>         
+        <img src="/images/mentor-list/Dr Jeannie Lee.jpg" width="150"><br>
+         <div class="header"><b>Jeannie S LEE</b></div><br>
+    <div class="para"><small><a href="https://www.linkedin.com/in/jeannieleesa" target="_blank">LinkedIn Profile</a></small><br>Associate Professor
+Deputy Director, Centre for Immersification
+Programme Leader, SIT-UofG BSc (Hons) Computing Science
+</div>         
   </div>
-       <div class="column3">
-                 <div class="header"></div><br>
-    <div class="para"></div>         
+ <div class="column3">
+        <img src="/images/mentor-list/Dr Tan Chek Tien_50.jpg" width="150"><br>
+         <div class="header"><b>Chek Tien Tan</b></div><br>
+    <div class="para"><small><a href="https://www.linkedin.com/in/chek-tien-tan-b48aba14" target="_blank">LinkedIn Profile</a></small><br>Associate Professor
+Centre Director, Research Centre for Immersification
+</div>         
   </div>
        <div class="column3">
                  <div class="header"> </div><br>
