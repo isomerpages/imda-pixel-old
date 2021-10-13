@@ -1,50 +1,117 @@
 ---
-title: Facilities
-permalink: /facilities/
+title: Mentors
+permalink: /community/mentorship-programme/mentor-list
 ---
-![](/images/facilities/Facilities_banner_edited.jpg)
+<h1 style="text-align:centre;">Mentors</h1>
 
-**Are you interested to access shared facilities and equipment for customer-centric innovation?**
-![](/images/facilities/Facilities_img1_edited.jpg)
-Within the 25,000 square feet innovation space, PIXEL provides a unique mix of facilities and equipment for technology, media and design all under one roof. All the facilities and equipment are specially designed and curated to help you embed customer centricity into innovation, from our Ideation Rooms to Immersive Experience Lab, Usability Testing Lab (coming soon) and production facilities. <br><br>All our facilities and equipment are free to use. Check out our Facilities Factsheet [here](/files/PIXEL Facilities Factsheet - 20190425.pdf). <br><br>Click [here](https://go.gov.sg/preqform) to fill up the request form if you are interested to book the facilities and equipment.
-**One Stop Centre for Developing Great Digital Experiences**
-![](/images/facilities/IMG_8072-common-area-l2.jpg)
-PIXEL also provides co-working and incubation spaces to companies that are working on innovation projects relating to tech, media or games and are looking for space and facilities. These spaces provide a conducive environment for the companies to work on their projects and also allow them to be connected to a multidisciplinary community of tech innovators, content creators, game developers and digital designers.<br><br>
-Click [here](https://go.gov.sg/preqform) to apply for the incubation or co-working space now.
-  
-### FACILITIES AND EQUIPMENT
+<b>Business</b>
 
-| Fabrication Lab | Immersive Experiences Lab | Usability Testing Lab |
-|:-------------:|:-------------:|:-------------:|
-| Use the equipment such as 3D printers or laster available in the labs for rapid prototyping | Visit our Immersive Experience Lab to try out the different equipment available and explore how you may use these to develop a powerful immersive experience. | Test out your digital prototypes here to gather feedback from your users |
-| ![](/images/facilities/facilities-and-equipment/Fabrication-Area_630-x-355.png) | ![](/images/facilities/facilities-and-equipment/Immersive-Experiences-Lab_630-x-355.png) | ![](/images/facilities/facilities-and-equipment/User-Testing-Lab_630x355.png) |
+<div class="row">
+  <div class="column3">
+        <img src="/images/mentor-list/alan-hellawell_300x230px.jpg" width="150"><br>
+         <div class="header"><b>Alan Hellawell</b></div><br>
+    <div class="para"><small><a href="https://www.linkedin.com/in/alan-hellawell-96a3263/" target="_blank">LinkedIn Profile</a></small><br>Venture Partner, Alpha JWC</div>         
+  </div>
+  <div class="column3">
+        <img src="/images/mentor-list/AndrewLer_300x230px-2.jpg" width="150"><br>
+         <div class="header"><b>Andrew Ler</b></div><br>
+    <div class="para"><small><a href="https://www.linkedin.com/in/andrew-ler-b042882b/" target="_blank">LinkedIn Profile</a></small><br>Senior Advisor of Singapore Exchange Ltd</div>         
+  </div>
+ <div class="column3">
+        <img src="/images/mentor-list/AndyTan_300X230px.jpg" width="150"><br>
+         <div class="header"><b>Andy Tan</b></div><br>
+    <div class="para"><small><a href="https://www.linkedin.com/in/andytanyy/" target="_blank">LinkedIn Profile</a></small><br>Director and Head of APAC Financing Group Loan Syndicate - South East Asia, Credit Suisse</div>         
+  </div>
+   <div class="column3">
+        <img src="/images/mentor-list/Arijit Sengupta_300x230px.jpg" width="150"><br>
+         <div class="header"><b>Arijit Sengupta</b></div><br>
+    <div class="para"><small><a href="https://www.bcapgroup.com/" target="_blank">Website</a></small><br><small><a href="https://www.linkedin.com/in/arijit-sengupta/" target="_blank">LinkedIn Profile</a></small>Partner, B Capital Group</div>
+       </div>
+       </div>
+<div class="row">
+     <div class="column3">
+        <img src="/images/mentor-list/1809 Shashank casual profile_cropped.jpg" width="150"><br>
+         <div class="header"><b>Shashank Luthra</b></div><br>
+    <div class="para"><small><a href="https://www.linkedin.com/in/shashankluthra/" target="_blank">LinkedIn Profile</a></small><br>General Managing Director -  Services & Software Sales - ASEAN, Cisco Systems</div> 
+        </div>
+       </div>
+---
 
-***
+<b>Design Thinking</b>
+<div class="row">
+  <div class="column3">
+        <img src="/images/mentor-list/Arlindo-Silva_300X230PX.jpg" width="150"><br>
+         <div class="header"><b>Arlindo Silva</b></div><br>
+    <div class="para"><small><a href="https://epd.sutd.edu.sg/people/faculty/arlindo-silva" target="_blank">Website</a></small><br>Associate Professor, Singapore University of Technology and Design</div>         
+  </div>
+ <div class="column3">
+        <img src="/images/mentor-list/Keith-Oh_color-300x230px.jpg" width="150"><br>
+         <div class="header"><b>Keith Oh</b></div><br>
+    <div class="para"><small><a href="https://www.linkedin.com/in/keithoh/" target="_blank">LinkedIn Profile</a></small><br>Head of Product Design, Carousell</div>         
+  </div>
+       <div class="column3">
+        <img src="/images/mentor-list/Thierry-Do_300x230px.jpg" width="150"><br>
+         <div class="header"><b>Thierry Do</b></div><br>
+    <div class="para"><small><a href="https://www.thefgpeople.com/" target="_blank">Website</a></small><br>Co-Founder, Customer Experience Maker, FreshlyGround Pte Ltd</div>         
+  </div>
+       <div class="column3">
+                 <div class="header"> </div><br>
+    <div class="para"> </div>         
+  </div>
+       </div>
+       
+---
 
-| Ideation Room | Production Studios with Green Screen | Production Rooms (Video and Sound) |
-|:-------------:|:-------------:|:-------------:|
-| Brainstorm for ideas in this conducive environment during your Design Thinking sessions. | Get creative in the professional video production studio with facilities such as green screens, virtual video system, professional cameras and camera crane system. | Record and edit your creative pieces at our video and sound production facilities filled with all the tools and software required for your project |
-| ![](/images/facilities/facilities-and-equipment/ideation2.jpg) | ![](/images/facilities/facilities-and-equipment/IMG_8110-green-screen-2.jpg) | ![](/images/facilities/facilities-and-equipment/Production-Room_630-x-355.png) |
+<b>Digital Storytelling</b>
+<div class="row">
+  <div class="column3">
+        <img src="/images/mentor-list/Abhilash-Murthy_300X230px.jpg" width="150"><br>
+         <div class="header"><b>Abhilash</b></div><br>
+    <div class="para"><small><a href="https://www.linkedin.com/in/abhilashmurthy/" target="_blank">LinkedIn Profile</a></small><br>Founder & CEO, Bus Uncle Company</div>         
+  </div>
+ <div class="column3">
+        <img src="/images/mentor-list/DiogoMartins_300x230px.jpg" width="150"><br>
+         <div class="header"><b>Diogo Martins</b></div><br>
+    <div class="para"><small><a href="https://www.linkedin.com/in/diogocordesanicetomartins/" target="_blank">LinkedIn Profile</a></small><br>Lead, Content & Community, Mediacorp</div>         
+  </div>
+       <div class="column3">
+        <img src="/images/mentor-list/Marco-Sparmberg_300x230px.jpg" width="150"><br>
+         <div class="header"><b>Marco Sparmbergo</b></div><br>
+    <div class="para"><small><a href="https://www.linkedin.com/in/msparmberg/" target="_blank">LinkedIn Profile</a></small><br>Vice President, Group Strategic Marketing & Communications, DBS</div>         
+  </div>
+       <div class="column3">
+                 <img src="/images/mentor-list/Sebastien-Lepez_300x230px.jpg" width="150"><br>
+              <div class="header"><b>Sebastien Lepez</b></div><br>
+    <div class="para"><small><a href="https://jolt-digital.com/" target="_blank">Website</a></small><br><small><a href="https://www.linkedin.com/in/seblepez/" target="_blank">LinkedIn Profile</a></small>Founder & CEO, Jolt Digital</div>          </div>
+       </div>
+       
+---
 
-***
 
-| Incubation Suite | Game Testing and Play Area | Common Area for Events |
-|:-------------:|:-------------:|:-------------:|
-| Get access to incubation space to develop innovative digital products and solutions at the nexus of tech and media or content. | Chill out with some of the latest console games or test your prototypes at this zone. | Connect with the community at our mixer workshops and meetups held at PIXEL |
-| ![](/images/facilities/facilities-and-equipment/IMG_8040-suite.jpg) | ![](/images/facilities/facilities-and-equipment/IMG_8057-Playtest-area.jpg) | ![](/images/facilities/facilities-and-equipment/lv1-stage.jpg) |
-
-***
-
-| Co-Working and Discussion Space | Thematic Sets | Functional Kitchen |
-|:-------------:|:-------------:|:-------------:|
-| Meet up with our mentors at the discussion areas and meeting rooms to get some advice from them on your projects. | Shoot your videos in a "Kopitiam", a "train carriage", a "1950s diner" or stage a talk show with three large projection screens as backdrop. | Shoot cooking videos in our functional kitchen dressed up in three interchangeable themes - modern, country and Peranakan. |
-| ![](/images/facilities/facilities-and-equipment/IMG_8129-discussion-hotdesk.jpg) | ![](/images/facilities/facilities-and-equipment/IMG_8133-theme-mtg-room-2.jpg) | ![](/images/facilities/facilities-and-equipment/lv1-kitchen.jpg) |
-
-***
-
-| Changing and Makeup Room | Seminar Room |
-|:-------------:|:-------------:|
-| Come here for a change of attire, style your hair and refresh your makeup for your next video shoot. | Attend mixer workshops, masterclasses or meetup sessions here in our seminar room. |
-| ![](/images/facilities/facilities-and-equipment/IMG_8084-makeup.jpg) | ![](/images/facilities/facilities-and-equipment/lv2-seminar-room-1.jpg) |
-
-
+<b>Immersive Experiences</b>
+<div class="row">
+  <div class="column3">
+        <img src="/images/mentor-list/Khoo-Eng-Tat_300x230px.jpg" width="150"><br>
+         <div class="header"><b>Dr Khoo Eng Tat</b></div><br>
+    <div class="para"><small><a href="https://www.linkedin.com/in/eng-tat-khoo-6061311a/" target="_blank">LinkedIn Profile</a></small><br>Senior Lecturer, NUS Engineering Design and Innovation Centre</div>         
+  </div>
+ <div class="column3">
+        <img src="/images/mentor-list/Dr Jeannie Lee.jpg" width="150"><br>
+         <div class="header"><b>Jeannie S LEE</b></div><br>
+    <div class="para"><small><a href="https://www.linkedin.com/in/jeannieleesa" target="_blank">LinkedIn Profile</a></small><br>Associate Professor
+Deputy Director, Centre for Immersification
+Programme Leader, SIT-UofG BSc (Hons) Computing Science
+</div>         
+  </div>
+ <div class="column3">
+        <img src="/images/mentor-list/Dr Tan Chek Tien_50.jpg" width="150"><br>
+         <div class="header"><b>Chek Tien Tan</b></div><br>
+    <div class="para"><small><a href="https://www.linkedin.com/in/chek-tien-tan-b48aba14" target="_blank">LinkedIn Profile</a></small><br>Associate Professor
+Centre Director, Research Centre for Immersification
+</div>         
+  </div>
+       <div class="column3">
+                 <div class="header"> </div><br>
+    <div class="para"> </div>         
+  </div>
+       </div>
