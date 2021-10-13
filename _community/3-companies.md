@@ -31,7 +31,7 @@ VR, Healthcare, Seniors</div>
 Networking between Design & Business Communities </div>         
   </div>
   <div class="column-c">
-       <a href="www.trustineo.net" target="_blank"><img src="/images/companies/trustineo.jpg"></a><br>
+       <a href="https://www.trustineo.net" target="_blank"><img src="/images/companies/trustineo.jpg"></a><br>
          <div class="header"><b>TRUSTINEO</b></div><br>
               <div class="para">Expertise:<br>
 AI/Data </div>         
@@ -51,13 +51,13 @@ Media-tech </div>
 AR/VR </div>         
   </div>
   <div class="column-c">
-       <a href="lendor.sg" target="_blank"><img src="/images/companies/lendor.png"></a><br>
+       <a href="https://lendor.sg" target="_blank"><img src="/images/companies/lendor.png"></a><br>
          <div class="header"><b>LENDOR</b></div><br>
               <div class="para">Expertise:<br>
 AI/Data </div>         
   </div>
   <div class="column-c">
-       <a href="www.voox.io" target="_blank"><img src="/images/companies/voox.png"></a><br>
+       <a href="https://www.voox.io" target="_blank"><img src="/images/companies/voox.png"></a><br>
          <div class="header"><b>VOOX</b></div><br>
               <div class="para">Expertise:<br>
 AR/VR </div>         
