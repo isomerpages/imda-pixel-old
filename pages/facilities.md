@@ -29,7 +29,7 @@ Within the 25,000 square feet innovation space, PIXEL provides a unique mix of f
 <div class="row">
   <div class="column">
     <div class="header"><b>5G Living Lab@PIXEL Request Form</b></div><br>
-    <div class="para">Companies with specific 5G use cases in the areas of AR/VR, content streaming and production and IoT can now experiment with and develop 5G applications at the 5G Living Lab@PIXEL.</div><br><img src="/images/facilities/facilities-and-equipment/_SUR5918.jpg" width="200">
+    <div class="para">Companies with specific 5G use cases in the areas of AR/VR, content streaming and production and IoT can now experiment with and develop 5G applications at the 5G Living Lab@PIXEL.<br>Contact Us: https://go.gov.sg/pixel5g</div><br><img src="/images/facilities/facilities-and-equipment/SUR5918.jpg" width="200">
        </div>
   <div class="column">
     <div class="header"><b>Immersive Experiences Lab</b></div><br>
