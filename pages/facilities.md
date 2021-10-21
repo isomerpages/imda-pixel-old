@@ -28,10 +28,9 @@ Within the 25,000 square feet innovation space, PIXEL provides a unique mix of f
 <h3>FACILITIES AND EQUIPMENT</h3>
 <div class="row">
   <div class="column">
-    <div class="header"><b>Fabrication Lab</b></div><br>
-    <div class="para">Use the equipment such as 3D printers or laster available in the labs for rapid prototyping</div><br>
-          <div class="image"><img src="/images/facilities/facilities-and-equipment/Fabrication-Area_630-x-355.png" width="200"></div>
-  </div>
+    <div class="header"><b>5G Living Lab@PIXEL Request Form</b></div><br>
+    <div class="para">Companies with specific 5G use cases in the areas of AR/VR, content streaming and production and IoT can now experiment with and develop 5G applications at the 5G Living Lab@PIXEL.</div><br><img src="/images/facilities/facilities-and-equipment/_SUR5918.jpg" width="200">
+       </div>
   <div class="column">
     <div class="header"><b>Immersive Experiences Lab</b></div><br>
     <div class="para">Visit our Immersive Experience Lab to try out the different equipment available and explore how you may use these to develop a powerful immersive experience.</div><br>
@@ -113,10 +112,11 @@ Within the 25,000 square feet innovation space, PIXEL provides a unique mix of f
     <div class="header"><b>Seminar Room</b></div><br>
     <div class="para">Attend mixer workshops, masterclasses or meetup sessions here in our seminar room.</div><br><img src="/images/facilities/facilities-and-equipment/lv2-seminar-room-1.jpg" width="200">
        </div>
-  <div class="column">
-    <div class="header"><b>5G Living Lab@PIXEL Request Form</b></div><br>
-    <div class="para">Companies with specific 5G use cases in the areas of AR/VR, content streaming and production and IoT can now experiment with and develop 5G applications at the 5G Living Lab@PIXEL.</div><br><img src="/images/facilities/facilities-and-equipment/_SUR5918.jpg" width="200">
-       </div>
+	     <div class="column">
+    <div class="header"><b>Fabrication Lab</b></div><br>
+    <div class="para">Use the equipment such as 3D printers or laster available in the labs for rapid prototyping</div><br>
+          <div class="image"><img src="/images/facilities/facilities-and-equipment/Fabrication-Area_630-x-355.png" width="200"></div>
+  </div>
        </div>
 
 
