@@ -14,6 +14,7 @@ PIXEL hosts themed events, workshops and masterclasses that purposefully bring t
 
 | ![](/images/community/Community_Img5_630-x-355.png) | ![](/images/community/Community_Img1_630-x-355.jpg) |
 |:--------------:|:--------------:|
+|&nbsp;| &nbsp; |
 
 
 
