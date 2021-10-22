@@ -49,3 +49,4 @@ Click [here](https://go.gov.sg/preqform) to apply for the incubation or co-worki
 | ![](/images/facilities/facilities-and-equipment/IMG_8084-makeup.jpg) | ![](/images/facilities/facilities-and-equipment/lv2-seminar-room-1.jpg) | ![](/images/facilities/facilities-and-equipment/Fabrication-Area_630-x-355.png) |
 
 
+
