@@ -7,7 +7,7 @@ permalink: /facilities/
 <div class="row">
   <div class="column4">
     <b>Are you interested to access shared facilities and equipment for customer-centric innovation?</b><br><div class="spacer"> </div>
-Within the 25,000 square feet innovation space, PIXEL provides a unique mix of facilities and equipment for technology, media and design all under one roof. All the facilities and equipment are specially designed and curated to help you embed customer centricity into innovation, from our Ideation Rooms to Immersive Experience Lab, Usability Testing Lab (coming soon) and production facilities. <br><br>All our facilities and equipment are free to use. Check out our Facilities Factsheet <a href="/files/PIXEL Facilities Factsheet - 20190425.pdf">here</a>. <br><br>Click <a href="https://go.gov.sg/preqform" target="_blank">here</a> to fill up the request form if you are interested to book the facilities and equipment.
+Within the 25,000 square feet innovation space, PIXEL provides a unique mix of facilities and equipment for technology, media and design all under one roof. All the facilities and equipment are specially designed and curated to help you embed customer centricity into innovation, from our Ideation Rooms to Immersive Experience Lab, Usability Testing Lab (coming soon) and production facilities. 
   </div>
   <div class="column5">
     <img src="/images/facilities/Facilities_img1_edited.jpg" width="200">
@@ -28,10 +28,10 @@ Within the 25,000 square feet innovation space, PIXEL provides a unique mix of f
 <h3>FACILITIES AND EQUIPMENT</h3>
 <div class="row">
   <div class="column">
-    <div class="header"><b>Fabrication Lab</b></div><br>
-    <div class="para">Use the equipment such as 3D printers or laster available in the labs for rapid prototyping</div><br>
-          <div class="image"><img src="/images/facilities/facilities-and-equipment/Fabrication-Area_630-x-355.png" width="200"></div>
-  </div>
+    <div class="header"><b>5G Living Lab@PIXEL</b></div><br>
+    <div class="para">Companies with specific 5G use cases in the areas of AR/VR, content streaming and production and IoT can now experiment with and develop 5G applications at PIXEL.<br>Contact Us: <a href="https://go.gov.sg/pixel5g">https://go.gov.sg/pixel5g</a></div><br>
+	<div class="image"><img src="/images/facilities/facilities-and-equipment/SUR5918.png" width="200"></div>
+       </div>
   <div class="column">
     <div class="header"><b>Immersive Experiences Lab</b></div><br>
     <div class="para">Visit our Immersive Experience Lab to try out the different equipment available and explore how you may use these to develop a powerful immersive experience.</div><br>
@@ -113,7 +113,9 @@ Within the 25,000 square feet innovation space, PIXEL provides a unique mix of f
     <div class="header"><b>Seminar Room</b></div><br>
     <div class="para">Attend mixer workshops, masterclasses or meetup sessions here in our seminar room.</div><br><img src="/images/facilities/facilities-and-equipment/lv2-seminar-room-1.jpg" width="200">
        </div>
-  <div class="column">
+	     <div class="column">
+    <div class="header"><b>Fabrication Lab</b></div><br>
+    <div class="para">Use the equipment such as 3D printers or laster available in the labs for rapid prototyping</div><br><img src="/images/facilities/facilities-and-equipment/Fabrication-Area_630-x-355.png" width="200">
   </div>
        </div>
 
