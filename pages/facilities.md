@@ -17,11 +17,8 @@ Click [here](https://go.gov.sg/preqform) to apply for the incubation or co-worki
 ### FACILITIES AND EQUIPMENT
 
 | 5G Living Lab@PIXEL | Immersive Experiences Lab | Usability Testing Lab |
-
 |:-------------:|:-------------:|:-------------:|
-
 | Companies with specific 5G use cases in the areas of AR/VR, content streaming and production and IoT can now experiment with and develop 5G applications at PIXEL. Contact Us: [https://go.gov.sg/pixel5g](https://go.gov.sg/pixel5g) | Visit our Immersive Experience Lab to try out the different equipment available and explore how you may use these to develop a powerful immersive experience. | Test out your digital prototypes here to gather feedback from your users |
-
 | ![](/images/facilities/facilities-and-equipment/SUR5918.png) | ![](/images/facilities/facilities-and-equipment/Immersive-Experiences-Lab_630-x-355.png) | ![](/images/facilities/facilities-and-equipment/User-Testing-Lab_630x355.png) |
 
 ***
