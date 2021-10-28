@@ -46,7 +46,7 @@ Looking to tell stories using immersive technology? Request to book our Immersiv
     <div class="para">Get creative in the professional video production studio with facilities such as green screens, virtual video system, professional cameras and camera crane system.</div><br><img src="/images/facilities/facilities-and-equipment/IMG_8110-green-screen-2.jpg" width="200">
   </div>
   <div class="column">
-    <div class="header"><b>Audio Recording and Editing Suite (Video and Sound)</b></div><br>
+    <div class="header"><b>Audio Recording and Editing Suite</b></div><br>
     <div class="spacer"> </div>
     <div class="para">Record and edit your creative pieces at our video and sound production facilities filled with all the tools and software required for your project.</div><br><img src="/images/facilities/facilities-and-equipment/Production-Room_630-x-355.png" width="200">
     </div>
