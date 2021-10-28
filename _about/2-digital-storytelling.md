@@ -35,7 +35,7 @@ Looking to tell stories using immersive technology? Request to book our Immersiv
 
 <div class="row">
   <div class="column">
-    <div class="header"><b>Immersive Experiences Lab</b></div><br>
+    <div class="header"><b>AR/VR Lab</b></div><br>
     <div class="spacer"> </div>
     <div class="para">Visit our Immersive Experience Lab to try out the different equipment available and explore how you may use these to develop a powerful immersive experience.</div><br>
          <img src="/images/facilities/facilities-and-equipment/Immersive-Experiences-Lab_630-x-355.png" width="200">
