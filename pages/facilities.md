@@ -33,7 +33,7 @@ Within the 25,000 square feet innovation space, PIXEL provides a unique mix of f
 	<div class="image"><img src="/images/facilities/facilities-and-equipment/SUR5918.png" width="200"></div>
        </div>
   <div class="column">
-    <div class="header"><b>Immersive Experiences Lab</b></div><br>
+    <div class="header"><b>AR/VR Lab</b></div><br>
     <div class="para">Visit our Immersive Experience Lab to try out the different equipment available and explore how you may use these to develop a powerful immersive experience.</div><br>
     <div class="image"><img src="/images/facilities/facilities-and-equipment/Immersive-Experiences-Lab_630-x-355.png" width="200"></div>
   </div>
