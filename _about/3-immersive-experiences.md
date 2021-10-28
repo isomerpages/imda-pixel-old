@@ -39,7 +39,5 @@ If you are looking for a space to showcase your company’s immersive experience
     <div class="para">Get access to incubation space to develop innovative digital products and solutions at the nexus of tech and media or content.</div><br><img src="/images/facilities/facilities-and-equipment/IMG_8040-suite.jpg" width="200">
   </div>
   <div class="column">
-    <div class="header"><b>Prototyping Lab</b></div><br>
-    <div class="para">Use the equipment such as 3D printers or laster available in the labs for rapid prototyping</div><br><img src="/images/facilities/facilities-and-equipment/Fabrication-Area_630-x-355.png" width="200">
   </div>
        </div>
