@@ -41,7 +41,7 @@ Looking to tell stories using immersive technology? Request to book our Immersiv
          <img src="/images/facilities/facilities-and-equipment/Immersive-Experiences-Lab_630-x-355.png" width="200">
   </div>
   <div class="column">
-    <div class="header"><b>Production Studios with Green Screen</b></div><br>
+    <div class="header"><b>Production Studios</b></div><br>
     <div class="spacer"> </div>
     <div class="para">Get creative in the professional video production studio with facilities such as green screens, virtual video system, professional cameras and camera crane system.</div><br><img src="/images/facilities/facilities-and-equipment/IMG_8110-green-screen-2.jpg" width="200">
   </div>
