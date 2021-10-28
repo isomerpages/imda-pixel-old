@@ -33,7 +33,7 @@ Within the 25,000 square feet innovation space, PIXEL provides a unique mix of f
 	<div class="image"><img src="/images/facilities/facilities-and-equipment/SUR5918.png" width="200"></div>
        </div>
   <div class="column">
-    <div class="header"><b>AR/VR Lab</b></div><br>
+    <div class="header"><b>Immersive Experiences Lab</b></div><br>
     <div class="para">Visit our Immersive Experience Lab to try out the different equipment available and explore how you may use these to develop a powerful immersive experience.</div><br>
     <div class="image"><img src="/images/facilities/facilities-and-equipment/Immersive-Experiences-Lab_630-x-355.png" width="200"></div>
   </div>
@@ -51,12 +51,12 @@ Within the 25,000 square feet innovation space, PIXEL provides a unique mix of f
          <div class="image"><img src="/images/facilities/facilities-and-equipment/ideation2.jpg" width="200"></div>
   </div>
   <div class="column">
-    <div class="header"><b>Production Studios with Green Screen</b></div><br>
+    <div class="header"><b>Production Studios</b></div><br>
     <div class="para2">Get creative in the professional video production studio with facilities such as green screens, virtual video system, professional cameras and camera crane system.</div><br>
     <div class="image"><img src="/images/facilities/facilities-and-equipment/IMG_8110-green-screen-2.jpg" width="200"></div>
   </div>
   <div class="column">
-    <div class="header"><b>Production Rooms (Video and Sound)</b></div><br>
+    <div class="header"><b>Audio Recording and Editing Suite (Video and Sound)</b></div><br>
     <div class="para2">Record and edit your creative pieces at our video and sound production facilities filled with all the tools and software required for your project.</div><br>
     <div class="image"><img src="/images/facilities/facilities-and-equipment/Production-Room_630-x-355.png" width="200"></div>
        </div>
@@ -66,7 +66,7 @@ Within the 25,000 square feet innovation space, PIXEL provides a unique mix of f
 
 <div class="row">
   <div class="column">
-    <div class="header"><b>Incubation Suite</b></div><br>
+    <div class="header"><b>Project Suites</b></div><br>
     <div class="para">Get access to incubation space to develop innovative digital products and solutions at the nexus of tech and media or content.</div><br>
          <div class="image"><img src="/images/facilities/facilities-and-equipment/IMG_8040-suite.jpg" width="200"></div>
   </div>
@@ -114,7 +114,7 @@ Within the 25,000 square feet innovation space, PIXEL provides a unique mix of f
     <div class="para">Attend mixer workshops, masterclasses or meetup sessions here in our seminar room.</div><br><img src="/images/facilities/facilities-and-equipment/lv2-seminar-room-1.jpg" width="200">
        </div>
 	     <div class="column">
-    <div class="header"><b>Prototyping Lab</b></div><br>
+    <div class="header"><b>Fabrication Lab</b></div><br>
     <div class="para">Use the equipment such as 3D printers or laster available in the labs for rapid prototyping</div><br><img src="/images/facilities/facilities-and-equipment/Fabrication-Area_630-x-355.png" width="200">
   </div>
        </div>
