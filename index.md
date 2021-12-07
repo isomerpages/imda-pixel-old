@@ -20,7 +20,7 @@ sections:
         url: /faq/
          
     - resources:
-        title: Join our Events
+        title: We bring people together to share and learn about the latest developments in tech, media and design
         subtitle: Register now for our upcoming events
         button: View all events
         
