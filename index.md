@@ -7,11 +7,11 @@ permalink: /
 notification: Click <a href="https://form.gov.sg/#!/5ce4f21a2305a40017faf7b0" target="_blank">here</a> to receive the latest updates about IMDA initiatives, events, and more! Click <a href="https://go.gov.sg/pixelsub" target="_blank">here</a> to find out more about PIXEL initiatives, events, and more
 sections:
     - hero:
-        title: Customer-Centric Digital Experiences
-        subtitle: Tech X Media X Design
-        background: /images/homepage/Pixel banner.jpg
-        button: Contact Us
-        url: /contact-us/
+        title: Incubate and Innovate with PIXEL
+        subtitle: Get updates on PIXEL’s latest initiatives and events here!
+        background: /images/homepage/HOMEPAGE_BANNER.png
+        button: Join our Mailing List
+        url: https://form.gov.sg/#!/5f6327d424978a001130835c
     - infobar:
         title: About PIXEL
         subtitle:
@@ -20,7 +20,7 @@ sections:
         url: /faq/
          
     - resources:
-        title: We bring people together to share and learn about the latest developments in tech, media and design
+        title: Join our Events where our community shares about the latest developments in tech, media and design
         subtitle: Register now for our upcoming events
         button: View all events
         
