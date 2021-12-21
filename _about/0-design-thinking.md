@@ -2,40 +2,40 @@
 title: Design Thinking
 permalink: /about/design-thinking/
 ---
-![1](/images/design-thinking/DT_Banner_1440-x-432.png)
+![1](/images/design-thinking/designthinking.png)
 
-**Interested to learn what design thinking is about and how it can help you accelerate digital innovation and transformation?**
+**Check out our [e-book](/files/The_SME_Guide_to_DT_UIUX_DS-(FA).pdf) to learn how your company can benefit from design thinking.**
 
-[![](/images/design-thinking/04PIXELStarterKitImg.png)](/files/The_SME_Guide_to_DT_UIUX_DS-(FA).pdf)
-*Check out our [e-book](/files/The_SME_Guide_to_DT_UIUX_DS-(FA).pdf) to learn how your company can benefit from design thinking.*
+You might have heard about Design Thinking and how it can transform businesses and organisations. But how can it help you in your innovation journey? 
 
-Design thinking is a human-centred and iterative approach to problem solving, and is increasingly used by leading organisations to make their digital transformation more customer-centric. PIXEL embraces the philosophy of empathy – starting with the customer and working backwards - in the development of great digital products, solutions and experiences.
+Design thinking is anchored on people, on a sweet spot between user desirability, technical feasibility and business viability. It is increasingly used by leading companies as an iterative approach to problem solving, to make their digital transformation more customer-centric. Design Thinking embraces the philosophy of empathy – starting with the customer and working backwards – to develop great digital products, solutions and experiences. It can help sharpen your brand positioning, pivot into adjacent markets and de-risk innovation by understanding your users and accelerating the development process. 
 
-We offer interactive and hands-on workshops to help your company learn and apply design thinking in digital transformation and innovation projects. PIXEL provides a conducive environment for companies to go through the Design Thinking process, from ideation to prototyping.
-Our support includes: (1) Workshops to help your company learn and apply design thinking in digital transformation and innovation projects, (2) Project-based coaching with an expert to have a practical and experiential understanding of Design Thinking principles and to help you to develop customer-centric digital products and services. 
+We offer leading design thinking consultants, physically at PIXEL or virtually, who support via:
+
+(1) Workshops to help your company learn and apply design thinking in digital transformation and innovation projects. Check out our schedule of Design Thinking workshops [here](https://deploy-preview-27--imda-pixel-prod.netlify.app/events/).
+
+(2) 1-to-1 Consultation Sessions and Project-based coaching with an expert to have a practical and experiential understanding of Design Thinking principles, and help you develop customer-centric digital products and services.
+
+(3) Tapping on PIXEL’s mentors who can coach and facilitate your innovation projects using a design thinking approach. Check out the list of experts and apply to be mentored [here](https://deploy-preview-27--imda-pixel-prod.netlify.app/community/mentorship-programme/).
 
 To find out more, download the brochure [here](/files/PIXEL Brochure_DesignThinking.pdf).
 
 
-**Digital Transformation Through Design Thinking**
+![](/images/design-thinking/discuss.png)
 
-![](/images/design-thinking/DT_Img2_770-x-430.png)
-
-*Interested to join in our mixer workshops? Check out our schedule of design thinking workshops [here](/events/).*
-
-Keen on developing more customer-centric digital products and services through Design Thinking? Through PIXEL’s Project-based coaching, your company will be connected with a consultant on our panel, to deliver on an agreed Design Thinking project scope, and build capabilities within your team. This Project-based coaching programme is for Singapore-based, Tech & Media Start-ups, SME’s, LLE’s. Approved projects will be supported up to 70% of the total cost, capped at $70,000. It supports Design Thinking projects that may require up to 12 man-days of consultant engagement, for up to 6 months.
-Stand to benefit from this through a simple 3 step application process: 
-**(i)** Share an Executive Summary of the project with us via this [link](https://go.gov.sg/pbcstandard)
-**(ii)** Meet with us/the consultant to scope deliverables & duration
-**(iii)** Submit an Application Form and commence project when approved. All projects will be evaluated based on its innovation, scalability, the commitment to project (team, funding, relevance to core business), and capability building it brings to the organisation.
-
-Tap on PIXEL’s mentors who can coach and facilitate your innovation projects using a design thinking approach. Check out the list of experts and apply to be mentored [here](/community/mentorship-programme/).
+If you are keen on developing more customer-centric digital products and services through Design Thinking, tap on PIXEL’s Project-based coaching programme [here](/about/design-thinking/coaching-programme/). 
 
 
 ### FACILITIES AND EQUIPMENT
 
-| Ideation Room | Usability Testing Lab | Fabrication Lab |
-|:-------------:|:-------------:|:-------------:|
-| Brainstorm for ideas in this conducive environment during your Design Thinking sessions | Test out your digital prototypes here to gather feedback from your users. | Use the equipment such as 3D printers or laser cutters available in labs for rapid prototyping. |
-| ![](/images/facilities/facilities-and-equipment/ideation2.jpg) | ![](/images/facilities/facilities-and-equipment/User-Testing-Lab_630x355.png) | ![](/images/facilities/facilities-and-equipment/Fabrication-Area_630-x-355.png) |              
+*  Ideation Room
+
+ Brainstorm ideas in this conducive environment to supercharge your Design Thinking sessions.
+* Usability Testing Lab
+
+Test out your prototypes with our user interview space and analytical software and hardware. This helps you gather quantitative and qualitative feedback in and out of the lab environment. Our tools include eye tracking devices which captures users’ gaze data and expressions and skin response sensors for behavioural research.
+* Prototyping Lab
+
+Use the 3D printers or laser cutters for rapid prototyping, for robotics and sensors.
+             
 
