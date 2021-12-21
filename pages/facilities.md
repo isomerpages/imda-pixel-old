@@ -51,6 +51,7 @@ Brainstorm ideas in this conducive environment to supercharge your Design Thinki
 Get creative in the professional-grade video production studio with facilities, features and equipment such as green screens, a virtual video system, professional cameras and a camera crane system.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**9. Green Screen Studio**
+
 Enhance your content creation by swapping out your background using our green screen studio where the floor, front and side walls are painted with anti-reflective green screen paint.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**10. Audio Recording Studio**
@@ -75,6 +76,5 @@ Attend large-scale mixer workshops, masterclasses or have meetup sessions here i
 &nbsp;&nbsp;&nbsp;&nbsp;**15. Prototyping Lab**
 
 Use the 3D printers or laser cutters for rapid prototyping, for robotics and sensors.
-
 
 *All our facilities are subject to the prevailing Safe Measurement Measures
