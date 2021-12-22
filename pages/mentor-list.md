@@ -33,11 +33,6 @@ General Managing Director -  Services & Software Sales - ASEAN, Cisco Systems
 
 ### Design Thinking
 
-![](/images/mentor-list/Arlindo-Silva_300X230PX.jpg)
-**Arlindo Silva**
-[Website](https://epd.sutd.edu.sg/people/faculty/arlindo-silva)
-Associate Professor, Singapore University of Technology and Design
-
 ![](/images/mentor-list/Keith-Oh_color-300x230px.jpg)
 **Keith Oh**
 [LinkedIn Profile](https://www.linkedin.com/in/keithoh/)
@@ -56,19 +51,10 @@ Co-Founder, Customer Experience Maker, FreshlyGround Pte Ltd
 Founder & CEO, Bus Uncle Company
 
 ![](/images/mentor-list/DiogoMartins_300x230px.jpg)
-**>Diogo Martins**
+**Diogo Martins**
 [LinkedIn Profile](https://www.linkedin.com/in/diogocordesanicetomartins/)
 Lead, Content & Community, Mediacorp
 
-![](/images/mentor-list/Marco-Sparmberg_300x230px.jpg)
-**Marco Sparmbergo**
-[LinkedIn Profile](https://www.linkedin.com/in/msparmberg/)
-Vice President, Group Strategic Marketing & Communications, DBS
-
-![](/images/mentor-list/Sebastien-Lepez_300x230px.jpg)
-**Sebastien Lepez**
-[LinkedIn Profile](https://www.linkedin.com/in/seblepez/)
-Founder & CEO, Jolt Digital
 
 ### Immersive Experiences
 
