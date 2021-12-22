@@ -5,7 +5,7 @@ Sat, Sun and PH: Closed
 
 **2. How can I use the resources at PIXEL?**
 
-Check out our detailed Facilities Factsheet [here](https://deploy-preview-27--imda-pixel-prod.netlify.app/files/PIXEL Facilities Factsheet - 20190425.pdf) and fill up the request form for facilities and equipment [here](https://go.gov.sg/preqform). 
+Check out our detailed Facilities Factsheet [here](/files/PIXEL Facilities Factsheet - 20190425.pdf) and fill up the request form for facilities and equipment [here](https://go.gov.sg/preqform). 
 
 **3. Is the space available for rent of lease?**
 
