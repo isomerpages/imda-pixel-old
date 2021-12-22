@@ -27,6 +27,7 @@ Singapore-registered start-ups involved in tech or digital media content develop
 -	Feasibility of project
 -	Project potential
 -	Potential to contribute to the Tech or Media Community. (e.g. mentorship, proprietary technology)
+
 Please join our mailing list [here](https://form.gov.sg/#!/5f6327d424978a001130835c) to look out for PIXEL Call for Incubation for companies to be an incubatee at PIXEL.
 
 **5. Does my company have to be registered in Singapore to be eligible for incubation?**
