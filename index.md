@@ -15,7 +15,7 @@ sections:
     - infobar:
         title: Welcome To PIXEL!
         subtitle:
-        description: <p style="line-height:1;">PIXEL is an incubation and innovation space by Singapore’s Infocomm Media Development Authority. It is focused on the tech areas of <strong>AI, Augmented Reality/Virtual Reality, the Internet of Things and Robotics</strong>, and <strong>early-stage start-ups</strong>. It is designed for digital tech, media and content creators to ideate, experiment and build customer-centric digital experiences.</p><p style="line-height:1;">PIXEL is located in Singapore’s One-North innovation district and brings together Infocomm and Media startups, corporates, government, ecosystem partners and global players. We catalyse the Infocomm and Media start-up communities and expand their opportunities for growth.</p>
+        description: <p style="line-height:1;">PIXEL is an incubation and innovation space by Singapore’s Infocomm Media Development Authority. It is focused on the tech areas of <strong>AI, Augmented Reality/Virtual Reality, the Internet of Things and Robotics</strong>, and <strong>early-stage start-ups</strong>. It is designed for digital tech, media and content creators to ideate, experiment and build customer-centric digital experiences.</p><br><p style="line-height:1;">PIXEL is located in Singapore’s One-North innovation district and brings together Infocomm and Media startups, corporates, government, ecosystem partners and global players. We catalyse the Infocomm and Media start-up communities and expand their opportunities for growth.</p>
         button: <h5>Learn more</h5>
         url: /faq/
          
