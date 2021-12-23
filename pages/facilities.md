@@ -33,6 +33,7 @@ Connect with the community at our workshops, meetups and industry mixers.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**4. 5G Living Lab**
 
+![](/images/facilities/facilities-and-equipment/SUR5918.png)
 Companies with 5G use cases, such as in Augmented Reality/Virtual Reality, content streaming and production and the Internet of Things can use this space to experiment with and develop 5G applications. If you have a specific 5G use case to test, submit a request here.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**5. Augmented Reality/Virtual Reality Lab**
@@ -41,18 +42,22 @@ Use our common equipment like Realwear, Hololens, Oculus, and Tactsuit to start 
 
 &nbsp;&nbsp;&nbsp;&nbsp;**6. Usability Testing Lab**
 
+![](/images/facilities/facilities-and-equipment/User-Testing-Lab_630x355.png)
 Test out your prototypes with our user interview space and analytical software and hardware. This helps you gather quantitative and qualitative feedback in and out of the lab environment. Our tools include eye tracking devices which captures users’ gaze data and expressions and skin response sensors for behavioural research. Book the facilities here.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**7. Ideation Room**
 
+![](/images/facilities/facilities-and-equipment/ideation2.jpg)
 Brainstorm ideas in this conducive environment to supercharge your Design Thinking sessions.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**8. Video Production Studio** 
 
+![](/images/facilities/facilities-and-equipment/Production-Room_630-x-355.png)
 Get creative in the professional-grade video production studio with facilities, features and equipment such as green screens, a virtual video system, professional cameras and a camera crane system.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**9. Green Screen Studio**
 
+![](/images/facilities/facilities-and-equipment/IMG_8110-green-screen-2.jpg)
 Enhance your content creation by swapping out your background using our green screen studio where the floor, front and side walls are painted with anti-reflective green screen paint.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**10. Audio Recording Studio**
@@ -61,17 +66,22 @@ Record and edit your creative content in our audio recording studio filled with 
 
 &nbsp;&nbsp;&nbsp;&nbsp;**11. Thematic Sets**
 
+![](/images/facilities/facilities-and-equipment/IMG_8133-theme-mtg-room-2.jpg)
 Shoot your videos in a “Kopitiam”, a “train carriage”, or a “1950s diner”. Or stage a talk show with three large projection screens as a backdrop!
 
 &nbsp;&nbsp;&nbsp;&nbsp;**12. Functional Kitchen**
+
+![](/images/facilities/facilities-and-equipment/lv1-kitchen.jpg)
 Shoot cooking videos in our fully-functional kitchen which can adopt three themes - modern, country and Peranakan.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**13. Changing and Makeup Room**
 
+![](/images/facilities/facilities-and-equipment/IMG_8084-makeup.jpg)
 Change attire, style hair and refresh makeup for your crew during content production.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**14. Seminar Room**
 
+![](/images/facilities/facilities-and-equipment/lv2-seminar-room-1.jpg)
 Attend large-scale mixer workshops, masterclasses or have meetup sessions here in our seminar room.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**15. Prototyping Lab**
