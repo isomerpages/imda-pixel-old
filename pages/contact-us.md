@@ -17,5 +17,5 @@ contacts:
   - title: General Enquiries & Feedback
     content:
       - email: pixel@imda.gov.sg
-      - other: Join the Mailing list <i><a href="https://form.gov.sg/#!/5f6327d424978a001130835c">here</a></i><p class="has-text-weight-semibold margin--top--none margin--bottom--none">How can we help you?</p>Subscribe to IMDA PIXEL mailing list to stay updated with the latest Tech x Media x Design <i><a href="https://form.gov.sg/#!/5f6327d424978a001130835c">here</a></i><br> Visit our <i><a href="/faq/">FAQ</a></i> page
+      - other: <br><p class="has-text-weight-semibold margin--top--none margin--bottom--none">How can we help you?</p>Subscribe to IMDA PIXEL mailing list to stay updated with the latest Tech x Media x Design <i><a href="https://form.gov.sg/#!/5f6327d424978a001130835c">here</a></i><br> Visit our <i><a href="/faq/">FAQ</a></i> page
 ---
