@@ -20,6 +20,7 @@ Check out our detailed Facilities Factsheet [here](/files/PIXEL Facilities Facts
 
 &nbsp;&nbsp;&nbsp;&nbsp;**1. Co-Working and Discussion Space**
 
+![](/images/facilities/facilities-and-equipment/IMG_8129-discussion-hotdesk.jpg)
 Get new ideas and collaborate by networking with the PIXEL network and mentors at the discussion areas, and use the meeting rooms for extended discussions.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2. Project Suite**
