@@ -18,7 +18,7 @@ Check out our detailed Facilities Factsheet [here](/files/PIXEL Facilities Facts
 ### FACILITIES AND EQUIPMENT
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;**1. Co-Working and Discussion Spac**
+&nbsp;&nbsp;&nbsp;&nbsp;**1. Co-Working and Discussion Space**
 
 Get new ideas and collaborate by networking with the PIXEL network and mentors at the discussion areas, and use the meeting rooms for extended discussions.
 
