@@ -26,7 +26,7 @@ Director and Head of APAC Financing Group Loan Syndicate - South East Asia, Cred
 [LinkedIn Profile](https://www.linkedin.com/in/arijit-sengupta/)
 Partner, B Capital Group
 
-![](/images/mentor-list/1809_Shashank_casual_profile_cropped.jpg)
+![](/images/mentor-list/shashankluthra.jpg)
 **Shashank Luthra**
 [LinkedIn Profile](https://www.linkedin.com/in/shashankluthra)
 General Managing Director -  Services & Software Sales - ASEAN, Cisco Systems
