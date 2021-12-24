@@ -2,119 +2,90 @@
 title: Facilities
 permalink: /facilities/
 ---
-![1](/images/facilities/Facilities_banner_edited.jpg)
+![](/images/facilities/facilities.png)
 
-<div class="row">
-  <div class="column4">
-    <b>Are you interested to access shared facilities and equipment for customer-centric innovation?</b><br><div class="spacer"> </div>
-Within the 25,000 square feet innovation space, PIXEL provides a unique mix of facilities and equipment for technology, media and design all under one roof. All the facilities and equipment are specially designed and curated to help you embed customer centricity into innovation, from our Ideation Rooms to Immersive Experience Lab, Usability Testing Lab (coming soon) and production facilities. 
-  </div>
-  <div class="column5">
-    <img src="/images/facilities/Facilities_img1_edited.jpg" width="200">
-  </div>
-       </div>
-<div class="row"><div class="spacer"> </div></div>       
-<div class="row">
-  <div class="column4">
-    <img src="/images/facilities/IMG_8072-common-area-l2.jpg" width="200">
-  </div>
-  <div class="column5">
-    <b>One Stop Centre for Developing Great Digital Experiences</b><br>
-    <div class="spacer"> </div>
-    PIXEL also provides co-working and incubation spaces to companies that are working on innovation projects relating to tech, media or games and are looking for space and facilities. These spaces provide a conducive environment for the companies to work on their projects and also allow them to be connected to a multidisciplinary community of tech innovators, content creators, game developers and digital designers.<br><br>
-  Click <a href="https://go.gov.sg/preqform" target="_blank">here</a> to apply for the incubation or co-working space now.
-  </div></div>
+PIXEL provides start-ups and corporates with 28k square feet of innovation space, with a unique mix of facilities and equipment for technology, media and design. The facilities and equipment are designed to embed customer centricity into your product. The key ones are:
+
+* Spaces such as incubation co-working spaces and Project Suites for start-ups and companies working on innovation projects relating to tech or media and looking for space, facilities and connection to PIXEL’s network of tech innovators, content creators, creative technologists and digital designers
+
+* Labs such as the Augmented Reality and Virtual Reality Lab, 5G Test Bed, Usability Testing Lab for UI/UX, and media production facilities such as the Green Room for visual effects
+
+Click [here](https://go.gov.sg/preqform) to apply for incubation in our co-working space or project suites.
+
+Check out our detailed Facilities Factsheet [here](/files/PIXEL Facilities Factsheet - 20190425.pdf) and fill up the request form for facilities and equipment [here](https://go.gov.sg/preqform). 
+
   
-<h3>FACILITIES AND EQUIPMENT</h3>
-<div class="row">
-  <div class="column">
-    <div class="header"><b>5G Living Lab@PIXEL</b></div><br>
-    <div class="para">Companies with specific 5G use cases in the areas of AR/VR, content streaming and production and IoT can now experiment with and develop 5G applications at PIXEL.<br>Contact Us: <a href="https://go.gov.sg/pixel5g">https://go.gov.sg/pixel5g</a></div><br>
-	<div class="image"><img src="/images/facilities/facilities-and-equipment/SUR5918.png" width="200"></div>
-       </div>
-  <div class="column">
-    <div class="header"><b>AR/VR Lab</b></div><br>
-    <div class="para">Visit our Immersive Experience Lab to try out the different equipment available and explore how you may use these to develop a powerful immersive experience.</div><br>
-    <div class="image"><img src="/images/facilities/facilities-and-equipment/Immersive-Experiences-Lab_630-x-355.png" width="200"></div>
-  </div>
-  <div class="column">
-    <div class="header"><b>Usability Testing Lab</b></div><br>
-    <div class="para">Test out your digital prototypes here to gather feedback from your users</div><br>
-     <div class="image"><img src="/images/facilities/facilities-and-equipment/User-Testing-Lab_630x355.png" width="200"></div>
-    </div>
-       </div><div class="spacer1"> </div>  
-<hr>
-<div class="row">
-  <div class="column">
-    <div class="header"><b>Ideation Room</b></div><br>
-        <div class="para2">Brainstorm for ideas in this conducive environment during your Design Thinking sessions.</div><br>
-         <div class="image"><img src="/images/facilities/facilities-and-equipment/ideation2.jpg" width="200"></div>
-  </div>
-  <div class="column">
-    <div class="header"><b>Production Studios</b></div><br>
-    <div class="para2">Get creative in the professional video production studio with facilities such as green screens, virtual video system, professional cameras and camera crane system.</div><br>
-    <div class="image"><img src="/images/facilities/facilities-and-equipment/IMG_8110-green-screen-2.jpg" width="200"></div>
-  </div>
-  <div class="column">
-    <div class="header"><b>Audio Recording and Editing Suite</b></div><br>
-    <div class="para2">Record and edit your creative pieces at our video and sound production facilities filled with all the tools and software required for your project.</div><br>
-    <div class="image"><img src="/images/facilities/facilities-and-equipment/Production-Room_630-x-355.png" width="200"></div>
-       </div>
-       </div><div class="spacer"> </div><div class="spacer1"> </div>       
-
----    
-
-<div class="row">
-  <div class="column">
-    <div class="header"><b>Project Suites</b></div><br>
-    <div class="para">Get access to incubation space to develop innovative digital products and solutions at the nexus of tech and media or content.</div><br>
-         <div class="image"><img src="/images/facilities/facilities-and-equipment/IMG_8040-suite.jpg" width="200"></div>
-  </div>
-  <div class="column">
-    <div class="header"><b>Prototyping Lab</b></div><br>
-    <div class="para">Use the equipment such as 3D printers or laster available in the labs for rapid prototyping</div><br>
-	<div class="image"><img src="/images/facilities/facilities-and-equipment/Fabrication-Area_630-x-355.png" width="200"></div>
-  </div>
-  <div class="column">
-    <div class="header"><b>Common Area for Events</b></div><br>
-    <div class="para">Connect with the community at our mixer workshops and meetups held at PIXEL</div><br>
-    <div class="image"><img src="/images/facilities/facilities-and-equipment/lv1-stage.jpg" width="200"></div>
-       </div>
-       </div>
-
-<div class="spacer1"> </div> 
-<hr>
-
-<div class="row">
-  <div class="column">
-    <div class="header"><b>Co-Working and Discussion Space</b></div><br>
-     <div class="para">Meet up with our mentors at the discussion areas and meeting rooms to get some advice from them on your projects.</div><br><img src="/images/facilities/facilities-and-equipment/IMG_8129-discussion-hotdesk (1).jpg" width="200">
-  </div>
-  <div class="column">
-    <div class="header"><b>Thematic Sets</b></div><br>
-    <div class="para">Shoot your videos in a "Kopitiam", a "train carriage", a "1950s diner" or stage a talk show with three large projection screens as backdrop.</div><br><img src="/images/facilities/facilities-and-equipment/IMG_8133-theme-mtg-room-2.jpg" width="200">
-  </div>
-  <div class="column">
-    <div class="header"><b>Functional Kitchen</b></div><br>
-    <div class="para">Shoot cooking videos in our functional kitchen dressed up in three interchangeable themes - modern, country and Peranakan.</div><br>
-         <img src="/images/facilities/facilities-and-equipment/lv1-kitchen.jpg" width="200">
-       </div>
-       </div>
-       
-<div class="spacer1"> </div> 
-<hr>
-
-<div class="row">
-  <div class="column">
-    <div class="header"><b>Changing and Makeup Room</b></div><br>
-    <div class="para">Come here for a change of attire, style your hair and refresh your makeup for your next video shoot.</div><br><img src="/images/facilities/facilities-and-equipment/IMG_8084-makeup.jpg" width="200">
-  </div>
-  <div class="column">
-    <div class="header"><b>Seminar Room</b></div><br>
-    <div class="para">Attend mixer workshops, masterclasses or meetup sessions here in our seminar room.</div><br><img src="/images/facilities/facilities-and-equipment/lv2-seminar-room-1.jpg" width="200">
-       </div>
-	     <div class="column">
-  </div>
-       </div>
+### FACILITIES AND EQUIPMENT
 
 
+&nbsp;&nbsp;&nbsp;&nbsp;**1. Co-Working and Discussion Space**
+
+![](/images/facilities/facilities-and-equipment/IMG_8129-discussion-hotdesk.jpg)
+Get new ideas and collaborate by networking with the PIXEL network and mentors at the discussion areas, and use the meeting rooms for extended discussions.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**2. Project Suite**
+
+Use the dedicated project suite with your team to develop innovative digital products and solutions.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**3. Community Space**
+
+Connect with the community at our workshops, meetups and industry mixers.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**4. 5G Living Lab**
+
+![](/images/facilities/facilities-and-equipment/SUR5918.png)
+Companies with 5G use cases, such as in Augmented Reality/Virtual Reality, content streaming and production and the Internet of Things can use this space to experiment with and develop 5G applications. If you have a specific 5G use case to test, submit a request here.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**5. Augmented Reality/Virtual Reality Lab**
+
+Use our common equipment like Realwear, Hololens, Oculus, and Tactsuit to start the development of immersive experiences!
+
+&nbsp;&nbsp;&nbsp;&nbsp;**6. Usability Testing Lab**
+
+![](/images/facilities/facilities-and-equipment/User-Testing-Lab_630x355.png)
+Test out your prototypes with our user interview space and analytical software and hardware. This helps you gather quantitative and qualitative feedback in and out of the lab environment. Our tools include eye tracking devices which captures users’ gaze data and expressions and skin response sensors for behavioural research. Book the facilities here.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**7. Ideation Room**
+
+![](/images/facilities/facilities-and-equipment/ideation2.jpg)
+Brainstorm ideas in this conducive environment to supercharge your Design Thinking sessions.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**8. Video Production Studio** 
+
+![](/images/facilities/facilities-and-equipment/Production-Room_630-x-355.png)
+Get creative in the professional-grade video production studio with facilities, features and equipment such as green screens, a virtual video system, professional cameras and a camera crane system.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**9. Green Screen Studio**
+
+![](/images/facilities/facilities-and-equipment/IMG_8110-green-screen-2.jpg)
+Enhance your content creation by swapping out your background using our green screen studio where the floor, front and side walls are painted with anti-reflective green screen paint.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**10. Audio Recording Studio**
+
+Record and edit your creative content in our audio recording studio filled with professional-grade tools and software.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**11. Thematic Sets**
+
+![](/images/facilities/facilities-and-equipment/IMG_8133-theme-mtg-room-2.jpg)
+Shoot your videos in a “Kopitiam”, a “train carriage”, or a “1950s diner”. Or stage a talk show with three large projection screens as a backdrop!
+
+&nbsp;&nbsp;&nbsp;&nbsp;**12. Functional Kitchen**
+
+![](/images/facilities/facilities-and-equipment/lv1-kitchen.jpg)
+Shoot cooking videos in our fully-functional kitchen which can adopt three themes - modern, country and Peranakan.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**13. Changing and Makeup Room**
+
+![](/images/facilities/facilities-and-equipment/IMG_8084-makeup.jpg)
+Change attire, style hair and refresh makeup for your crew during content production.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**14. Seminar Room**
+
+![](/images/facilities/facilities-and-equipment/lv2-seminar-room-1.jpg)
+Attend large-scale mixer workshops, masterclasses or have meetup sessions here in our seminar room.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**15. Prototyping Lab**
+
+Use the 3D printers or laser cutters for rapid prototyping, for robotics and sensors.
+
+*All our facilities are subject to the prevailing Safe Measurement Measures

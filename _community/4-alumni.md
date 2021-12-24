@@ -2,244 +2,65 @@
 title: Alumni
 permalink: /community/alumni/
 ---
-<h1><b>Alumni</b></h1>
+# Alumni
 
-<br>
-<div class="row">
-  <div class="column3">
-        <a href="https://42lab.io/" target="_blank"><img src="/images/alumni/42lab_weblogo.png" width="150"></a><br>
-         <div class="header"><b>42 LAB</b></div><br>
-    <div class="para">Expertise:<br>
-Biotech</div>         
-  </div>
- <div class="column3">
-        <a href="https://www.ackcio.com/" target="_blank"><img src="/images/alumni/Ackio1weblogo.png" width="150"></a><br>
-         <div class="header"><b>ACKCIO</b></div><br>
-    <div class="para">Expertise:<br>
-Tech</div>         
-  </div>
-       <div class="column3">
-        <a href="https://adidesigns.asia/" target="_blank"><img src="/images/alumni/adidesignweb.png" width="150"></a><br>
-         <div class="header"><b>ADI DESIGN STUDIO</b></div><br>
-              <div class="para">Expertise:<br>
-Tech & Design</div>         
-  </div>
-       <div class="column3">
-        <a href="https://www.affable.ai/" target="_blank"><img src="/images/alumni/affable-logo-with-text2web.png" width="150"></a><br>
-         <div class="header"><b>AFFABLE</b></div><br>
-    <div class="para">Expertise:<br>
-Tech</div>         
-  </div>
-       </div>
-<div class="row">
-  <div class="column3">
-        <img src="/images/alumni/betasight_logoweb.png" width="150"><br>
-         <div class="header"><b>BETASIGHT TECHNOLOGIES</b></div><br>
-    <div class="para">Expertise:<br>
-Immersive Media</div>         
-  </div>
- <div class="column3">
-        <img src="/images/alumni/cimiledlogoweb.png" width="150"><br>
-         <div class="header"><b>CIMILED</b></div><br>
-    <div class="para">Expertise:<br>
-Tech </div>         
-  </div>
-       <div class="column3">
-        <a href="https://www.finding.pictures/" target="_blank"><img src="/images/alumni/findingpicslogoweb.png" width="150"></a><br>
-         <div class="header"><b>FINDING PICTURES</b></div><br>
-              <div class="para">Expertise:<br>
-Animation and Film Production/Interactive Media</div>         
-  </div>
-       <div class="column3">
-        <a href="https://www.h3dynamics.com/" target="_blank"><img src="/images/alumni/H3dynamicslogo-web.png" width="150"></a><br>
-         <div class="header"><b>H3 DYNAMICS</b></div><br>
-    <div class="para">Expertise:<br>
-Drone/Tech</div>         
-  </div>
-       </div>
-<div class="row">
-  <div class="column3">
-        <a href="https://www.hiverlab.com/" target="_blank"><img src="/images/alumni/hiverlab-logo-2018web.png" width="150"></a><br>
-         <div class="header"><b>HIVERLAB</b></div><br>
-    <div class="para">Expertise:<br>
-Immersive Technology / Infocomm / Digital Storytelling</div>         
-  </div>
- <div class="column3">
-        <a href="https://www.hydroleap.com/" target="_blank"><img src="/images/alumni/hydroleaplogoweb.png" width="150"></a><br>
-         <div class="header"><b>HYDROLEAP</b></div><br>
-    <div class="para">Expertise:<br>
-Tech</div>         
-  </div>
-       <div class="column3">
-        <a href="https://www.magicmao.com/" target="_blank"><img src="/images/alumni/magicmao_logoweb.png" width="150"></a><br>
-         <div class="header"><b>MAGICMAO</b></div><br>
-              <div class="para">Expertise:<br>
-Games Development / Immersive Media </div>         
-  </div>
-       <div class="column3">
-        <a href="https://www.meta.us/about-us" target="_blank"><img src="/images/alumni/baa34982f37b987d031c73a5776f9fd4weblogo.png" width="150"></a><br>
-         <div class="header"><b>META US</b></div><br>
-    <div class="para">Expertise:<br>
-Games Development</div>         
-  </div>
-       </div>
-<div class="row">
-  <div class="column3">
-        <a href="http://www.nephtech.com.sg/" target="_blank"><img src="/images/alumni/mylogonephtech_weblogo.png" width="150"></a><br>
-         <div class="header"><b>NEPHTECH PTE LTD</b></div><br>
-    <div class="spacer1"> </div>
-    <div class="para">Expertise:<br>
-Tech</div>         
-  </div>
- <div class="column3">
-        <a href="https://www.neuralbay.com/" target="_blank"><img src="/images/alumni/NeuralBay_logoweb.png" width="150"></a><br>
-         <div class="header"><b>NEURALBAY</b></div><br>
-   <div class="spacer1"> </div>
-    <div class="para">Expertise:<br>
-Artificial Intellegence/Immersive Media</div>         
-  </div>
-       <div class="column3">
-        <a href="https://joysteak.com/" target="_blank"><img src="/images/alumni/joysteak-logoweb.png" width="150"></a><br>
-         <div class="header"><b>JOYSTEAK STUDIOS</b></div><br>
-         <div class="spacer1"> </div>
-              <div class="para">Expertise:<br>
-Games Development</div>         
-  </div>
-       <div class="column3">
-        <a href="http://www.imbainteractive.com/" target="_blank"><img src="/images/alumni/imbalogo-web.png" width="150"></a><br>
-         <div class="header"><b>RUSTBUCKET INTERACTIVE AND IMBA INTERACTIVE</b></div><br>
-         <div class="spacer1"> </div>
-    <div class="para">Expertise:<br>
-Games/interactive media/Digital Storytelling</div>         
-  </div>
-       </div>
- <div class="row">
-  <div class="column3">
-        <a href="http://www.10days-studio.com/" target="_blank"><img src="/images/alumni/tendaysstudios_web.png" width="150"></a><br>
-         <div class="header"><b>TENDAYS STUDIO</b></div><br>
-    <div class="para">Expertise:<br>
-Games Development</div>         
-  </div>
- <div class="column3">
-        <a href="https://www.transferfi.com/" target="_blank"><img src="/images/alumni/TFILogo150119weblogo.png" width="150"></a><br>
-         <div class="header"><b>TRANSFER FI</b></div><br>
-    <div class="para">Expertise:<br>
-Tech</div>         
-  </div>
-       <div class="column3">
-        <a href="https://www.thunderconsole.com/index.html" target="_blank"><img src="/images/alumni/pngthunderconsole_300x230px.png" width="150"></a><br>
-         <div class="header"><b>THUNDERCONSOLE</b></div><br>
-              <div class="para">Expertise:<br>
-Cloud Computing for Gaming</div>
-  </div>
-       <div class="column3">
-        <a href="https://umitron.com/en/mission.html" target="_blank"><img src="/images/alumni/umitronweblogo.png" width="150"></a><br>
-         <div class="header"><b>UMITRON</b></div><br>
-    <div class="para">Expertise:<br>
-Aquatech</div>         
-  </div>
-       </div>
- <div class="row">
-  <div class="column3">
-        <a href="https://www.viddsee.com/?locale=en" target="_blank"><img src="/images/alumni/downloadviddsee_lgoo.png" width="150"></a><br>
-         <div class="header"><b>VIDDSEE</b></div><br>
-    <div class="para">Expertise:<br>
-Content Distribution and Creation</div>         
-  </div>
- <div class="column3">
-        <a href="https://vrcollab.com/" target="_blank"><img src="/images/alumni/vrcollab-logoweb.png" width="150"></a>
-         <div class="header"><b>VRCOLLAB</b></div><br>
-    <div class="para">Expertise:<br>
-Immersive Media</div>         
-  </div>
-       <div class="column3">
-        <a href="https://www.vuulr.com/" target="_blank"><img src="/images/alumni/Vuulr_logoweb.png" width="150"></a>
-         <div class="header"><b>VUULR</b></div><br>
-              <div class="para">Expertise:<br>
-Online Content Distribution & Acquisition, Blockchain</div>
-  </div>
-   <div class="column3">
-        <a href="https://axomem.io/" target="_blank"><img src="/images/companies/Axomem_300x230_colour.png"></a><br>
-         <div class="header"><b>AXOMEM</b></div><br>
-    <div class="para">Expertise:<br>
-Enterprise Data Analytics, 
-3D, VR and AR Visualisation of Business Data, AI and Automation</div>         
-  </div>
-</div>
-<div class="row">
-       <div class="column3">
-        <a href="https://www.gluu.life/" target="_blank"><img src="/images/companies/Gluu_300x230px.jpg"></a><br>
-         <div class="header"><b>GLUU</b></div><br>
-    <div class="para">Expertise:<br>
-Mobile Connectivity Marketplace</div>         
-  </div>  
-  <div class="column3">
-        <a href="https://www.facebook.com/mantapictures/?modal=admin_todo_tour" target="_blank"><img src="/images/companies/mantaweblogo.png"></a><br>
-         <div class="header"><b>MANTA PICTURES</b></div><br>
-    <div class="para">Expertise:<br>
-Film Production, Content Creator</div>         
-  </div>
- <div class="column3">
-        <a href="http://xy-connect.com/en/" target="_blank"><img src="/images/companies/XYConnect_300x230.jpg"></a><br>
-         <div class="header"><b>XYCONNECT</b></div><br>
-    <div class="para">Expertise:<br>
-5G & Smart City</div>         
-  </div>
- <div class="column3">
-        <a href="https://www.linkedin.com/in/wee-boon-siong-0006b7157/?originalSubdomain=sg" target="_blank"><img src="/images/companies/avidologoweb.png"></a><br>
-         <div class="header"><b>AVIDO ROBOTICS</b></div><br>
-    <div class="para">Expertise:<br>
-Hardware Consultancy</div>     
-  </div>
-  </div>
-  
- <div class="row">
-   <div class="column3">
-        <a href="https://battleskybrigade.com/" target="_blank"><img src="/images/companies/BAttleBre_web.png"></a><br>
-         <div class="header"><b>BATTLEBREW PRODUCTIONS</b></div><br>
-    <div class="para">Expertise:<br>
-Games Development</div>         
-  </div>
- <div class="column3">
-        <a href="https://creativesatwork.asia/" target="_blank"><img src="/images/companies/creativesAtWork_logoweb.png"></a><br>
-         <div class="header"><b>CREATIVES AT WORK</b></div><br>
-    <div class="para">Expertise:<br>
-Online Content</div>         
-  </div>
-       <div class="column3">
-        <a href="http://www.embodiedsensing.com/" target="_blank"><img src="/images/companies/embodied-sensingweblogo.png"></a><br>
-         <div class="header"><b>EMBODIED SENSING</b></div><br>
-              <div class="para">Expertise:<br>
-Tech</div>         
-  </div>
-       <div class="column3">
-        <a href="http://ignite-vr.com/" target="_blank"><img src="/images/companies/IgniteVR_logoweb.png"></a><br>
-         <div class="header"><b>IGNITE VR</b></div><br>
-    <div class="para">Expertise:<br>
-Games Development/Immersive Media</div>         
-  </div>
- </div>
- <div class="row">
- <div class="column3">
-        <a href="http://www.immersively.co/" target="_blank"><img src="/images/companies/Immersively_logoweb.png"></a><br>
-         <div class="header"><b>IMMERSIVELY</b></div><br>
-    <div class="para">Expertise:<br>
-Immersive Media</div>         
-  </div>
-       <div class="column3">
-        <a href="https://www.meshminds.com/" target="_blank"><img src="/images/companies/Meshminds-logoweb.png"></a><br>
-         <div class="header"><b>MESHMINDS</b></div><br>
-              <div class="para">Expertise:<br>
-Virtual Reality/Immersive Media</div>         
-  </div>
-    <div class="column3">
-                 <div class="header"><b> </b></div><br>
-    <div class="para"> </div>         
-  </div>
-  <div class="column3">
-                 <div class="header"><b> </b></div><br>
-    <div class="para"> </div>         
-  </div>
-</div>      
-       
-     
+|[![](/images/alumni/42lab_weblogo.png)](https://42lab.io/)|[![](/images/alumni/Ackio1weblogo.png)](https://www.ackcio.com/)| [![](/images/alumni/adidesignweb.png)](https://adidesigns.asia/) | [![](/images/alumni/affable-logo-with-text2web.png)](https://www.affable.ai/) |
+|:-------------:|:-------------:|:-------------:|:-------------:|
+|**42 LAB**| **ACKCIO** | **ADI DESIGN STUDIO** | **AFFABLE** |
+| Expertise: Biotech | Expertise: Tech | Expertise: Tech & Design | Expertise: Tech |
+
+***
+
+|[![](/images/alumni/betasight_logoweb.png)]()|[![](/images/alumni/cimiledlogoweb.png)]()| [![](/images/alumni/findingpicslogoweb.png)](https://www.finding.pictures/) | [![](/images/alumni/H3dynamicslogo-web.png)](https://www.h3dynamics.com/) |
+|:-------------:|:-------------:|:-------------:|:-------------:|
+|**BETASIGHT TECHNOLOGIES**| **CIMILED** | **FINDING PICTURES** | **H3 DYNAMICS** |
+| Expertise: Immersive Media | Expertise: Tech | Expertise: Animation and Film Production/Interactive Media | Expertise: Drone/Tech |
+
+***
+
+|[![](/images/alumni/hiverlab-logo-2018web.png)](https://www.hiverlab.com/)|[![](/images/alumni/hydroleaplogoweb.png)](https://www.hydroleap.com/)| [![](/images/alumni/magicmao_logoweb.png)](https://www.magicmao.com/) | [![](/images/alumni/baa34982f37b987d031c73a5776f9fd4weblogo.png)](https://www.meta.us/about-us) |
+|:-------------:|:-------------:|:-------------:|:-------------:|
+|**HIVERLAB**| **HYDROLEAP** | **MAGICMAO** | **META US** |
+| Expertise: Immersive Technology / Infocomm / Digital Storytelling | Expertise: Tech | Expertise: Games Development / Immersive Media | Expertise: Games Development |
+
+***
+
+|[![](/images/alumni/mylogonephtech_weblogo.png)](http://www.nephtech.com.sg/)|[![](/images/alumni/NeuralBay_logoweb.png)](https://www.neuralbay.com/)| [![](/images/alumni/joysteak-logoweb.png)](https://joysteak.com/) | [![](/images/alumni/imbalogo-web.png)](http://www.imbainteractive.com/) |
+|:-------------:|:-------------:|:-------------:|:-------------:|
+|**NEPHTECH PTE LTD**| **NEURALBAY** | **JOYSTEAK STUDIOS** | **RUSTBUCKET INTERACTIVE AND IMBA INTERACTIVE** |
+| Expertise: Tech | Expertise: Artificial Intellegence/Immersive Media | Expertise: Games Development | Expertise: Games/interactive media/Digital Storytelling |
+
+***
+
+|[![](/images/alumni/tendaysstudios_web.png)](http://www.10days-studio.com/)|[![](/images/alumni/TFILogo150119weblogo.png)](https://www.transferfi.com/)| [![](/images/alumni/pngthunderconsole_300x230px.png)](https://www.thunderconsole.com/index.html) | [![](/images/alumni/umitronweblogo.png)](https://umitron.com/en/mission.html) |
+|:-------------:|:-------------:|:-------------:|:-------------:|
+|**TENDAYS STUDIO**| **TRANSFER FI** | **THUNDERCONSOLE** | **UMITRON** |
+| Expertise: Games Development | Expertise: Tech | Expertise: Cloud Computing for Gaming | Expertise: Aquatech |
+
+***
+
+|[![](/images/alumni/downloadviddsee_lgoo.png)](https://www.viddsee.com/?locale=en)|[![](/images/alumni/vrcollab-logoweb.png)](https://vrcollab.com/)| [![](/images/alumni/Vuulr_logoweb.png)](https://www.vuulr.com/) | [![](/images/companies/Axomem_300x230_colour.png)](https://axomem.io/) |
+|:-------------:|:-------------:|:-------------:|:-------------:|
+|**VIDDSEE**| **VRCOLLAB** | **VUULR** | **AXOMEM** | 
+| Expertise: Content Distribution and Creation | Expertise: Immersive Media | Expertise: Online Content Distribution & Acquisition, Blockchain | Expertise: Enterprise Data Analytics, 3D, VR and AR Visualisation of Business Data, AI and Automation  |
+
+***
+
+|[![](/images/companies/Gluu_300x230px.jpg)](https://www.gluu.life/)|[![](/images/companies/mantaweblogo.png)](https://www.facebook.com/mantapictures/?modal=admin_todo_tour)| [![](/images/companies/XYConnect_300x230.jpg)](http://xy-connect.com/en/) | [![](/images/companies/avidologoweb.png)](https://www.linkedin.com/in/wee-boon-siong-0006b7157/?originalSubdomain=sg) |
+|:-------------:|:-------------:|:-------------:|:-------------:|
+|**GLUU**| **MANTA PICTURES** | **XYCONNECT** | **AXOMEM** | 
+| Expertise: Mobile Connectivity Marketplace | Expertise: Film Production, Content Creator | Expertise: 5G & Smart City | Expertise: Hardware Consultancy |
+
+***
+
+|[![](/images/companies/BAttleBre_web.png)](https://battleskybrigade.com/)|[![](/images/companies/creativesAtWork_logoweb.png)](https://creativesatwork.asia/r)| [![](/images/companies/embodied-sensingweblogo.png)](http://www.embodiedsensing.com/) | [![](/images/companies/IgniteVR_logoweb.png)](http://ignite-vr.com/) |
+|:-------------:|:-------------:|:-------------:|:-------------:|
+|**BATTLEBREW PRODUCTIONS**| **CREATIVES AT WORK** | **IGNITE VR** | **AXOMEM** | 
+| Expertise: Games Development | Expertise: Online Content | Expertise: Tech | Expertise: Games Development/Immersive Media |
+
+***
+
+|[![](/images/companies/Immersively_logoweb.png)](http://www.immersively.co/)|[![](/images/companies/Meshminds-logoweb.png)](https://www.meshminds.com/)
+|:-------------:|:-------------:|
+|**IMMERSIVELY**| **MESHMINDS** |
+| Expertise: Immersive Media | Expertise: Virtual Reality/Immersive Media| 

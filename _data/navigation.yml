@@ -7,11 +7,9 @@
 logo: /images/site-logo.png
 
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: Facilities
     url: /facilities/
-  - title: About
+  - title: Programmes 
     collection: about
   - title: Community
     collection: community
@@ -32,5 +30,7 @@ links:
       url: /events/tech/
     - title: UI/UX
       url: /events/ui-ux/
+  - title: Contact Us
+    url: /contact-us/
      
  
