@@ -1,6 +1,6 @@
 ---
 title: Transforming Industrial Operations with ARVR
-permalink: /events/immersive-media/permalink
+permalink: "https://imda-pixel.sg/event/302"
 date: 2022-02-28
 layout: post
 description: ""
