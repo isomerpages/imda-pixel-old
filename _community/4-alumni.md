@@ -60,10 +60,10 @@ permalink: /community/alumni/
 
 ***
 
-|[![](/images/companies/Immersively_logoweb.png)](http://www.immersively.co/)|[![](/images/companies/Meshminds-logoweb.png)](https://www.meshminds.com/) |[![](/images/alumni/cosmo.png)](https://cosmosoftware.io/) |[![](/images/alumni/mightyjaxx.png)](https://mightyjaxx.com/)|
+|[![](/images/companies/Immersively_logoweb.png)](http://www.immersively.co/)|[![](/images/companies/Meshminds-logoweb.png)](https://www.meshminds.com/) |[![](/images/alumni/cosmo.png)](https://cosmosoftware.io/) |[![](/images/alumni/Sendjoylogo.png)](https://www.sendjoynow.com/)|
 |:-------------:|:-------------:|:-------------:|:-------------:|
-|**IMMERSIVELY**| **MESHMINDS** |**COSMO SOFTWARE**|**MIGHTY JAXX**|
-| Expertise: Immersive Media | Expertise: Virtual Reality/Immersive Media| Expertise: Networking | Expertise: Art/Design |
+|**IMMERSIVELY**| **MESHMINDS** |**COSMO SOFTWARE**|**SENDJOY**|
+| Expertise: Immersive Media | Expertise: Virtual Reality/Immersive Media| Expertise: Networking | Expertise: Media |
 
 ***
 
@@ -81,7 +81,7 @@ permalink: /community/alumni/
 
 ***
 
-|[![](/images/alumni/reach52.png)](https://reach52.com/)| [![](/images/alumni/vouch.png)](https://www.vouchconcierge.com/en/) | [![](/images/alumni/trabble.png)](https://www.trabble.co/) |
-|:-------------:|:-------------:|:-------------:|
-|**REACH52** | **VOUCH** | **TRABBLE** |
-| Expertise: AI/Data, Health | Expertise: AI/Data, Hospitality/Tourism | Expertise: AI/Data, Tourism |
+|[![](/images/alumni/reach52.png)](https://reach52.com/)| [![](/images/alumni/vouch.png)](https://www.vouchconcierge.com/en/) | [![](/images/alumni/trabble.png)](https://www.trabble.co/)|[![](/images/alumni/mightyjaxx.png)](https://mightyjaxx.com/)|
+|:-------------:|:-------------:|:-------------:|:-------------:|
+|**REACH52** | **VOUCH** | **TRABBLE** | **MIGHT JAXX** |
+| Expertise: AI/Data, Health | Expertise: AI/Data, Hospitality/Tourism | Expertise: AI/Data, Tourism | Expertise: Art/Design |
