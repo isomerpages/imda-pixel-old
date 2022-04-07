@@ -4,10 +4,10 @@ permalink: /community/companies/
 ---
 # Companies
 
-|[![](/images/companies/Sendjoylogo.png)](https://www.sendjoynow.com/)|[![](/images/companies/advantirelogoweb.png)](https://www.swirlgo.com/)| [![](/images/companies/AloVR_300x230.jpg)](https://alo.health/) |
+|[![](/images/companies/bandwagon.png)](https://www.bandwagon.asia/)|[![](/images/companies/advantirelogoweb.png)](https://www.swirlgo.com/)| [![](/images/companies/AloVR_300x230.jpg)](https://alo.health/) |
 |:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
-|**SENDJOY**| **ADVANTIR INNOVATIONS** | **ALO VR** |
-| Expertise: E-Commerce, Media | Expertise: Consumer Electronics | Expertise: VR, Healthcare, Seniors |
+|**BANDWAGON**| **ADVANTIR INNOVATIONS** | **ALO VR** |
+| Expertise: Music, Media | Expertise: Consumer Electronics | Expertise: VR, Healthcare, Seniors |
 
 ***
 
