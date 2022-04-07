@@ -83,5 +83,5 @@ permalink: /community/alumni/
 
 |[![](/images/alumni/reach52.png)](https://reach52.com/)| [![](/images/alumni/vouch.png)](https://www.vouchconcierge.com/en/) | [![](/images/alumni/trabble.png)](https://www.trabble.co/)|[![](/images/alumni/mightyjaxx.png)](https://mightyjaxx.com/)|
 |:-------------:|:-------------:|:-------------:|:-------------:|
-|**REACH52** | **VOUCH** | **TRABBLE** | **MIGHT JAXX** |
+|**REACH52** | **VOUCH** | **TRABBLE** | **MIGHTY JAXX** |
 | Expertise: AI/Data, Health | Expertise: AI/Data, Hospitality/Tourism | Expertise: AI/Data, Tourism | Expertise: Art/Design |
