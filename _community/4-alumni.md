@@ -39,7 +39,7 @@ permalink: /community/alumni/
 
 ***
 
-|[![](/images/alumni/downloadviddsee_lgoo.png)](https://www.viddsee.com/?locale=en)|[![](/images/alumni/vrcollab-logoweb.png)](https://vrcollab.com/)| [![](/images/alumni/Vuulr_logoweb.png)](https://www.vuulr.com/) | [![](/images/companies/Axomem_300x230_colour.png)](https://axomem.io/) |
+|[![](/images/alumni/downloadviddsee_lgoo.png)](https://www.viddsee.com/?locale=en)|[![](/images/alumni/vrcollab.png)](https://vrcollab.com/)| [![](/images/alumni/Vuulr_logoweb.png)](https://www.vuulr.com/) | [![](/images/companies/Axomem_300x230_colour.png)](https://axomem.io/) |
 |:-------------:|:-------------:|:-------------:|:-------------:|
 |**VIDDSEE**| **VRCOLLAB** | **VUULR** | **AXOMEM** | 
 | Expertise: Content Distribution and Creation | Expertise: Immersive Media | Expertise: Online Content Distribution & Acquisition, Blockchain | Expertise: Enterprise Data Analytics, 3D, VR and AR Visualisation of Business Data, AI and Automation  |
@@ -48,19 +48,40 @@ permalink: /community/alumni/
 
 |[![](/images/companies/Gluu_300x230px.jpg)](https://www.gluu.life/)|[![](/images/companies/mantaweblogo.png)](https://www.facebook.com/mantapictures/?modal=admin_todo_tour)| [![](/images/companies/XYConnect_300x230.jpg)](http://xy-connect.com/en/) | [![](/images/companies/avidologoweb.png)](https://www.linkedin.com/in/wee-boon-siong-0006b7157/?originalSubdomain=sg) |
 |:-------------:|:-------------:|:-------------:|:-------------:|
-|**GLUU**| **MANTA PICTURES** | **XYCONNECT** | **AXOMEM** | 
+|**GLUU**| **MANTA PICTURES** | **XYCONNECT** | **AVIDO ROBOTICS** | 
 | Expertise: Mobile Connectivity Marketplace | Expertise: Film Production, Content Creator | Expertise: 5G & Smart City | Expertise: Hardware Consultancy |
 
 ***
 
-|[![](/images/companies/BAttleBre_web.png)](https://battleskybrigade.com/)|[![](/images/companies/creativesAtWork_logoweb.png)](https://creativesatwork.asia/r)| [![](/images/companies/embodied-sensingweblogo.png)](http://www.embodiedsensing.com/) | [![](/images/companies/IgniteVR_logoweb.png)](http://ignite-vr.com/) |
+|[![](/images/companies/BAttleBre_web.png)](https://battleskybrigade.com/)|[![](/images/companies/creativesAtWork_logoweb.png)](https://creativesatwork.asia/r)| [![](/images/companies/embodied-sensingweblogo.png)](http://www.embodiedsensing.com/) | [![](/images/alumni/ignitevr.png)](http://ignite-vr.com/) |
 |:-------------:|:-------------:|:-------------:|:-------------:|
-|**BATTLEBREW PRODUCTIONS**| **CREATIVES AT WORK** | **IGNITE VR** | **AXOMEM** | 
-| Expertise: Games Development | Expertise: Online Content | Expertise: Tech | Expertise: Games Development/Immersive Media |
+|**BATTLEBREW PRODUCTIONS**| **CREATIVES AT WORK** | **EMBODIED SENSING** | **IGNITE VR** | 
+| Expertise: Games Development | Expertise: Online Content | Expertise: IoT | Expertise: Immersive Media (Content Creation) |
 
 ***
 
-|[![](/images/companies/Immersively_logoweb.png)](http://www.immersively.co/)|[![](/images/companies/Meshminds-logoweb.png)](https://www.meshminds.com/)
-|:-------------:|:-------------:|
-|**IMMERSIVELY**| **MESHMINDS** |
-| Expertise: Immersive Media | Expertise: Virtual Reality/Immersive Media| 
+|[![](/images/companies/Immersively_logoweb.png)](http://www.immersively.co/)|[![](/images/companies/Meshminds-logoweb.png)](https://www.meshminds.com/) |[![](/images/alumni/cosmo.png)](https://cosmosoftware.io/) |[![](/images/alumni/Sendjoylogo.png)](https://www.sendjoynow.com/)|
+|:-------------:|:-------------:|:-------------:|:-------------:|
+|**IMMERSIVELY**| **MESHMINDS** |**COSMO SOFTWARE**|**SENDJOY**|
+| Expertise: Immersive Media | Expertise: Virtual Reality/Immersive Media| Expertise: Networking | Expertise: Media |
+
+***
+
+|[![](/images/alumni/mightybear.png)](https://mightybeargames.com/)| [![](/images/alumni/pangaea.png)](https://tribe-world.com/pangaea/) | [![](/images/alumni/ratloop.png)](http://www.ratloop.com/) |[![](/images/alumni/sidefx.png)](https://www.sidefx.com/)|
+|:-------------:|:-------------:|:-------------:|:-------------:|
+|**MIGHTY BEAR** | **PANGAEA INTERACTIVE** | **RATLOOP ASIA** | **SIDE FX STUDIOS** | 
+| Expertise: Games Development | Expertise: Games Development | Expertise: Games Development | Expertise: Games Development/ARVR |
+
+***
+
+|[![](/images/alumni/gentlebros.png)](https://thegentlebros.com/)| [![](/images/alumni/prepventures.png)](https://www.prepjr.com/) | [![](/images/alumni/e3sports.png)](http://www.e3sports.asia/) |[![](/images/alumni/1playsports.png)](https://www.1playsports.com/)|
+|:-------------:|:-------------:|:-------------:|:-------------:|
+|**THE GENTLEBROS** | **PREP VENTURES** | **E3 SPORTS** | **1PLAYSPORTS** | 
+| Expertise: Games Development | Expertise: Content Creation | Expertise: Sports Health/Wellness | Expertise: Media/Sports |
+
+***
+
+|[![](/images/alumni/reach52.png)](https://reach52.com/)| [![](/images/alumni/vouch.png)](https://www.vouchconcierge.com/en/) | [![](/images/alumni/trabble.png)](https://www.trabble.co/)|[![](/images/alumni/mightyjaxx.png)](https://mightyjaxx.com/)|
+|:-------------:|:-------------:|:-------------:|:-------------:|
+|**REACH52** | **VOUCH** | **TRABBLE** | **MIGHTY JAXX** |
+| Expertise: AI/Data, Health | Expertise: AI/Data, Hospitality/Tourism | Expertise: AI/Data, Tourism | Expertise: Art/Design |
