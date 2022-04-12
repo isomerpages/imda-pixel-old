@@ -4,10 +4,10 @@ permalink: /community/companies/
 ---
 # Companies
 
-|[![](/images/companies/bandwagon.png)](https://www.bandwagon.asia/)|[![](/images/companies/advantirelogoweb.png)](https://www.swirlgo.com/)| [![](/images/companies/AloVR_300x230.jpg)](https://alo.health/) |
-|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
-|**BANDWAGON**| **ADVANTIR INNOVATIONS** | **ALO VR** |
-| Expertise: Music, Media | Expertise: Consumer Electronics | Expertise: VR, Healthcare, Seniors |
+|[![](/images/companies/bandwagon.png)](https://www.bandwagon.asia/)| [![](/images/companies/AloVR_300x230.jpg)](https://alo.health/) |
+|:---------------------------------------:|:---------------------------------------:|
+|**BANDWAGON**| **ALO VR** |
+| Expertise: Music, Media | Expertise: VR, Healthcare, Seniors |
 
 ***
 
