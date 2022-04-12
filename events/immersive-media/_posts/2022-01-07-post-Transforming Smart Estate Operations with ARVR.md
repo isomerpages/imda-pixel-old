@@ -10,10 +10,11 @@ description: ""
 
 | Title | Immersive Media: Transforming Smart Estate Operations with ARVR |  |
 | -------- | ------- | -------- | 
-|Date  | 12 January 2022   |
+| Date  | 12 January 2022   |
 | Time  | 230pm to 4pm  |
-| Location  | Zoom Webinar |
+| Location  | Zoom Webinar|
 |
+
 ### About this webinar 
 Want to explore how ARVR technologies is disrupting and bringing value to the Smart Estate sector?
 
