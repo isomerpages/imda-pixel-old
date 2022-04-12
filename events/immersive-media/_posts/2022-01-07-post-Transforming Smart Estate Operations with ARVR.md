@@ -12,7 +12,7 @@ description: ""
 | -------- | ------- | -------- | 
 |Date  | 12 January 2022   |
 | Time  | 230pm to 4pm  |
-| Location  | Zoom Webinar 
+| Location  | Zoom Webinar |
 |
 
 ### About this webinar 
