@@ -12,10 +12,10 @@ description: ""
 | -------- | -------- | -------- | 
 | Date  | 12 January 2022   |
 | Time  | 230pm to 4pm  |
-| Location  | Zoom Webinar|
+| Location  | Zoom webinar|
 |
 
-### About this webinar 
+### About the webinar 
 Want to explore how ARVR technologies is disrupting and bringing value to the Smart Estate sector?
 
 Hear from our experts and see multiple use cases in action that can boost your business efficiency and productivity.
