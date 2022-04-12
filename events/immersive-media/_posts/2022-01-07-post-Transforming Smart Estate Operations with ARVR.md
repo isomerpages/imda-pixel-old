@@ -20,4 +20,3 @@ Want to explore how ARVR technologies is disrupting and bringing value to the Sm
 Hear from our experts and see multiple use cases in action that can boost your business efficiency and productivity.
 
 [Register here](https://imda-pixel.sg/event/300)
-
