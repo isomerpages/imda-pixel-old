@@ -85,3 +85,10 @@ permalink: /community/alumni/
 |:-------------:|:-------------:|:-------------:|:-------------:|
 |**REACH52** | **VOUCH** | **TRABBLE** | **MIGHTY JAXX** |
 | Expertise: AI/Data, Health | Expertise: AI/Data, Hospitality/Tourism | Expertise: AI/Data, Tourism | Expertise: Art/Design |
+
+***
+
+|[![](/images/alumni/advantirelogoweb.png)](https://www.swirlgo.com/)|
+|:-------------:
+|**ADVANTIR INNOVATIONS** |
+| Expertise: Consumer Electronics |
