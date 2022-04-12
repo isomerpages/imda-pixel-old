@@ -4,10 +4,10 @@ permalink: /community/companies/
 ---
 # Companies
 
-|[![](/images/companies/bandwagon.png)](https://www.bandwagon.asia/)| [![](/images/companies/AloVR_300x230.jpg)](https://alo.health/) |
-|:---------------------------------------:|:---------------------------------------:|
-|**BANDWAGON**| **ALO VR** |
-| Expertise: Music, Media | Expertise: VR, Healthcare, Seniors |
+|[![](/images/companies/medivr.png)](https://www.medivr.io/)| [![](/images/companies/AloVR_300x230.jpg)](https://alo.health/) |[![](/images/companies/lexatexer.png)](https://www.lexatexer.com/) |
+|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
+|**MEDIVR**| **ALO VR** | **LEXATEXER** |
+| Expertise: VR, Healthcare | Expertise: VR, Healthcare, Seniors | Expertise: AI/Data
 
 ***
 
@@ -59,3 +59,8 @@ permalink: /community/companies/
 | Expertise: AR/VR | Expertise: AR/VR | Expertise: AR/VR |
 
 ***
+
+|[![](/images/companies/bandwagon.png)](https://www.bandwagon.asia/)
+|:---------------------------------------:|
+|**BANDWAGON**|
+| Expertise: Music, Media |
