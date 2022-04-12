@@ -14,6 +14,7 @@ description: ""
 | Time | 230pm to 4pm |
 | Location | Zoom Webinar 
 |
+
 ### About this webinar 
 Want to explore how ARVR technologies is disrupting and bringing value to the Smart Estate sector?
 
