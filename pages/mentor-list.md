@@ -31,6 +31,8 @@ Partner, B Capital Group
 [LinkedIn Profile](https://www.linkedin.com/in/shashankluthra)
 General Managing Director -  Services & Software Sales - ASEAN, Cisco Systems
 
+![
+
 ### Design Thinking
 
 ![](/images/mentor-list/Keith-Oh_color-300x230px.jpg)
@@ -40,7 +42,7 @@ Head of Product Design, Carousell
 
 ![](/images/mentor-list/Thierry-Do_300x230px.jpg)
 **Thierry Do**
-[Website](https://www.thefgpeople.com/)
+[LinkedIn Profile](https://sg.linkedin.com/in/thierry-do)
 Co-Founder, Customer Experience Maker, FreshlyGround Pte Ltd
 
 ### Digital Storytelling
