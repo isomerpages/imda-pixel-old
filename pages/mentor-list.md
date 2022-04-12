@@ -31,7 +31,12 @@ Partner, B Capital Group
 [LinkedIn Profile](https://www.linkedin.com/in/shashankluthra)
 General Managing Director -  Services & Software Sales - ASEAN, Cisco Systems
 
-![
+![]![](/images/mentor-list/raghuganti1.png)
+**Raghu Ganti**
+[LinkedIn Profile](https://www.linkedin.com/in/rganti9)
+Regional Sales Leader for ProViz , OMNIVERSE and NVIDIA AI Enterprise, NVIDIA
+
+
 
 ### Design Thinking
 
