@@ -36,7 +36,7 @@ General Managing Director -  Services & Software Sales - ASEAN, Cisco Systems
 [LinkedIn Profile](https://www.linkedin.com/in/rganti9)
 Regional Sales Leader for ProViz , OMNIVERSE and NVIDIA AI Enterprise
 
-![](/images/mentor-list/gillwang2.png)
+![](/images/mentor-list/gillwang1.png)
 **Gill Wang**
 [LinkedIn Profile](https://www.linkedin.com/in/gill-wang-39116a15a/)
 Global AR Product Manager, Nvidia
