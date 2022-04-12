@@ -8,7 +8,7 @@ description: ""
 ![Alt text for image on Isomer site](/images/smart%20estate%20banner.png)
 
 
-| Title | Immersive Media: Transforming Smart Estate Operations with ARVR | |
+| Title | ARVR Metaverse Series: Transforming Smart Estate Operations with ARVR | |
 | -------- | -------- | -------- | 
 | Date  | 12 January 2022   |
 | Time  | 230pm to 4pm  |
