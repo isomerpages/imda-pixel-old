@@ -22,7 +22,7 @@ Click [here](https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2
 
 ![](/images/partners/meta.png)
 
-**FACEBOOK ACCELERATOR SINGAPORE** – We partnered Meta and have run two seasons of the Facebook Accelerator programme from February 2019 to September 2020. Over six months, we incubate and support innovative data-driven startups in developing data innovation models for Asia and the rest of the world, Meta offered mentorship, training and support in using data in live environments. PIXEL provided the co-working space and access to creative design consultants for startups to collaborate, build and access key markets. The Facebook Accelerator programme is Meta’s second data innovation startup programme globally, after France, and the first in Asia. 
+**META** – We partnered Meta and have run two seasons of the Facebook Accelerator programme from February 2019 to September 2020. Over six months, we incubate and support innovative data-driven startups in developing data innovation models for Asia and the rest of the world, Meta offered mentorship, training and support in using data in live environments. PIXEL provided the co-working space and access to creative design consultants for startups to collaborate, build and access key markets. The Facebook Accelerator programme is Meta’s second data innovation startup programme globally, after France, and the first in Asia. 
 
 Click [here](https://en.prnasia.com/releases/apac/facebook-accelerator-singapore-introduces-14-startups-in-season-2-276348.shtml) for more info. 
 
@@ -30,10 +30,10 @@ Click [here](https://en.prnasia.com/releases/apac/facebook-accelerator-singapore
 
 **Ubisoft Singapore** – We partnered Ubisoft to develop a start-up programme for companies to leverage technology and enhance entertainment experiences. Participating start-ups in Singapore and the region can access PIXEL’s facilities and programmes, as well as Ubisoft’s global resources and mentorship to develop innovative solutions. This is Ubisoft’s first International Start-up Programme in Asia. 
 
-Click here for more info! 
+Click [here](https://news.ubisoft.com/en-us/article/Dv8yabFrdkvbKG0VNdFgd/ubisoft-startup-program-expands-into-singapore-as-ubisoft-entrepreneurs-lab) for more info! 
 
-![](/images/partners/unity.png)
+![](/images/partners/nvidia1.png)
 
-**FACEBOOK ACCELERATOR SINGAPORE** – We partnered Meta and have run two seasons of the Facebook Accelerator programme from February 2019 to September 2020. Over six months, we incubate and support innovative data-driven startups in developing data innovation models for Asia and the rest of the world, Meta offered mentorship, training and support in using data in live environments. PIXEL provided the co-working space and access to creative design consultants for startups to collaborate, build and access key markets. The Facebook Accelerator programme is Meta’s second data innovation startup programme globally, after France, and the first in Asia. 
+**Nvidia** – We are in collaboration with Nvidia to bring expert resources on the Omniverse Platform to our start-ups and tech community. Start-ups can gain access to the Omniverse software platform at PIXEL, software trials and tutorials, and speak to Nvidia mentors on ARVR and AI to accelerate their solution development. The community can also look forward to programming and events on the latest technology topics such as ARVR and AI.
 
-Click [here](https://blog-e.lab7sg.com/archives/1137) for more info. 
+Click [here](https://www.nvidia.com/en-us/) for more info. 

@@ -31,6 +31,17 @@ Partner, B Capital Group
 [LinkedIn Profile](https://www.linkedin.com/in/shashankluthra)
 General Managing Director -  Services & Software Sales - ASEAN, Cisco Systems
 
+![](/images/mentor-list/raghuganti2.png)
+**Raghu Ganti**
+[LinkedIn Profile](https://www.linkedin.com/in/rganti9)
+Regional Sales Leader for ProViz , OMNIVERSE and NVIDIA AI Enterprise
+
+![](/images/mentor-list/gillwang1.png)
+**Gill Wang**
+[LinkedIn Profile](https://www.linkedin.com/in/gill-wang-39116a15a/)
+Global AR Product Manager, Nvidia
+
+
 ### Design Thinking
 
 ![](/images/mentor-list/Keith-Oh_color-300x230px.jpg)
@@ -40,7 +51,7 @@ Head of Product Design, Carousell
 
 ![](/images/mentor-list/Thierry-Do_300x230px.jpg)
 **Thierry Do**
-[Website](https://www.thefgpeople.com/)
+[LinkedIn Profile](https://sg.linkedin.com/in/thierry-do)
 Co-Founder, Customer Experience Maker, FreshlyGround Pte Ltd
 
 ### Digital Storytelling
