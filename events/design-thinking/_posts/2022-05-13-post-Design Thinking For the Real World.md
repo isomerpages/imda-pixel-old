@@ -23,7 +23,7 @@ The realisation of business goals requires understanding target users' core need
 
 ![Alt text for image on Isomer site](/images/design-thinking/wei.png) 
 
-**Wei Kong, Engangement Lead of PebbleRoad**
+**Wei Kong, Engagement Lead of PebbleRoad**
 
 Wei Kong is Engagement Lead with PebbleRoad working across private, public and non-profit sectors in bringing products and services to market. Expertise has covered design practice through design leadership to support business goals and organisational development.
 
