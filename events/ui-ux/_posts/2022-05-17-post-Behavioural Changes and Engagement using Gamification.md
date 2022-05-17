@@ -19,6 +19,10 @@ ThinkPlace will provide an introduction into the world of gamification and how y
 
 [Register Here](https://imda-pixel.sg/event/321)
 
+**Presenting Partner: ThinkPlace**
+
+ThinkPlace is a strategic design consultancy with a global network operating across Australia, New Zealand, Singapore, Kenya, Senegal and U.S.A. Their clients include BOSCH, Unicef and CSIRO.
+
 ### Speakers 
 
 ![Alt text for image on Isomer site](/images/ui-ux/debbie.png) 
