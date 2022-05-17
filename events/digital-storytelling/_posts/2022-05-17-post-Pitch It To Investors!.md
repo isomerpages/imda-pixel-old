@@ -1,6 +1,6 @@
 ---
 title: Pitch It To Investors!
-permalink: /https://imda-pixel.sg/event/318
+permalink: https://imda-pixel.sg/event/318
 date: 2022-05-17
 layout: post
 description: ""
