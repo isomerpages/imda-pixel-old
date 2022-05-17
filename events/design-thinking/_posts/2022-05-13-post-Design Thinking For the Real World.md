@@ -18,3 +18,17 @@ description: ""
 The realisation of business goals requires understanding target users' core needs, envisaging value propositions, and the ability to implement. Find out how this workshop on the importance of clear prioritisation in Design Thinking can help to enable successful outcomes.
 
 [Register Here](https://imda-pixel.sg/event/317)
+
+### Speakers 
+
+![Alt text for image on Isomer site](/images/design-thinking/wei.png) 
+
+**Wei Kong, Engangement Lead of PebbleRoad**
+
+Wei Kong is Engagement Lead with PebbleRoad working across private, public and non-profit sectors in bringing products and services to market. Expertise has covered design practice through design leadership to support business goals and organisational development.
+
+![Alt text for image on Isomer site](/images/design-thinking/wolfgangpebbleroad.png) 
+
+**Wolfgang Maehr, Engagement Lead of PebbleRoad**
+
+Wolfgang Maehr is Engagement Lead with PebbleRoad and sees himself as an architect for systems, services and organisations. He helps organisations orchestrate their digital transformation journeys by being hands-on with developing products and services.
