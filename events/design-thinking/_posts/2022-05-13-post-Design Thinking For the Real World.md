@@ -19,6 +19,10 @@ The realisation of business goals requires understanding target users' core need
 
 [Register Here](https://imda-pixel.sg/event/317)
 
+**Presenting Partner: PebbleRoad**
+
+Founded in 2004, PebbleRoad is a Singapore-based strategy, design and innovation practice that helps clients scale and sustain digital transformation. Their clients include Enterprise Singapore, AIG and Telenor Group.
+
 ### Speakers 
 
 ![Alt text for image on Isomer site](/images/design-thinking/wei.png) 
