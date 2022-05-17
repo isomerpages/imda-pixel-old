@@ -11,7 +11,7 @@ description: ""
 | -------- | -------- | --------| 
 | Date  | 13 May 2022  | 
 | Time  | 10am to 12pm  |
-| Location  | PIXEL Seminar Room, Level 2  |
+| Location  | IMDA PIXEL (Seminar Room, Level 2), 10 Central Exchange Green, Singapore 13864 |
 
 ### About the webinar 
 
