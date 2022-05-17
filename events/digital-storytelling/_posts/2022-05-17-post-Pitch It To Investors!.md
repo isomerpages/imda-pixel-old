@@ -1,7 +1,7 @@
 ---
 title: Pitch It To Investors!
 permalink: https://imda-pixel.sg/event/318
-date: 2022-05-17
+date: 2022-05-19
 layout: post
 description: ""
 ---
@@ -18,6 +18,10 @@ description: ""
 Have you sent across your pitch deck and never gotten a reply? Did you present to investors, but nobody seemed interested? This hands-on workshop can help you refine and improve your presentation and storytelling when pitching to investors. 
 
 [Register Here](https://imda-pixel.sg/event/318)
+
+**Presenting Partner: Lime Agency**
+
+Founded in 2015, Lime Agency is an award-winning branding agency based in Singapore. Their clients include DHI Worldwide, Cocoon Capital and Axxes Solutions.
 
 ### Speakers 
 
