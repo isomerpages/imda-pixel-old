@@ -1,7 +1,7 @@
 ---
 title: How To Start With Branding?
 permalink: https://imda-pixel.sg/event/329
-date: 2022-06-03
+date: 2022-06-16
 layout: post
 description: ""
 ---
