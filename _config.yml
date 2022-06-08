@@ -5,7 +5,7 @@ favicon: /images/imda-logo.png
 # Site colors
 colors:
   primary-color: '#702f8a'
-  secondary-color: '#40c1ac'
+  secondary-color: '#702f8a'
   media-colors:
     - title: media-color-one
       color: '#47bbe9'
