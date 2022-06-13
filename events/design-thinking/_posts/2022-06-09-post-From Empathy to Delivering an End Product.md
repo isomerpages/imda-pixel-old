@@ -5,7 +5,6 @@ date: 2022-06-29
 layout: post
 description: ""
 ---
-
 ![Alt text for image on Isomer site](/images/design-thinking/29june.png)
 
 | Title | From Empathy to Delivering an End Product | | 
