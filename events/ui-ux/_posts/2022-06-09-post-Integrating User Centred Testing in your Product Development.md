@@ -6,7 +6,7 @@ layout: post
 description: ""
 ---
 
-![Alt text for image on Isomer site](/images/ui-ux/UIUX22june.png)
+![Alt text for image on Isomer site](/images/ui-ux/22june.png)
 
 | Title | UIUX Workshop: Integrating User Centred Testing in your Product Development | | 
 | -------- | -------- | --------| 
