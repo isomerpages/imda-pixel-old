@@ -38,7 +38,7 @@ He joins Boston Dynamics from Google, where he was responsible for cross-product
 
 ![Alt text for image on Isomer site](/images/Tech/jybnw.png) 
 
-**Jiayi Chong, Co-Founder at dConstruct**
+**Jiayi Chong, Co-Founder at dConstruct** 
 
 Jiayi has 20 years of experience working in Tech in the Bay Area ( Silicon Valley ). He was a R&D Technical Director at Pixar working on the Physics Simulation Tools + Engine for Film production. His contributions included Finite Elements for Muscles/Flesh of Digital Characters, Free Surface Flow for Fluid Dynamics and Articulated Rigid Bodies/Constrained Dynamics for Physics-based Character Animation. He has film credits in Wall-E, Up, Toy Story 3, Brave and Monsters University. 
 
