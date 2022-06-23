@@ -15,13 +15,15 @@ description: ""
 
 ### About the webinar 
 
-A workshop that teaches you how to understand the fundamentals of Design Thinking by experiencing the five stages and also the use of awareness of Design Thinking vocabulary. It is important to know the value of engaging with people to help design decisions and the usefulness of quick and dirty prototypes. Through this workshop it enables to you learn to be comfortable with being uncomfortable and to have fun and embrace your creativity.
+Kickstart your understanding into Robotics and AI in this physical sharing session! Find out how humans and robots work hand-in-hand to serve different industries, along with overcoming the challenges that emerge from working with robots. Dive into case studies to learn all about how Robotics and AI play their part in enterprise projects, accompanied with exciting live demos of industrial-grade robots.  
 
 [Register Here](https://imda-pixel.sg/event/340)
 
 **Presenting Partner: dConstruct & Boston Dynamics**
 
-Founded in 2017 by three ex-BCG executives, Adaptovate helps organisations transform at scale and innovate to meet changing market conditions and increasingly sophisticated customer demands.
+Boston Dynamics (Massachusetts, U.S.A), creates robots with advanced mobility, dexterity, and intelligence enabling automation in unstructured or hard-to-traverse spaces, from industrial plants and construction sites to distribution centres and warehouses.
+
+dConstruct Technologies delivers autonomous navigation solutions for mobile robotics applications, specialising in remote operations with their BVLOS (Beyond Vision Line of Sight) Controls and Autonomous Missions Engine. 
 
 ### Speakers 
 
@@ -35,17 +37,13 @@ She has played a key part in several successful Large Scale Agile transformation
 
 ![Alt text for image on Isomer site](/images/design-thinking/DTandy.png) 
 
-**Andy Koh, Business Agility Consultant of Adaptovate**
+**Jiayi Chong, Co-Founder of dConstruct**
 
-Andy specialises in Agile Transformation and coaching leadership and teams through the transition from traditional to Agile ways of working. He has more than ten years of experience in business consulting, project management and financial services technology in Asia Pacific. Andy has experience working across many diverse cultures and regions, while appreciating the amazing results diverse teams can achieve. He is fluent in English and Mandarin.
-
-Before joining ADAPTOVATE, Andy brought large transformation programmes to life across financial services firms in the Asia Pacific region. Prior to that, Andy spent time with DBS, Barclays Capital and Bank of America Merrill Lynch leading programmes and projects.
+Jiayi has 20 years of experience working in Tech in the Bay Area ( Silicon Valley ). He was a R&D Technical Director at Pixar working on the Physics Simulation Tools + Engine for Film production. His contributions included Finite Elements for Muscles/Flesh of Digital Characters, Free Surface Flow for Fluid Dynamics and Articulated Rigid Bodies/Constrained Dynamics for Physics-based Character Animation.
 
 ![Alt text for image on Isomer site](/images/design-thinking/DTmar.png) 
 
-**Malar Singaram, Senior Consultant of Adaptovate**
+**Marc Theermann, Chief Strategy Officer of Boston Dynamics**
 
-Malar is a Certified Scrum Master & Product Owner with over 7 years of experience supporting customers on their path to agile and digital transformation. She has experience designing and developing IT systems for the public and private sector with a passion for deeply understanding users’ needs to quickly deliver outputs of value.
-
-Prior to joining the firm, Malar worked as a cross-functional consultant at Appian where she applied Agile practices to the delivery of many software applications in industries such as financial services, telecommunications, social collaboration and legal services.
+MIn his role as Chief Strategy Officer, Theermann oversees the development and implementation of Boston Dynamics’ commercialization strategy. Theermann is the newest member of Boston Dynamics’ executive team, and is responsible for product, marketing, shareholder management, and business development functions. He joins Boston Dynamics from Google, where he was responsible for cross-product strategy and key account management for the global gaming and startup verticals.
 
