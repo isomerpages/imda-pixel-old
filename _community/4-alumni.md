@@ -32,7 +32,7 @@ permalink: /community/alumni/
 
 ***
 
-|[![](/images/alumni/tendaysstudios_web.png)](http://www.10days-studio.com/)|[![](/images/alumni/TFILogo150119weblogo.png)](https://www.transferfi.com/)| [![](/images/alumni/pngthunderconsole_300x230px.png)](https://www.thunderconsole.com/index.html) | [![](/images/alumni/umitronweblogo.png)](https://umitron.com/en/mission.html) |
+|[![](/images/alumni/tendaysstudios_web.png)](http://www.10days-studio.com/)|[![](/images/alumni/TFILogo150119weblogo.png)](https://sg.linkedin.com/company/transferfi)| [![](/images/alumni/pngthunderconsole_300x230px.png)](https://www.thunderconsole.com/index.html) | [![](/images/alumni/umitronweblogo.png)](https://umitron.com/en/mission.html) |
 |:-------------:|:-------------:|:-------------:|:-------------:|
 |**TENDAYS STUDIO**| **TRANSFER FI** | **THUNDERCONSOLE** | **UMITRON** |
 | Expertise: Games Development | Expertise: Tech | Expertise: Cloud Computing for Gaming | Expertise: Aquatech |
@@ -53,7 +53,7 @@ permalink: /community/alumni/
 
 ***
 
-|[![](/images/companies/BAttleBre_web.png)](https://battleskybrigade.com/)|[![](/images/companies/creativesAtWork_logoweb.png)](https://creativesatwork.asia/r)| [![](/images/companies/embodied-sensingweblogo.png)](http://www.embodiedsensing.com/) | [![](/images/alumni/ignitevr.png)](http://ignite-vr.com/) |
+|[![](/images/companies/BAttleBre_web.png)](https://battleskybrigade.com/)|[![](/images/companies/creativesAtWork_logoweb.png)](https://creativesatwork.asia)| [![](/images/companies/embodied-sensingweblogo.png)](http://www.embodiedsensing.com/) | [![](/images/alumni/ignitevr.png)](http://ignite-vr.com/) |
 |:-------------:|:-------------:|:-------------:|:-------------:|
 |**BATTLEBREW PRODUCTIONS**| **CREATIVES AT WORK** | **EMBODIED SENSING** | **IGNITE VR** | 
 | Expertise: Games Development | Expertise: Online Content | Expertise: IoT | Expertise: Immersive Media (Content Creation) |
