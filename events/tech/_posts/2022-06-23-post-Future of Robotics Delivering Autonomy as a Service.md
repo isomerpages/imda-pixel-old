@@ -5,7 +5,7 @@ date: 2022-07-06
 layout: post
 description: ""
 ---
-![Alt text for image on Isomer site](/images/Tech/Future_ofRobotics_v2_mircrosite1200x600.png)
+![Alt text for image on Isomer site](/images/Tech/future_of_robotics.png)
 
 | Title | Future of Robotics Delivering Autonomy-as-a-Service | | 
 | -------- | -------- | --------| 
