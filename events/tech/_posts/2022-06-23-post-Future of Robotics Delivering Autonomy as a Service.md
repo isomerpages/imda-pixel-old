@@ -1,17 +1,17 @@
 ---
-title: Future of Robotics: Delivering Autonomy-as-a Service
+title: Future of Robotics Delivering Autonomy-as-a-Service
 permalink: https://imda-pixel.sg/event/340
 date: 2022-07-06
 layout: post
 description: ""
 ---
-![Alt text for image on Isomer site](/images/Tech/Future_of_Robotics_v2_microsite1200x600.png)
+![Alt text for image on Isomer site](/images/Tech/Future_ofRobotics_v2_mircrosite1200x600.png)
 
-| Title | Future of Robotics: Delivering Autonotomy-as-a-Service | | 
+| Title | Future of Robotics Delivering Autonomy-as-a-Service | | 
 | -------- | -------- | --------| 
 | Date  | 6 July 2022  | 
 | Time  | 2pm to 5pm  |
-| Location  | IMDA PIXEL Collaboration Space (Level 1), 10 Central Exchange Green, Singapore 138649 |
+| Location  | IMDA PIXEL (Collaboration Space, Level 1), 10 Central Exchange Green, Singapore 138649 |
 
 ### About the webinar 
 
@@ -19,7 +19,7 @@ Kickstart your understanding into Robotics and AI in this physical sharing sessi
 
 [Register Here](https://imda-pixel.sg/event/340)
 
-**Presenting Partner: Boston Dynamics & dConstruct **
+**Presenting Partner: dConstruct & Boston Dynamics**
 
 Boston Dynamics (Massachusetts, U.S.A), creates robots with advanced mobility, dexterity, and intelligence enabling automation in unstructured or hard-to-traverse spaces, from industrial plants and construction sites to distribution centres and warehouses.
 
@@ -27,19 +27,23 @@ dConstruct Technologies delivers autonomous navigation solutions for mobile robo
 
 ### Speakers 
 
-![Alt text for image on Isomer site](/images/Tech/mtbnw.png) 
+![Alt text for image on Isomer site](/images/design-thinking/DTbri.png) 
 
-**Marc TheermannChief, Strategy Officer at Boston Dynamics**
+**Brigitte Odgers-Jewell, Principal – Global Agile Business Design & Innovation Practice Lead of Adaptovate**
 
-In his role as Chief Strategy Officer, Theermann oversees the development and implementation of Boston Dynamics’ commercialization strategy. Theermann is the newest member of Boston Dynamics’ executive team, and is responsible for product, marketing, shareholder management, and business development functions. 
+Brigitte is a dynamic, results-orientated team player with a collaborative, innovative style, and a passion for solving difficult problems. The depth and breadth of her experience spans across banking, insurance, energy, telecommunications and government sectors across Australia, USA and SEA.
 
-He joins Boston Dynamics from Google, where he was responsible for cross-product strategy and key account management for the global gaming and startup verticals. Theerman has more than two decades of experience working with high-growth companies, including PlaceIQ, AdMeld, which sold to Google ($400M), and Millennial Media, which he sold to AOL/Verizon for $250M. He holds an MBA degree from Northeastern University, and a Masters in International Management from Thunderbird. He speaks English, German, and French, is married and has two daughters.
+She has played a key part in several successful Large Scale Agile transformations and is zealous about creating a high-performing, engaged, Agile culture, one that is continuously transforming, adapting, evolving and striving to deliver what matters to people, businesses and communities.
 
+![Alt text for image on Isomer site](/images/design-thinking/DTandy.png) 
 
-![Alt text for image on Isomer site](/images/Tech/jybnw.png) 
+**Jiayi Chong, Co-Founder of dConstruct**
 
-**Jiayi Chong, Co-Founder at dConstruct**
+Jiayi has 20 years of experience working in Tech in the Bay Area ( Silicon Valley ). He was a R&D Technical Director at Pixar working on the Physics Simulation Tools + Engine for Film production. His contributions included Finite Elements for Muscles/Flesh of Digital Characters, Free Surface Flow for Fluid Dynamics and Articulated Rigid Bodies/Constrained Dynamics for Physics-based Character Animation.
 
-Jiayi has 20 years of experience working in Tech in the Bay Area ( Silicon Valley ). He was a R&D Technical Director at Pixar working on the Physics Simulation Tools + Engine for Film production. His contributions included Finite Elements for Muscles/Flesh of Digital Characters, Free Surface Flow for Fluid Dynamics and Articulated Rigid Bodies/Constrained Dynamics for Physics-based Character Animation. He has film credits in Wall-E, Up, Toy Story 3, Brave and Monsters University. 
+![Alt text for image on Isomer site](/images/design-thinking/DTmar.png) 
 
-His work amounted to 4 US Patents and Siggraph Technical Talks. After leaving Pixar, he joined Deep Motion to work on Physics-based Humanoid Motion using Deep Reinforcement Learning before returning to Singapore. He is currently the CTO of dConstruct Technologies, a startup focused on building a "Self-Driving Stack" for robots, with a focus on using both traditional techniques in Motion Planning as well as current methods in Machine Learning + Computer Vision. Jia Yi has a Computer Science Degree as well as Masters from Stanford University.
+**Marc Theermann, Chief Strategy Officer of Boston Dynamics**
+
+MIn his role as Chief Strategy Officer, Theermann oversees the development and implementation of Boston Dynamics’ commercialization strategy. Theermann is the newest member of Boston Dynamics’ executive team, and is responsible for product, marketing, shareholder management, and business development functions. He joins Boston Dynamics from Google, where he was responsible for cross-product strategy and key account management for the global gaming and startup verticals.
+
