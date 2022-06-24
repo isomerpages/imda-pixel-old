@@ -1,12 +1,5 @@
 ---
 title: Innovation Thursday Mandai Special
-permalink: /events/tech/permalink
-date: 2022-06-24
-layout: post
-description: ""
----
----
-title: Innovation Thursday Mandai Special
 permalink: https://imda-pixel.sg/event/332
 date: 2022-06-30
 layout: post
