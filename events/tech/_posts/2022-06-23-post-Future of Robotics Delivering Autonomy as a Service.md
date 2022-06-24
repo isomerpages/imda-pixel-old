@@ -27,21 +27,13 @@ dConstruct Technologies delivers autonomous navigation solutions for mobile robo
 
 ### Speakers 
 
-![Alt text for image on Isomer site](/images/design-thinking/DTbri.png) 
-
-**Brigitte Odgers-Jewell, Principal – Global Agile Business Design & Innovation Practice Lead of Adaptovate**
-
-Brigitte is a dynamic, results-orientated team player with a collaborative, innovative style, and a passion for solving difficult problems. The depth and breadth of her experience spans across banking, insurance, energy, telecommunications and government sectors across Australia, USA and SEA.
-
-She has played a key part in several successful Large Scale Agile transformations and is zealous about creating a high-performing, engaged, Agile culture, one that is continuously transforming, adapting, evolving and striving to deliver what matters to people, businesses and communities.
-
-![Alt text for image on Isomer site](/images/design-thinking/DTandy.png) 
+![Alt text for image on Isomer site](/images/Tech/jybnw.png) 
 
 **Jiayi Chong, Co-Founder of dConstruct**
 
 Jiayi has 20 years of experience working in Tech in the Bay Area ( Silicon Valley ). He was a R&D Technical Director at Pixar working on the Physics Simulation Tools + Engine for Film production. His contributions included Finite Elements for Muscles/Flesh of Digital Characters, Free Surface Flow for Fluid Dynamics and Articulated Rigid Bodies/Constrained Dynamics for Physics-based Character Animation.
 
-![Alt text for image on Isomer site](/images/design-thinking/DTmar.png) 
+![Alt text for image on Isomer site](/images/Tech/mtbnw.png) 
 
 **Marc Theermann, Chief Strategy Officer of Boston Dynamics**
 
