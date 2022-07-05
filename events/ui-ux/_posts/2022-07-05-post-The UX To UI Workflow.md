@@ -42,4 +42,4 @@ Keith believes in the exponential potential of synergising business, innovation 
 
 **Asyraf Daud, Experience Designer**
 
-Asyraf is an Experience Designer working at the intersection of human-centred design, research, and strategy. As a seriously playful storyteller, he has a strong interest in strategic solutions that pushes the boundaries of the unconventional to blur the lines between design and human experiences. He believes in exploring unorthodox concepts, integrating speculative design, and challenging discourse to develop compelling narratives that drives creativity and innovation forward.
+Asyraf is an Experience Designer working at the intersection of human-centred design, research, and strategy. As a seriously playful storyteller, he has a strong interest in strategic solutions that pushes the boundaries of the unconventional to blur the lines between design and human experiences. He believes in exploring unorthodox concepts, integrating speculative design, and challenging discourse to develop compelling narratives that drives creativity and innovation forward. 
