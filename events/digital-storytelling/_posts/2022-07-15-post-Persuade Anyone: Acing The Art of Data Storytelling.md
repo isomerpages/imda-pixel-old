@@ -1,7 +1,7 @@
 ---
 title: "Persuade Anyone: Acing The Art of Data Storytelling"
-permalink: /events/digital-storytelling/permalink
-date: 2022-07-15
+permalink: https://imda-pixel.sg/event/344
+date: 2022-07-20
 layout: post
 description: ""
 ---
