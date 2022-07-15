@@ -1,10 +1,11 @@
 ---
-title: Persuade Anyone: Acing The Art of Data Storytelling
+title: "Persuade Anyone: Acing The Art of Data Storytelling"
 permalink: https://imda-pixel.sg/event/344
 date: 2022-07-20
 layout: post
 description: ""
 ---
+
 ![Alt text for image on Isomer site](/images/digital-storytelling/20DSFA.png)
 
 | Title | Persuade Anyone: Acing The Art of Data Storytelling | | 
