@@ -1,16 +1,16 @@
 ---
 title: "Persuade Anyone: Acing The Art of Data Storytelling"
 permalink: https://imda-pixel.sg/event/344
-date: 2022-07-20
+date: 2022-07-26
 layout: post
 description: ""
 ---
 
-![Alt text for image on Isomer site](/images/digital-storytelling/20DSFA.png)
+![Alt text for image on Isomer site](/images/digital-storytelling/26dsjul.png)
 
 | Title | Persuade Anyone: Acing The Art of Data Storytelling | | 
 | -------- | -------- | --------| 
-| Date  | 20 July 2022  | 
+| Date  | 26 July 2022  | 
 | Time  | 2pm to 5pm  |
 | Location  | IMDA PIXEL (Seminar Room, Level 2), 10 Central Exchange Green, Singapore 138649 |
 
