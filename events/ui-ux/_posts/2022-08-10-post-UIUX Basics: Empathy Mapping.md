@@ -31,4 +31,4 @@ At EY, their purpose is building a better working world. The insights and servic
 
 **Almaas Shazea (Mas), Technology Consulting Manager of EY Digital**
 
-Mas enjoys working and collaborating with a diverse team of people, both internationally and locally, to create immersive experiences. she loves being surrounded by people who inspire through their passion and excitement for the work that they do, and she is always trying to build conversations that help drive innovative thinking. She also loves going to spin, barre, or yoga classes, and travels whenever I can. Mas has experience in writing for publications, and occasionally dabbles in writing prose. 
+Mas enjoys working and collaborating with a diverse team of people, both internationally and locally, to create immersive experiences. she loves being surrounded by people who inspire through their passion and excitement for the work that they do, and she is always trying to build conversations that help drive innovative thinking. She also loves going to spin, barre, or yoga classes, and travels whenever I can. Mas has experience in writing for publications, and occasionally dabbles in writing prose.
