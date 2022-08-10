@@ -1,5 +1,5 @@
 ---
-title: UIUX Basics: Empathy Mapping
+title: "UIUX Basics: Empathy Mapping"
 permalink: https://imda-pixel.sg/event/353
 date: 2022-08-25
 layout: post
