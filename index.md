@@ -14,6 +14,7 @@ sections:
       subtitle: Get updates on PIXEL’s latest initiatives and events here!
       button: Join our Mailing List
       url: https://form.gov.sg/#!/5f6327d424978a001130835c
+      background: /images/homepage/pixel banner.png
   - infobar:
       title: Welcome To PIXEL!
       description: <p style="line-height:1;">PIXEL is an incubation and innovation
