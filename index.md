@@ -31,9 +31,9 @@ sections:
       button: <h5>Learn more</h5>
       url: /faq/
   - resources:
-      title: Join our Events where our community shares about the latest developments
-        in tech, media and design
+      title: Complimentary Workshop
       button: View all events
+      subtitle: "register now "
 careers-subtitle: null
 careers-description: null
 ---
