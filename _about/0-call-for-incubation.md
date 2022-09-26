@@ -1,6 +1,6 @@
 ---
-title: Incubation Programme
-permalink: /about/incubation-programme/
+title: Call for Incubation
+permalink: /about/call-for-incubation/
 ---
 
 PIXEL offers 28,000 square feet of innovation space to start-ups and corporates, with a unique mix of facilities and equipments for technology, media and design. The facilities and equipments are designed to embed customer centricity into your product. The key ones are:
