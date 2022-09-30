@@ -90,6 +90,3 @@ Use the 3D printers or laser cutters for rapid prototyping, for robotics and sen
 
 *All our facilities are subject to the prevailing Safe Measurement Measures
 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1TpU2Xp5PZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
