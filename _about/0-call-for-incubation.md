@@ -16,7 +16,8 @@ PIXEL offers 28,000 square feet of innovation space to start-ups and corporates,
   - Usability Testing Lab for UI/UX
   - Media production facilities (Recording studio, Green room for visual effects)
   
-<font color="purple|#702f8a|rgb_number">Apply for incubation in our complimentary co-working space or project suites [here](https://form.gov.sg/6333e2ca634d1700127e8c8c).
+Apply for incubation in our complimentary co-working space or project suites [here](https://form.gov.sg/6333e2ca634d1700127e8c8c).
 
 
 ![](/images/facilities/facilities.png)
+
