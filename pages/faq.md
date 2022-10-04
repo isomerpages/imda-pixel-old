@@ -28,7 +28,7 @@ Singapore-registered start-ups involved in tech or digital media content develop
 -	Project potential
 -	Potential to contribute to the Tech or Media Community. (e.g. mentorship, proprietary technology)
 
-Subscribe to IMDA PIXEL mailing list for the latest innovation updates and workshops [here](https://form.gov.sg/#!/6333e2ca634d1700127e8c8c). 
+Apply for incubation in our complimentary co-working space or project suites [here](https://form.gov.sg/#!/6333e2ca634d1700127e8c8c). 
 
 **5. Does my company have to be registered in Singapore to be eligible for incubation?**
 
