@@ -13,7 +13,7 @@ PIXEL provides start-ups and corporates with 28k square feet of innovation space
 Check out our detailed Facilities Factsheet [here](https://go.gov.sg/pixel-facitility-factsheet)  and fill up the request form for facilities and equipment [here](https://go.gov.sg/preqform). 
 
 
-(/files/PIXEL Facilities Factsheet - 20190425.pdf)
+
   
 ### FACILITIES AND EQUIPMENT
 
