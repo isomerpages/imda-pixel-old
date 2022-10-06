@@ -10,8 +10,10 @@ PIXEL provides start-ups and corporates with 28k square feet of innovation space
 
 * Labs such as the Augmented Reality and Virtual Reality Lab, 5G Test Bed, Usability Testing Lab for UI/UX, and media production facilities such as the Green Room for visual effects
 
-Check out our detailed Facilities Factsheet [here](/files/PIXEL Facilities Factsheet - 20190425.pdf) and fill up the request form for facilities and equipment [here](https://go.gov.sg/preqform). 
+Check out our detailed Facilities Factsheet [here](https://go.gov.sg/pixel-facitility-factsheet)  and fill up the request form for facilities and equipment [here](https://go.gov.sg/preqform). 
 
+
+(/files/PIXEL Facilities Factsheet - 20190425.pdf)
   
 ### FACILITIES AND EQUIPMENT
 
@@ -87,4 +89,3 @@ Attend large-scale mixer workshops, masterclasses or have meetup sessions here i
 Use the 3D printers or laser cutters for rapid prototyping, for robotics and sensors.
 
 *All our facilities are subject to the prevailing Safe Measurement Measures
-
