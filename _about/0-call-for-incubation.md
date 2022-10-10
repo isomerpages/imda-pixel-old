@@ -19,5 +19,9 @@ PIXEL offers 28,000 square feet of innovation space to start-ups and corporates,
 Apply for incubation in our complimentary co-working space or project suites [here](https://form.gov.sg/6333e2ca634d1700127e8c8c).
 
 
+![](/images/facilities/level2-1.jpeg)
+![](/images/facilities/Level2-2.jpeg)
+![](/images/facilities/Level2-3.jpeg)
+
 ![](/images/facilities/facilities.png)
 
