@@ -8,7 +8,6 @@ description: "Join us for a complimentary ARVR webinar organised by IMDA PIXEL
   with AR and VR. "
 image: ""
 ---
-
 ![Alt text for image on Isomer site](/images/immersive-experiences/ARVR-26Oct.jpg)
 
 | Title | ARVR Webinar: Evolution of Digital Wellness With Arvr and 5G ||
