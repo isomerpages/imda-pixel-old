@@ -6,7 +6,7 @@ layout: post
 description: "Complimentary AR/VR webinar organised by IMDA PIXEL "
 image: ""
 ---
-| Title | ARVR Webinar: Evolution of Digital Wellness With Arvr and 5G |  |
+| Title | ARVR Webinar: Evolution of Digital Wellness With ARVR and 5G |  |
 | --- | --- | --- |
 | Date | 26 October 2022 |  |
 | Time | 2.00pm to 4.30pm |  |
