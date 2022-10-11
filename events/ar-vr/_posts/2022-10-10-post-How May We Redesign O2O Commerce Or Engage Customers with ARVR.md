@@ -3,11 +3,11 @@ title: How May We Redesign O2O Commerce Or Engage Customers with ARVR?
 permalink: https://imda-pixel.sg/event/363/
 date: 2022-10-26
 layout: post
-description: ""
+description:
 ---
 ![Alt text for image on Isomer site](/images/immersive-experiences/ARVR-26Oct.jpg)
 
-| Title | ARVR Webinar: Evolution of Digital Wellness With Arvr and 5G | |
+| Title | ARVR Webinar: Evolution of Digital Wellness With Arvr and 5G ||
 | -------- | -------- | --------| 
 | Date  | 26 October 2022  | 
 | Time  | 2.00pm to 4.30pm  |
