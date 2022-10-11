@@ -40,3 +40,4 @@ A multi-disciplinary hands-on Creative Engineer on a mission to craft an inclusi
 **William Surya, Assoc. Design Director at Aleph**
 
 A passionate problem-solver at  heart—connecting the design thinking mindset to the creative strategy, team operations and experience delivery one pixel at a time.
+
