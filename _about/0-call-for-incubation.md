@@ -20,8 +20,9 @@ Apply for incubation in our complimentary co-working space or project suites [he
 
 
 ![](/images/facilities/level2-1.jpeg)
+
 ![](/images/facilities/Level2-2.jpeg)
+
 ![](/images/facilities/Level2-3.jpeg)
 
-![](/images/facilities/facilities.png)
 
