@@ -1,12 +1,9 @@
 ---
-title: How May We Redesign O2O Commerce Or Engage Customers with ARVR
-permalink: /events/ar-vr/how-may-we-redesign-O2O-commerce-with-ARVR/
-date: 2022-10-10
+title: How May We Redesign O2O Commerce Or Engage Customers with ARVR?
+permalink: https://imda-pixel.sg/event/363/
+date: 2022-10-26
 layout: post
-description: "Join us for a complimentary ARVR webinar organised by IMDA PIXEL
-  as we explore how to redesign online-to-offline commerce or  engage customers
-  with AR and VR. "
-image: ""
+description:
 ---
 ![Alt text for image on Isomer site](/images/immersive-experiences/ARVR-26Oct.jpg)
 
