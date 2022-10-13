@@ -1,9 +1,12 @@
 ---
 title: Circular Venture Design
+permalink: /events/design-thinking/permalink/
+date: 2022-10-13
 permalink: https://imda-pixel.sg/event/368
 date: 2022-20-20
 layout: post
 description: ""
+image: ""
 ---
 ![Alt text for image on Isomer site](/images/design-thinking/20octdt.jpg)
 
