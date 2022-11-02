@@ -10,24 +10,15 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Incubate and Innovate with PIXEL
+      title: Innovate with PIXEL
       subtitle: Get updates on PIXEL’s latest initiatives and events here!
       button: Join our Mailing List
       url: https://form.gov.sg/#!/5f6327d424978a001130835c
       background: /images/pixel banner.png
   - infobar:
       title: Welcome To PIXEL!
-      description: <p style="line-height:1;">PIXEL is an incubation and innovation
-        space by Singapore’s Infocomm Media Development Authority. It is focused
-        on the tech areas of <strong>AI, Augmented Reality/Virtual Reality, the
-        Internet of Things and Robotics</strong>, and <strong>early-stage
-        start-ups</strong>. It is designed for digital tech, media and content
-        creators to ideate, experiment and build customer-centric digital
-        experiences.</p><br><p style="line-height:1;">PIXEL is located in
-        Singapore’s One-North innovation district and brings together Infocomm
-        and Media startups, corporates, government, ecosystem partners and
-        global players. We catalyse the Infocomm and Media start-up communities
-        and expand their opportunities for growth.</p>
+      description: We are IMDA’s innovation hub for Corporates and Startups with
+        co-working facilities, programmes and networks
       button: <h5>Learn more</h5>
       url: /faq/
   - resources:
