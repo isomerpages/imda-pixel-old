@@ -10,7 +10,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Incubate and Innovate with PIXEL
+      title: Innovate with PIXEL
       subtitle: Get updates on PIXEL’s latest initiatives and events here!
       button: Join our Mailing List
       url: https://form.gov.sg/#!/5f6327d424978a001130835c
