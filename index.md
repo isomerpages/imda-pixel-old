@@ -20,7 +20,7 @@ sections:
       description: We are IMDA’s innovation hub for Corporates and Startups with
         co-working facilities, programmes and networks
       button: <h5>Learn more</h5>
-      url: /faq/
+      url: /facilities/
   - resources:
       title: Complimentary Workshop
       button: View all events
