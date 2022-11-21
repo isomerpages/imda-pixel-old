@@ -1,6 +1,6 @@
 ---
 title: Infographics in Digital Storytelling
-permalink: https://imda-pixel.sg/event/354
+permalink: https://imda-pixel.sg/event/354/
 date: 2022-09-29
 layout: post
 description: ""
