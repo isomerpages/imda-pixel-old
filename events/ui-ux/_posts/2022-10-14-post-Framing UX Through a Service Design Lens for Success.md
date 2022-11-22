@@ -1,11 +1,10 @@
 ---
-title: "Framing UX Through a Service Design Lens for Success"
-permalink: https://imda-pixel.sg/event/369
+title: Framing UX Through a Service Design Lens for Success
+permalink: https://imda-pixel.sg/event/369/
 date: 2022-10-27
 layout: post
 description: ""
 ---
-
 ![Alt text for image on Isomer site](/images/ui-ux/uiuxoct.jpg)
 
 | Title | UIUX Workshop: Framing UX Through a Service Design Lens for Success | | 
