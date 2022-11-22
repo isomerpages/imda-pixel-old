@@ -1,11 +1,10 @@
 ---
-title: "The User Experience of Artificial Intelligence"
-permalink: https://imda-pixel.sg/event/357
+title: The User Experience of Artificial Intelligence
+permalink: https://imda-pixel.sg/event/357/
 date: 2022-09-21
 layout: post
 description: ""
 ---
-
 ![Alt text for image on Isomer site](/images/ui-ux/uiuxsep.png)
 
 | Title | UIUX Workshop: The User Experience of Artificial Intelligence | | 
